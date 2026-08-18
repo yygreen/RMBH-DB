@@ -1,0 +1,4015 @@
+{
+  "lastChecked": "2026-08-04",
+  "source": "CMS primary keywords (Joseph 2026-06-17) graded vs live Search Console (90d), matched per page",
+  "total": 500,
+  "counts": {
+    "p3to5": 7,
+    "page1": 26,
+    "none": 446,
+    "top3": 12,
+    "deep": 1,
+    "page2": 8
+  },
+  "rows": [
+    {
+      "row": "2",
+      "keyword": "rabbi meir baal haness",
+      "position": 26.1,
+      "impressions": 39,
+      "clicks": 0,
+      "matched": "exact"
+    },
+    {
+      "row": "3",
+      "keyword": "rabbi meir's torah teachings & wisdom",
+      "position": 6.6,
+      "impressions": 46,
+      "clicks": 1,
+      "matched": "page"
+    },
+    {
+      "row": "4",
+      "keyword": "five sages who rebuilt judaism",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "5",
+      "keyword": "why rabbi meir's reasoning was too deep",
+      "position": 4.8,
+      "impressions": 8,
+      "clicks": 0,
+      "matched": "page"
+    },
+    {
+      "row": "6",
+      "keyword": "mishnah compilation & rabbi meir's role",
+      "position": 45,
+      "impressions": 3,
+      "clicks": 0,
+      "matched": "partial"
+    },
+    {
+      "row": "7",
+      "keyword": "rabbi akiva vs. ishmael",
+      "position": 2,
+      "impressions": 1,
+      "clicks": 0,
+      "matched": "top-query"
+    },
+    {
+      "row": "8",
+      "keyword": "why rabbi meir's rulings were rejected",
+      "position": 5.2,
+      "impressions": 6,
+      "clicks": 0,
+      "matched": "page"
+    },
+    {
+      "row": "9",
+      "keyword": "beraitot of rabbi meir",
+      "position": 1.8,
+      "impressions": 70,
+      "clicks": 1,
+      "matched": "partial"
+    },
+    {
+      "row": "10",
+      "keyword": "mishnah linguistics & rabbi meir's style",
+      "position": 9.3,
+      "impressions": 7,
+      "clicks": 0,
+      "matched": "page"
+    },
+    {
+      "row": "11",
+      "keyword": "tosefta",
+      "position": 2,
+      "impressions": 6,
+      "clicks": 0,
+      "matched": "exact"
+    },
+    {
+      "row": "12",
+      "keyword": "yerushalmi vs. bavli",
+      "position": 1,
+      "impressions": 1,
+      "clicks": 0,
+      "matched": "top-query"
+    },
+    {
+      "row": "13",
+      "keyword": "midrash of rabbi meir",
+      "position": 20.8,
+      "impressions": 12,
+      "clicks": 0,
+      "matched": "partial"
+    },
+    {
+      "row": "14",
+      "keyword": "sifra & sifrei",
+      "position": 8.5,
+      "impressions": 69,
+      "clicks": 0,
+      "matched": "partial"
+    },
+    {
+      "row": "15",
+      "keyword": "dialectical reasoning in the talmud",
+      "position": 5.5,
+      "impressions": 143,
+      "clicks": 0,
+      "matched": "page"
+    },
+    {
+      "row": "16",
+      "keyword": "leading without recognition in torah",
+      "position": 66,
+      "impressions": 1,
+      "clicks": 0,
+      "matched": "top-query"
+    },
+    {
+      "row": "17",
+      "keyword": "rabbi meir's teachers & students",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "18",
+      "keyword": "chain of semicha",
+      "position": 10.9,
+      "impressions": 14,
+      "clicks": 0,
+      "matched": "partial"
+    },
+    {
+      "row": "19",
+      "keyword": "students of rabbi meir",
+      "position": 3,
+      "impressions": 1,
+      "clicks": 0,
+      "matched": "page"
+    },
+    {
+      "row": "20",
+      "keyword": "rabbis in the south",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "21",
+      "keyword": "eat the fruit, discard the peel",
+      "position": 5,
+      "impressions": 4,
+      "clicks": 1,
+      "matched": "page"
+    },
+    {
+      "row": "22",
+      "keyword": "rabbi chanina ben teradion",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "23",
+      "keyword": "rabbi meir vs. rabbi yehuda debates",
+      "position": 6,
+      "impressions": 2,
+      "clicks": 0,
+      "matched": "page"
+    },
+    {
+      "row": "24",
+      "keyword": "who were rabbi meir's teachers",
+      "position": 7,
+      "impressions": 1,
+      "clicks": 0,
+      "matched": "page"
+    },
+    {
+      "row": "25",
+      "keyword": "rabban gamliel deposed",
+      "position": 11,
+      "impressions": 1,
+      "clicks": 0,
+      "matched": "partial"
+    },
+    {
+      "row": "26",
+      "keyword": "rabbi yehuda ben bava",
+      "position": 4.5,
+      "impressions": 13,
+      "clicks": 0,
+      "matched": "page"
+    },
+    {
+      "row": "27",
+      "keyword": "rabbi meir and beruriah",
+      "position": 1,
+      "impressions": 9,
+      "clicks": 0,
+      "matched": "partial"
+    },
+    {
+      "row": "28",
+      "keyword": "rabbi nassan and the sanhedrin",
+      "position": 7.5,
+      "impressions": 2,
+      "clicks": 0,
+      "matched": "page"
+    },
+    {
+      "row": "29",
+      "keyword": "rabban shimon ben gamliel ii",
+      "position": 2.8,
+      "impressions": 5,
+      "clicks": 0,
+      "matched": "page"
+    },
+    {
+      "row": "30",
+      "keyword": "talmudic debates",
+      "position": 15.7,
+      "impressions": 3,
+      "clicks": 0,
+      "matched": "page"
+    },
+    {
+      "row": "31",
+      "keyword": "generations of tannaim",
+      "position": 9.4,
+      "impressions": 5,
+      "clicks": 0,
+      "matched": "partial"
+    },
+    {
+      "row": "32",
+      "keyword": "rabbi meir's talmudic methodology",
+      "position": 1,
+      "impressions": 4,
+      "clicks": 0,
+      "matched": "partial"
+    },
+    {
+      "row": "33",
+      "keyword": "guide to the talmudic sages",
+      "position": 8.3,
+      "impressions": 3,
+      "clicks": 0,
+      "matched": "partial"
+    },
+    {
+      "row": "34",
+      "keyword": "segulos & miracles of rabbi meir",
+      "position": 6,
+      "impressions": 21,
+      "clicks": 0,
+      "matched": "partial"
+    },
+    {
+      "row": "35",
+      "keyword": "acher's redemption",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "36",
+      "keyword": "jewish names and their meanings",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "37",
+      "keyword": "second chances in judaism",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "38",
+      "keyword": "how does a segulah work",
+      "position": 12.1,
+      "impressions": 10,
+      "clicks": 0,
+      "matched": "page"
+    },
+    {
+      "row": "39",
+      "keyword": "rabbi meir's promise",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "40",
+      "keyword": "eloka d'meir aneini",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "41",
+      "keyword": "heavenly advocacy",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "42",
+      "keyword": "power of names in kabbalah",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "43",
+      "keyword": "rabbi meir baal haness biography",
+      "position": 28.6,
+      "impressions": 14,
+      "clicks": 0,
+      "matched": "exact"
+    },
+    {
+      "row": "44",
+      "keyword": "rabbi meir's sanhedrin trail",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "45",
+      "keyword": "rabbi meir the scribe",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "46",
+      "keyword": "rabbi meir profession",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "47",
+      "keyword": "destruction of the second temple",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "48",
+      "keyword": "death of rabbi meir baal haness",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "49",
+      "keyword": "rabbi meir's legacy through time",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "50",
+      "keyword": "rabbi meir's mishnah citations",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "51",
+      "keyword": "pesach sheni",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "52",
+      "keyword": "rabbi meir's influence on jewish life",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "53",
+      "keyword": "jewish calendar calculations",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "54",
+      "keyword": "jewish regional customs",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "55",
+      "keyword": "why is he called baal haness",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "56",
+      "keyword": "deathbed teshuvah",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "57",
+      "keyword": "how to pronounce meir",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "58",
+      "keyword": "rabbi meir",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "59",
+      "keyword": "ottoman jewish sites in eretz yisroel",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "60",
+      "keyword": "british mandate palestine",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "61",
+      "keyword": "1837 tiberias earthquake",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "62",
+      "keyword": "galilee torah center",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "63",
+      "keyword": "tomb of rabbi meir baal haness",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "64",
+      "keyword": "tiberias jewish history",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "65",
+      "keyword": "how to visit the tomb of rabbi meir baal haness",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "66",
+      "keyword": "cairo genizah",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "67",
+      "keyword": "medieval jewish manuscripts",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "68",
+      "keyword": "first printed mishnah",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "69",
+      "keyword": "rashi on rabbi meir",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "70",
+      "keyword": "meiri on rabbi meir",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "71",
+      "keyword": "ancient jewish coins",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "72",
+      "keyword": "ancient jewish inscriptions",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "73",
+      "keyword": "roman persecution of jews",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "74",
+      "keyword": "roman jewish relationships",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "75",
+      "keyword": "hadrian's persecution of the jews",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "76",
+      "keyword": "ten martyrs",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "77",
+      "keyword": "torah study under persecution",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "78",
+      "keyword": "synod of usha",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "79",
+      "keyword": "bar kokhba revolt",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "80",
+      "keyword": "ancient tiberias",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "81",
+      "keyword": "roman governors of judea",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "82",
+      "keyword": "jewish women's spiritual practices",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "83",
+      "keyword": "techinot",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "84",
+      "keyword": "women in judaism & the three women's mitzvot",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "85",
+      "keyword": "hafrashat challah",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "86",
+      "keyword": "rosh chodesh women",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "87",
+      "keyword": "mikvah meaning",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "88",
+      "keyword": "prayer of chana",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "89",
+      "keyword": "tzedakah",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "90",
+      "keyword": "what is tzedakah? the torah's mitzvah of giving",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "91",
+      "keyword": "8 levels of tzedakah",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "92",
+      "keyword": "giving maaser from your success",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "93",
+      "keyword": "how segulos work",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "94",
+      "keyword": "meaning of chai (18) in tzedakah",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "95",
+      "keyword": "help poor families in israel",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "96",
+      "keyword": "pidyon shvuyim",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "97",
+      "keyword": "tzedakah before candle lighting",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "98",
+      "keyword": "seudos hoshea ben be'eri",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "99",
+      "keyword": "prophet hosea (hoshea ben be'eri) in jewish tradition",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "100",
+      "keyword": "sponsor a meal for torah scholars",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "101",
+      "keyword": "parnassah",
+      "position": 4.6,
+      "impressions": 612,
+      "clicks": 7,
+      "matched": "exact"
+    },
+    {
+      "row": "102",
+      "keyword": "parnassah guides & segulos",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "103",
+      "keyword": "prayer for parnassah b'kavod",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "104",
+      "keyword": "prayer for financial clarity",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "105",
+      "keyword": "prayer for parnassah",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "106",
+      "keyword": "prayer for livelihood",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "107",
+      "keyword": "prayer for success",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "108",
+      "keyword": "prayer for wealth & prosperity",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "109",
+      "keyword": "prayer for luck",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "110",
+      "keyword": "prayer during financial crisis",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "111",
+      "keyword": "prayer when bills cannot be paid",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "112",
+      "keyword": "prayer for debt relief",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "113",
+      "keyword": "prayer for loan approval",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "114",
+      "keyword": "prayer for rent help",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "115",
+      "keyword": "prayer for mortgage stress",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "116",
+      "keyword": "prayer after financial loss",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "117",
+      "keyword": "prayer when income suddenly stops",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "118",
+      "keyword": "prayer to restore lost financial stability",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "119",
+      "keyword": "prayer for employment",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "121",
+      "keyword": "prayer to find a job",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "122",
+      "keyword": "prayer for job interview",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "123",
+      "keyword": "prayer for career change",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "124",
+      "keyword": "prayer when facing job loss",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "125",
+      "keyword": "prayer for workplace peace",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "126",
+      "keyword": "prayer for difficult boss",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "127",
+      "keyword": "prayer for teachers",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "128",
+      "keyword": "prayer for business",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "129",
+      "keyword": "prayer for new business",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "130",
+      "keyword": "prayer before business meeting",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "131",
+      "keyword": "prayer when your business is collapsing",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "132",
+      "keyword": "prayer for professional success with integrity",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "133",
+      "keyword": "prayer when clients disappear",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "134",
+      "keyword": "prayer before starting commerce or trade",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "135",
+      "keyword": "prayer for success in selling merchandise",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "136",
+      "keyword": "ethical business practices in judaism",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "137",
+      "keyword": "refuah sheleima",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "138",
+      "keyword": "segulos for refuah",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "139",
+      "keyword": "jewish healing prayers",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "140",
+      "keyword": "bikur cholim",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "141",
+      "keyword": "asher yatzar - the hidden healing prayer",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "142",
+      "keyword": "short prayer for healing",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "143",
+      "keyword": "mi shebeirach",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "144",
+      "keyword": "prayer for sick husband",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "145",
+      "keyword": "prayer for sick mother",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "146",
+      "keyword": "prayer for sick child",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "147",
+      "keyword": "prayer for sick and dying",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "148",
+      "keyword": "prayer for terminal illness",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "149",
+      "keyword": "prayer before surgery",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "150",
+      "keyword": "prayer for healing after surgery",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "151",
+      "keyword": "prayer before medical test",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "152",
+      "keyword": "prayer for good test results",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "153",
+      "keyword": "prayer while waiting for diagnosis",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "154",
+      "keyword": "prayer in hospital",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "155",
+      "keyword": "prayer for doctors",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "156",
+      "keyword": "prayer for recovery after medical fear",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "157",
+      "keyword": "prayer for chronic illness",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "158",
+      "keyword": "prayer when doctors have no answers",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "159",
+      "keyword": "prayer when illness has no diagnosis",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "160",
+      "keyword": "prayer for caregiver strength",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "161",
+      "keyword": "prayer for someone in a coma",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "162",
+      "keyword": "prayer for weight loss",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "163",
+      "keyword": "jewish prayers for mental health",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "164",
+      "keyword": "prayer for mental healing",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "165",
+      "keyword": "prayer for emotional healing",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "166",
+      "keyword": "prayer for addiction recovery",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "167",
+      "keyword": "prayer for depression",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "168",
+      "keyword": "prayer for despair",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "169",
+      "keyword": "prayer for anxiety",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "170",
+      "keyword": "prayer for anxiety attack",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "171",
+      "keyword": "prayer for panic attacks",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "172",
+      "keyword": "prayer for burnout",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "173",
+      "keyword": "prayer for exhaustion",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "174",
+      "keyword": "prayer when overwhelmed",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "175",
+      "keyword": "prayer for loneliness at night",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "176",
+      "keyword": "fertility prayers & segulos",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "177",
+      "keyword": "prayer for fertility",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "178",
+      "keyword": "nishmat kol chai 40 days segulah",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "179",
+      "keyword": "shiluach hakan segulah",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "180",
+      "keyword": "healing prayers for the body",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "181",
+      "keyword": "prayer for eye pain",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "182",
+      "keyword": "prayer for ear pain",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "183",
+      "keyword": "prayer for kidney illness",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "184",
+      "keyword": "prayer for weakness of the body",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "185",
+      "keyword": "prayer for unexplained physical pain",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "186",
+      "keyword": "jewish protection prayers",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "187",
+      "keyword": "protection prayers",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "188",
+      "keyword": "prayer for safety",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "189",
+      "keyword": "prayer for protection from evil",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "190",
+      "keyword": "prayer for home protection",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "191",
+      "keyword": "prayer for protection from unseen danger",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "192",
+      "keyword": "tefilat haderech",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "193",
+      "keyword": "prayer for flight anxiety",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "194",
+      "keyword": "prayer before dangerous work",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "195",
+      "keyword": "prayer before entering a dangerous situation",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "196",
+      "keyword": "prayer in times of crisis",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "197",
+      "keyword": "emergency jewish prayer",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "198",
+      "keyword": "prayer when afraid",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "199",
+      "keyword": "prayer against fear",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "200",
+      "keyword": "prayer for sudden fear at night",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "201",
+      "keyword": "prayer during natural disaster",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "202",
+      "keyword": "prayer after tragedy",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "203",
+      "keyword": "prayer after bad news",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "204",
+      "keyword": "prayer when enemies plot secretly",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "205",
+      "keyword": "prayer when feeling spiritually attacked",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "206",
+      "keyword": "prayer when neighbors cause distress",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "207",
+      "keyword": "family & wartime safety",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "208",
+      "keyword": "prayer for family protection",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "209",
+      "keyword": "prayer for safety during war",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "210",
+      "keyword": "prayer during war",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "211",
+      "keyword": "prayer during terror attack",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "212",
+      "keyword": "lifecycle & milestones",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "213",
+      "keyword": "pregnancy & childbirth",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "214",
+      "keyword": "prayer during high-risk pregnancy",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "215",
+      "keyword": "prayer for women not to lose a pregnancy",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "216",
+      "keyword": "prayer after miscarriage",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "217",
+      "keyword": "prayer for safe childbirth",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "218",
+      "keyword": "prayer during difficult labor",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "219",
+      "keyword": "pesichah",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "220",
+      "keyword": "melaveh malkah segulah for birth",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "221",
+      "keyword": "prayer after childbirth",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "222",
+      "keyword": "prayer for new baby",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "223",
+      "keyword": "prayer for nursing mothers",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "224",
+      "keyword": "prayer for postpartum healing",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "225",
+      "keyword": "birthdays, coming of age & milestones",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "226",
+      "keyword": "jewish birthday traditions",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "227",
+      "keyword": "prayer before brit milah",
+      "position": 9.9,
+      "impressions": 96,
+      "clicks": 0,
+      "matched": "top-query"
+    },
+    {
+      "row": "228",
+      "keyword": "pidyon haben",
+      "position": 10.1,
+      "impressions": 2485,
+      "clicks": 12,
+      "matched": "exact"
+    },
+    {
+      "row": "229",
+      "keyword": "prayer for retirement",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "230",
+      "keyword": "chanukat habayit",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "231",
+      "keyword": "mezuzah",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "232",
+      "keyword": "new home",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "233",
+      "keyword": "prayer for finding a home",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "234",
+      "keyword": "segulah for apartment hunting",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "235",
+      "keyword": "prayer when housing feels unstable",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "236",
+      "keyword": "prayer before moving homes",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "237",
+      "keyword": "daily prayers & liturgy",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "238",
+      "keyword": "amidah (shemoneh esrei)",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "239",
+      "keyword": "understanding the amidah",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "240",
+      "keyword": "shacharis shemoneh esrei",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "241",
+      "keyword": "mincha",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "242",
+      "keyword": "maariv",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "243",
+      "keyword": "morning prayers (shacharit)",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "244",
+      "keyword": "modeh ani",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "245",
+      "keyword": "elokai neshama",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "246",
+      "keyword": "birkat hatorah",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "247",
+      "keyword": "birchos hashachar",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "248",
+      "keyword": "blessing for tallit",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "249",
+      "keyword": "tefillin blessings",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "250",
+      "keyword": "krias shema",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "251",
+      "keyword": "bedtime & nighttime prayers",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "252",
+      "keyword": "krias shema al hamitah",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "253",
+      "keyword": "hamapil",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "254",
+      "keyword": "prayer for protection at night",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "255",
+      "keyword": "tikkun chatzos",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "256",
+      "keyword": "brachos (blessings)",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "257",
+      "keyword": "blessings before eating",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "258",
+      "keyword": "hamotzi",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "259",
+      "keyword": "mezonot",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "260",
+      "keyword": "borei pri hagafen",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "261",
+      "keyword": "borei pri ha'etz",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "262",
+      "keyword": "borei pri ha'adamah",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "263",
+      "keyword": "shehakol",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "264",
+      "keyword": "blessings after eating",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "265",
+      "keyword": "birkat hamazon",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "266",
+      "keyword": "al hamichya",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "267",
+      "keyword": "borei nefashot",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "268",
+      "keyword": "special occasion & nature blessings",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "269",
+      "keyword": "shehecheyanu",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "270",
+      "keyword": "birkat hagomel",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "271",
+      "keyword": "prayer of thanks after a miracle",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "272",
+      "keyword": "prayer of gratitude after healing",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "273",
+      "keyword": "prayer after safe return",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "274",
+      "keyword": "blessing for a rainbow",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "275",
+      "keyword": "blessings for thunder & lightning",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "276",
+      "keyword": "birkas hailanos",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "277",
+      "keyword": "birkas hachama",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "278",
+      "keyword": "mah rabu maasecha hashem",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "279",
+      "keyword": "prayer for sea",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "280",
+      "keyword": "baruch dayan haemet",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "281",
+      "keyword": "tevilas keilim",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "282",
+      "keyword": "havdalah spices",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "283",
+      "keyword": "shabbat",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "284",
+      "keyword": "shabbat candle lighting",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "285",
+      "keyword": "shabbat candle lighting blessing",
+      "position": 6.6,
+      "impressions": 12,
+      "clicks": 0,
+      "matched": "top-query"
+    },
+    {
+      "row": "286",
+      "keyword": "prayer after lighting shabbos candles",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "287",
+      "keyword": "kabbalat shabbat & meals",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "288",
+      "keyword": "l'cha dodi",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "289",
+      "keyword": "shalom aleichem",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "290",
+      "keyword": "eshet chayil",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "291",
+      "keyword": "birkat habanim",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "292",
+      "keyword": "three shabbos meals",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "293",
+      "keyword": "nishmat kol chai",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "294",
+      "keyword": "end of shabbat",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "295",
+      "keyword": "havdalah",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "296",
+      "keyword": "melaveh malkah",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "297",
+      "keyword": "jewish holidays",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "298",
+      "keyword": "high holiday prayers",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "299",
+      "keyword": "tashlich prayer",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "300",
+      "keyword": "rosh hashana prayers",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "301",
+      "keyword": "avinu malkeinu",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "302",
+      "keyword": "unetaneh tokef",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "303",
+      "keyword": "blessing for the shofar",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "304",
+      "keyword": "selichot",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "305",
+      "keyword": "yom kippur prayers",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "306",
+      "keyword": "kapparos meaning",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "307",
+      "keyword": "kol nidrei",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "308",
+      "keyword": "neilah",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "309",
+      "keyword": "sukkot",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "310",
+      "keyword": "sukkot prayers",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "311",
+      "keyword": "ushpizin",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "312",
+      "keyword": "hoshana rabbah",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "313",
+      "keyword": "chanukah",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "314",
+      "keyword": "chanukah candle lighting blessings",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "315",
+      "keyword": "maoz tzur",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "316",
+      "keyword": "purim",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "317",
+      "keyword": "megillat esther",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "318",
+      "keyword": "matanos l'evyonim",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "319",
+      "keyword": "passover",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "320",
+      "keyword": "passover seder prayers",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "321",
+      "keyword": "mah nishtana",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "322",
+      "keyword": "other holidays & special days",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "323",
+      "keyword": "birkat hachodesh",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "324",
+      "keyword": "birkat halevana",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "325",
+      "keyword": "hallel",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "326",
+      "keyword": "birkat kohanim",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "327",
+      "keyword": "jewish fast days",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "328",
+      "keyword": "shiva asar b'tammuz",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "329",
+      "keyword": "three weeks",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "330",
+      "keyword": "nine days",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "331",
+      "keyword": "tisha b'av",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "332",
+      "keyword": "tzom gedaliah",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "333",
+      "keyword": "asarah b'teves",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "334",
+      "keyword": "taanis esther",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "335",
+      "keyword": "shavuos",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "336",
+      "keyword": "megillas rus",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "337",
+      "keyword": "akdamus",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "338",
+      "keyword": "aseres hadibros",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "339",
+      "keyword": "tikkun leil shavuos",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "340",
+      "keyword": "end of life, mourning & remembrance",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "341",
+      "keyword": "memorial services & kaddish",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "342",
+      "keyword": "kaddish meaning",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "343",
+      "keyword": "why do you say kaddish for eleven months – rmbh charities",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "344",
+      "keyword": "mourner's kaddish",
+      "position": 49.9,
+      "impressions": 37,
+      "clicks": 0,
+      "matched": "exact"
+    },
+    {
+      "row": "345",
+      "keyword": "kel malei rachamim prayer",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "346",
+      "keyword": "shiva during holidays",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "347",
+      "keyword": "memorial donation guide",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "348",
+      "keyword": "shiva etiquette guide",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "349",
+      "keyword": "living memorials",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "350",
+      "keyword": "death & funeral traditions",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "351",
+      "keyword": "mourning periods & yahrzeit",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "352",
+      "keyword": "prayer for grief and sadness",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "353",
+      "keyword": "family prayers",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "354",
+      "keyword": "prayer for family in crisis",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "355",
+      "keyword": "prayer for parents",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "356",
+      "keyword": "prayer for father",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "357",
+      "keyword": "prayer for mother",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "358",
+      "keyword": "prayer for husband",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "359",
+      "keyword": "prayer for my son",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "360",
+      "keyword": "prayer for daughter",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "361",
+      "keyword": "prayer for struggling child",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "362",
+      "keyword": "prayer for your child's success",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "364",
+      "keyword": "prayer for child anxiety",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "365",
+      "keyword": "prayer for child with special needs",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "366",
+      "keyword": "prayer for child struggling in school",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "367",
+      "keyword": "prayer for teenage rebellion",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "368",
+      "keyword": "prayer for your child's friends",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "369",
+      "keyword": "prayer for your child's future",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "370",
+      "keyword": "prayer for fathers over their children",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "371",
+      "keyword": "prayer for raising children with strength",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "372",
+      "keyword": "prayer for estranged family",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "373",
+      "keyword": "prayer for family unity",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "374",
+      "keyword": "prayer to gladden family members",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "375",
+      "keyword": "prayer for peace after family conflict",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "376",
+      "keyword": "prayer when family morale is low",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "377",
+      "keyword": "prayer for peace inside the home",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "378",
+      "keyword": "prayer for emotional calm in the household",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "379",
+      "keyword": "tehillim (psalms)",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "380",
+      "keyword": "king david",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "381",
+      "keyword": "tehillim guide",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "382",
+      "keyword": "tehillim hachida",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "383",
+      "keyword": "how to say tehillim properly",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "384",
+      "keyword": "tehillim 119 by name",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "385",
+      "keyword": "completing the entire sefer tehillim",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "386",
+      "keyword": "tikkun haklali",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "387",
+      "keyword": "combining tehillim with tzedakah",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "388",
+      "keyword": "marriage & relationships",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "389",
+      "keyword": "sheva brachos",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "390",
+      "keyword": "prayer for wedding",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "391",
+      "keyword": "jewish view of marriage",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "392",
+      "keyword": "prayer for shalom bayit",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "394",
+      "keyword": "prayer for patience with a spouse",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "395",
+      "keyword": "prayer for forgiveness in marriage",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "396",
+      "keyword": "prayer during marital crisis",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "397",
+      "keyword": "prayer for reconciliation",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "398",
+      "keyword": "prayer after breakup",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "399",
+      "keyword": "healing after a jewish divorce",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "400",
+      "keyword": "israel, peace & world events",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "401",
+      "keyword": "prayers for israel & idf",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "402",
+      "keyword": "prayer for israel",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "403",
+      "keyword": "prayer for israeli soldiers",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "404",
+      "keyword": "prayer for soldiers",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "405",
+      "keyword": "prayer for hostages",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "406",
+      "keyword": "prayer for october 7",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "407",
+      "keyword": "prayers for peace & government",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "408",
+      "keyword": "prayer for peace",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "409",
+      "keyword": "prayer for jewish unity",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "410",
+      "keyword": "prayer for community healing",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "411",
+      "keyword": "prayer for america",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "412",
+      "keyword": "prayer for leaders' wisdom",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "413",
+      "keyword": "prayer for world peace",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "414",
+      "keyword": "prayer during national instability",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "415",
+      "keyword": "prayer for king",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "416",
+      "keyword": "prayer for displaced families",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "417",
+      "keyword": "prayer for refugees",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "418",
+      "keyword": "prayer for rebuilding after destruction",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "419",
+      "keyword": "middos tovos",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "420",
+      "keyword": "character & inner virtues",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "422",
+      "keyword": "prayer for courage",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "423",
+      "keyword": "prayer for torah wisdom",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "424",
+      "keyword": "prayer for guidance",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "425",
+      "keyword": "prayer for gratitude",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "426",
+      "keyword": "prayer for forgiveness",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "427",
+      "keyword": "prayer for happiness",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "428",
+      "keyword": "prayer for hope",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "429",
+      "keyword": "wisdom, purpose & decision",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "430",
+      "keyword": "prayer for self-worth",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "431",
+      "keyword": "prayer for motivation",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "432",
+      "keyword": "prayer for clarity of mind",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "433",
+      "keyword": "prayer before important decision",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "434",
+      "keyword": "prayer for choosing the right path",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "435",
+      "keyword": "prayer for memory and retention",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "436",
+      "keyword": "prayer for success in torah study",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "437",
+      "keyword": "prayer after success",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "438",
+      "keyword": "prayer for appreciation",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "439",
+      "keyword": "prayer for recognizing blessings",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "440",
+      "keyword": "endurance & patience",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "441",
+      "keyword": "prayer while waiting",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "442",
+      "keyword": "prayer when nothing is changing",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "443",
+      "keyword": "prayer for patience",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "444",
+      "keyword": "prayer during long suffering",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "445",
+      "keyword": "prayer when doors are closed",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "446",
+      "keyword": "prayer for light in darkness",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "447",
+      "keyword": "spiritual growth & emunah",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "448",
+      "keyword": "prayer for emunah",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "449",
+      "keyword": "prayer when faith feels weak",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "450",
+      "keyword": "prayer when feeling distant from hashem",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "451",
+      "keyword": "prayer during spiritual confusion",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "452",
+      "keyword": "prayer when prayers feel unanswered",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "453",
+      "keyword": "prayer for acceptance of prayers",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "454",
+      "keyword": "prayer for spiritual renewal",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "455",
+      "keyword": "prayer for removal of bad thoughts",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "456",
+      "keyword": "prayer to subdue the yetzer hara",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "457",
+      "keyword": "igeres haramban",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "458",
+      "keyword": "special prayers & segulos",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "459",
+      "keyword": "miracles & general prayers",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "460",
+      "keyword": "prayer for miracle",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "461",
+      "keyword": "prayer for help",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "462",
+      "keyword": "jewish prayer asking for something",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "463",
+      "keyword": "prayer for protection from ayin hara",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "464",
+      "keyword": "prayer to sweeten harsh judgments",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "465",
+      "keyword": "prayer for missing person",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "466",
+      "keyword": "prayer for new beginnings",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "467",
+      "keyword": "nature, weather & animals",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "468",
+      "keyword": "prayer for rain",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "469",
+      "keyword": "prayer for good weather",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "470",
+      "keyword": "prayer for pets",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "471",
+      "keyword": "prayer for animals",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "472",
+      "keyword": "legal & justice prayers",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "473",
+      "keyword": "prayer before court appearance",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "474",
+      "keyword": "prayer for justice in legal disputes",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "475",
+      "keyword": "prayer for mercy from judges",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "476",
+      "keyword": "prayer when dealing with government authorities",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "477",
+      "keyword": "prayer when facing powerful opponents",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "478",
+      "keyword": "prayer when falsely accused",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "479",
+      "keyword": "prayer for truth to be revealed",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "480",
+      "keyword": "prayer for release from unjust confinement",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "481",
+      "keyword": "educational resources & tools",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "482",
+      "keyword": "prayer tools & downloads",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "483",
+      "keyword": "jewish calendar guide",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "484",
+      "keyword": "family & learning resources",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "485",
+      "keyword": "jewish prayers for kids",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "486",
+      "keyword": "daily torah study guide",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "487",
+      "keyword": "guide to kivrei tzaddikim in israel",
+      "position": null,
+      "impressions": null,
+      "clicks": null,
+      "matched": null
+    },
+    {
+      "row": "pub1",
+      "keyword": "fox fables",
+      "position": 7.7,
+      "impressions": 3,
+      "clicks": 0,
+      "matched": "exact"
+    },
+    {
+      "row": "pub2",
+      "keyword": "three parts wisdom",
+      "position": 1.9,
+      "impressions": 58,
+      "clicks": 0,
+      "matched": "top-query"
+    },
+    {
+      "row": "pub3",
+      "keyword": "the power couples children",
+      "position": 2.3,
+      "impressions": 4,
+      "clicks": 0,
+      "matched": "top-query"
+    },
+    {
+      "row": "pub4",
+      "keyword": "meir meaning name transformation",
+      "position": 6.6,
+      "impressions": 1398,
+      "clicks": 0,
+      "matched": "partial"
+    },
+    {
+      "row": "pub5",
+      "keyword": "teshuvah meaning never too late to repent achers story",
+      "position": 30.9,
+      "impressions": 132,
+      "clicks": 0,
+      "matched": "partial"
+    },
+    {
+      "row": "pub6",
+      "keyword": "rabbi meir star student",
+      "position": 28.5,
+      "impressions": 53,
+      "clicks": 0,
+      "matched": "partial"
+    },
+    {
+      "row": "pub7",
+      "keyword": "acherim omrim others say",
+      "position": 9,
+      "impressions": 69,
+      "clicks": 2,
+      "matched": "partial"
+    },
+    {
+      "row": "pub8",
+      "keyword": "the wicked neighbors",
+      "position": 16.2,
+      "impressions": 11,
+      "clicks": 0,
+      "matched": "top-query"
+    },
+    {
+      "row": "pub9",
+      "keyword": "teradion family tree",
+      "position": 6.2,
+      "impressions": 45,
+      "clicks": 0,
+      "matched": "partial"
+    },
+    {
+      "row": "pub10",
+      "keyword": "famous converts nero conversion",
+      "position": 2.4,
+      "impressions": 144,
+      "clicks": 5,
+      "matched": "top-query"
+    },
+    {
+      "row": "pub11",
+      "keyword": "asher yatzar healing prayer",
+      "position": 11.2,
+      "impressions": 368,
+      "clicks": 3,
+      "matched": "partial"
+    },
+    {
+      "row": "pub12",
+      "keyword": "prayer for strength",
+      "position": 5,
+      "impressions": 195,
+      "clicks": 3,
+      "matched": "partial"
+    },
+    {
+      "row": "pub13",
+      "keyword": "jewish mourning period child loss",
+      "position": 2.2,
+      "impressions": 243,
+      "clicks": 0,
+      "matched": "top-query"
+    },
+    {
+      "row": "pub14",
+      "keyword": "yahrzeit candle guide when to light",
+      "position": 8.4,
+      "impressions": 216,
+      "clicks": 0,
+      "matched": "partial"
+    },
+    {
+      "row": "pub15",
+      "keyword": "first yahrzeit customs",
+      "position": 5.8,
+      "impressions": 87,
+      "clicks": 2,
+      "matched": "partial"
+    },
+    {
+      "row": "pub16",
+      "keyword": "why jews put stones on graves",
+      "position": 7.3,
+      "impressions": 24,
+      "clicks": 2,
+      "matched": "top-query"
+    },
+    {
+      "row": "pub17",
+      "keyword": "calculate yahrzeit date",
+      "position": 10.6,
+      "impressions": 29,
+      "clicks": 1,
+      "matched": "partial"
+    },
+    {
+      "row": "pub18",
+      "keyword": "jewish unveiling ceremony guide",
+      "position": 7.2,
+      "impressions": 747,
+      "clicks": 8,
+      "matched": "partial"
+    }
+  ]
+}

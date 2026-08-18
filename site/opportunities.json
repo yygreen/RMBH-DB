@@ -1,0 +1,260 @@
+{
+  "lastBuilt": "2026-08-04T04:21:14.348Z",
+  "source": "Semrush US + GSC, 2026-06-09",
+  "plan": [
+    {
+      "weeks": "Weeks 1–2",
+      "focus": "Unblock + fastest wins",
+      "items": [
+        "Resume CMS import in bulk — the #1 lever",
+        "5 page-1 quick wins (#11–12)",
+        "Deploy live + secure",
+        "Lock keyword + competitor lists"
+      ]
+    },
+    {
+      "weeks": "Weeks 3–4",
+      "focus": "Mourning & Yahrzeit hub push",
+      "items": [
+        "Build a real “Kaddish Prayer” page",
+        "Strengthen /yahrzeit/ + consolidate variants",
+        "~12k-vol cluster toward page 1"
+      ]
+    },
+    {
+      "weeks": "Weeks 5–6",
+      "focus": "Lifecycle + Shidduchim",
+      "items": [
+        "/bris/ (3 variants, one page)",
+        "/upsherin/, /pidyon-haben/",
+        "Shidduchim hub"
+      ]
+    },
+    {
+      "weeks": "Weeks 7–9",
+      "focus": "Broaden + AI authority",
+      "items": [
+        "10 new-topic pages (Goal 3)",
+        "Source-rich entity pages for AI (Goal 5)",
+        "Add native Perplexity (paid) — Google AI Search already covers the 4th engine free"
+      ]
+    },
+    {
+      "weeks": "Weeks 10–12",
+      "focus": "Compete + links + measure",
+      "items": [
+        "Charity directories + Israeli-media links",
+        "Donor-research pages",
+        "Month-3 review vs targets"
+      ]
+    }
+  ],
+  "enhanceTotalVolume": 24390,
+  "enhance": [
+    {
+      "keyword": "yahrzeit",
+      "volume": 5400,
+      "position": 22,
+      "url": "/merit-for-departed/yahrzeit/",
+      "cluster": "Mourning & Yahrzeit"
+    },
+    {
+      "keyword": "kaddish prayer",
+      "volume": 2400,
+      "position": 20,
+      "url": "(2022 PDF — build a real page)",
+      "cluster": "Mourning & Yahrzeit"
+    },
+    {
+      "keyword": "yahrzeit prayer",
+      "volume": 2400,
+      "position": 25,
+      "url": "/merit-for-departed/first-yahrzeit-customs/",
+      "cluster": "Mourning & Yahrzeit"
+    },
+    {
+      "keyword": "what is a bris",
+      "volume": 2400,
+      "position": 18,
+      "url": "/bris/",
+      "cluster": "Lifecycle"
+    },
+    {
+      "keyword": "shidduch",
+      "volume": 1300,
+      "position": 17,
+      "url": "/yeshuos/shidduchim/how-to-prepare-for-shidduch-dating/",
+      "cluster": "Shidduchim"
+    },
+    {
+      "keyword": "jewish birthday",
+      "volume": 1000,
+      "position": 11,
+      "url": "/birthday/",
+      "cluster": "Quick win"
+    },
+    {
+      "keyword": "pidyon haben",
+      "volume": 1000,
+      "position": 11,
+      "url": "/pidyon-haben/",
+      "cluster": "Quick win"
+    },
+    {
+      "keyword": "rabbi meir baal haness",
+      "volume": 880,
+      "position": 20,
+      "url": "/about/",
+      "cluster": "Rabbi Meir authority"
+    },
+    {
+      "keyword": "halachah",
+      "volume": 880,
+      "position": 17,
+      "url": "/rabbi-meir-resources/torah-teachings/three-parts-wisdom/",
+      "cluster": "Rabbi Meir authority"
+    },
+    {
+      "keyword": "parshas hamon",
+      "volume": 880,
+      "position": 18,
+      "url": "/parashas-hamon-prayer-for-parnassah/",
+      "cluster": "Parnassah & Lost objects"
+    },
+    {
+      "keyword": "why do jews put stones on graves",
+      "volume": 720,
+      "position": 17,
+      "url": "/merit-for-departed/why-jews-put-stones-on-graves/",
+      "cluster": "Mourning & Yahrzeit"
+    },
+    {
+      "keyword": "upsherin",
+      "volume": 720,
+      "position": 16,
+      "url": "/upsherin/",
+      "cluster": "Lifecycle"
+    },
+    {
+      "keyword": "teshuvah meaning",
+      "volume": 720,
+      "position": 21,
+      "url": "/rabbi-meir-resources/rabbi-meir-biography/teshuvah-meaning-never-too-late-to-repent-achers-story/",
+      "cluster": "Rabbi Meir authority"
+    },
+    {
+      "keyword": "jewish blessing for the dead",
+      "volume": 590,
+      "position": 25,
+      "url": "/legacy-giving/jewish-death-traditions/deathbed-prayers/",
+      "cluster": "Mourning & Yahrzeit"
+    },
+    {
+      "keyword": "shidduchim",
+      "volume": 590,
+      "position": 26,
+      "url": "/yeshuos/shidduchim/",
+      "cluster": "Shidduchim"
+    },
+    {
+      "keyword": "what is the prayer for lost things",
+      "volume": 590,
+      "position": 19,
+      "url": "/lost-object/",
+      "cluster": "Parnassah & Lost objects"
+    },
+    {
+      "keyword": "prayer for yizkor candle",
+      "volume": 480,
+      "position": 11,
+      "url": "/merit-for-departed/yahrzeit-candle-guide-when-to-light/",
+      "cluster": "Quick win"
+    },
+    {
+      "keyword": "when to light yahrzeit candle",
+      "volume": 480,
+      "position": 12,
+      "url": "/merit-for-departed/yahrzeit-candle-guide-when-to-light/",
+      "cluster": "Quick win"
+    },
+    {
+      "keyword": "shidduch meaning",
+      "volume": 480,
+      "position": 12,
+      "url": "/yeshuos/shidduchim/",
+      "cluster": "Quick win"
+    },
+    {
+      "keyword": "bris milah",
+      "volume": 480,
+      "position": 22,
+      "url": "/bris/",
+      "cluster": "Lifecycle"
+    }
+  ],
+  "broaden": [
+    {
+      "keyword": "donate to israel",
+      "volume": 720,
+      "hub": "Israel-impact giving",
+      "status": "720 searches/mo · new philanthropy topic · not yet ours"
+    },
+    {
+      "keyword": "maaser kesafim",
+      "volume": 30,
+      "hub": "Tzedakah & giving",
+      "status": "30 searches/mo · new philanthropy topic · not yet ours"
+    },
+    {
+      "keyword": "best jewish charity",
+      "volume": 30,
+      "hub": "Donor research",
+      "status": "30 searches/mo · new philanthropy topic · not yet ours"
+    },
+    {
+      "keyword": "matanot la'evyonim",
+      "volume": 10,
+      "hub": "Tzedakah & giving",
+      "status": "10 searches/mo · new philanthropy topic · not yet ours"
+    }
+  ],
+  "links": {
+    "gap": {
+      "rmbhRefDomains": 299,
+      "rmbhAuthority": 30,
+      "competitorRefDomains": 865,
+      "competitorAuthority": 35,
+      "competitor": "Collel Chabad"
+    },
+    "tiers": [
+      {
+        "tier": "Tier 1 — Charity directories (self-serve, high trust, also AI-authority)",
+        "targets": [
+          "guidestar.org",
+          "charitynavigator.org",
+          "justgiving.com",
+          "GreatNonprofits",
+          "Cause IQ"
+        ]
+      },
+      {
+        "tier": "Tier 2 — Jewish / Israel media (PR + list placements)",
+        "targets": [
+          "timesofisrael.com (AS 75)",
+          "jpost.com (70)",
+          "theyeshivaworld.com (61)",
+          "israelnationalnews.com (55)",
+          "jns.org (51)",
+          "hamichlol.org.il (52)"
+        ]
+      },
+      {
+        "tier": "Tier 3 — Authority / entity",
+        "targets": [
+          "Wikipedia entity page (founded 1799)",
+          "medium.com / substack.com thought-leadership"
+        ]
+      }
+    ]
+  }
+}

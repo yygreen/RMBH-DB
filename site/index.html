@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Rabbi Meir Baal Haness Charities — Live Growth Dashboard</title>
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/favicon.svg">
+<style id="__rmbh_auth_style">html,body{visibility:hidden}</style>
+<script>
+(function(){
+  var PASS = '5goals3to6months';
+  var KEY = 'rmbh_2026_auth';
+  function reveal(){
+    var s = document.getElementById('__rmbh_auth_style');
+    if (s) s.parentNode.removeChild(s);
+    var o = document.getElementById('__rmbh_pw_overlay');
+    if (o) o.parentNode.removeChild(o);
+  }
+  function showLock(){
+    var html = '<div id="__rmbh_pw_overlay" style="position:fixed;inset:0;z-index:99999;background:linear-gradient(135deg,#2B2440 0%,#4A3266 55%,#6B3A6E 100%);display:flex;align-items:center;justify-content:center;font-family:Inter,system-ui,sans-serif;visibility:visible"><form id="__rmbh_pw_form" style="background:rgba(255,255,255,0.07);border:1px solid rgba(255,255,255,0.18);border-radius:14px;padding:36px 40px;max-width:400px;width:90%;color:#fff;backdrop-filter:blur(8px)"><div style="font-size:11px;letter-spacing:0.22em;text-transform:uppercase;opacity:0.78;font-weight:600;margin-bottom:14px">Rabbi Meir Baal Haness Charities</div><h1 style="font-family:\'Crimson Pro\',Georgia,serif;font-weight:600;font-size:32px;line-height:1.1;margin:0 0 8px">Live Dashboard</h1><p style="font-size:14px;opacity:0.85;margin:0 0 22px">Enter the password Joseph shared with you.</p><input type="password" id="__rmbh_pw_input" autofocus placeholder="Password" style="width:100%;padding:12px 14px;font-size:15px;border-radius:8px;border:1px solid rgba(255,255,255,0.3);background:rgba(255,255,255,0.08);color:#fff;outline:none;font-family:inherit;box-sizing:border-box"><div id="__rmbh_pw_err" style="font-size:13px;color:#FFB6B6;margin-top:10px;min-height:18px"></div><button type="submit" style="margin-top:14px;width:100%;padding:12px;font-size:14px;font-weight:600;border-radius:8px;border:none;background:#fff;color:#5E2424;cursor:pointer;font-family:inherit">Enter</button></form></div>';
+    document.body.insertAdjacentHTML('beforeend', html);
+    var style = document.getElementById('__rmbh_auth_style');
+    if (style) style.textContent = '#__rmbh_pw_overlay{visibility:visible !important}html,body{visibility:hidden}';
+    var form = document.getElementById('__rmbh_pw_form');
+    var input = document.getElementById('__rmbh_pw_input');
+    var err = document.getElementById('__rmbh_pw_err');
+    form.addEventListener('submit', function(e){
+      e.preventDefault();
+      if (input.value === PASS) {
+        try { localStorage.setItem(KEY, PASS); } catch(e){}
+        reveal();
+      } else {
+        err.textContent = 'Wrong password.';
+        input.value = '';
+        input.focus();
+      }
+    });
+  }
+  try {
+    if (localStorage.getItem(KEY) === PASS) {
+      if (document.readyState !== 'loading') reveal();
+      else document.addEventListener('DOMContentLoaded', reveal);
+    } else {
+      if (document.readyState !== 'loading') showLock();
+      else document.addEventListener('DOMContentLoaded', showLock);
+    }
+  } catch(e) {
+    if (document.readyState !== 'loading') showLock();
+    else document.addEventListener('DOMContentLoaded', showLock);
+  }
+})();
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@400;500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+<div class="page">
+
+<nav class="topnav">
+  <a href="/proposal">Proposal</a>
+  <a class="current" href="/">Dashboard</a>
+  <a href="/keywords.html">Keyword Coverage</a>
+  <a href="/insights.html">Insights &amp; Health</a>
+  <a href="/deliverables.html">500 Deliverables</a>
+  <a href="/articles.html">Content</a>
+  <a href="/opportunities.html">Opportunities</a>
+  <a href="/methodology.html">Methodology</a>
+</nav>
+
+<section class="hero">
+  <div class="eyebrow">Rabbi Meir Baal Haness Charities · Live Growth Dashboard</div>
+  <h1>One number that matters. Tracked monthly.</h1>
+  <span class="live-pill" id="live-pill">Live · last updated <span id="last-updated">—</span></span>
+
+  <div class="north-star">
+    <div class="ns-row">
+      <div class="ns-block">
+        <div class="ns-label">North-star goal</div>
+        <div class="ns-big">+5%</div>
+        <div class="ns-sub">monthly organic traffic · month over month</div>
+      </div>
+      <div class="ns-arrow">→</div>
+      <div class="ns-block">
+        <div class="ns-label">Last 30 days</div>
+        <div class="ns-big" id="ns-baseline">—</div>
+        <div class="ns-sub" id="ns-baseline-month">— · GSC verified</div>
+      </div>
+      <div class="ns-arrow">→</div>
+      <div class="ns-block">
+        <div class="ns-label">Target by October 15</div>
+        <div class="ns-big" id="ns-target">—</div>
+        <div class="ns-sub">+5% compounded · month 4</div>
+      </div>
+      <div class="ns-arrow">→</div>
+      <div class="ns-block">
+        <div class="ns-label">Target by December 15</div>
+        <div class="ns-big" id="ns-target-6">—</div>
+        <div class="ns-sub">+5% compounded · month 6</div>
+      </div>
+    </div>
+    <div id="ns-donations" style="margin-top:16px;padding-top:14px;border-top:1px solid rgba(255,255,255,0.16);font-size:15px;color:#fff"></div>
+  </div>
+
+  <div class="meta-row">
+    <span><strong>Source</strong> Search Console + Google Analytics 4 (Property 382006145)</span>
+  </div>
+</section>
+
+<section class="kpi-strip">
+  <a href="#goal-2" class="kpi g1">
+    <div class="num">Goal 1 · Preserve</div>
+    <div class="name">Hold the rankings already won</div>
+    <div class="big" id="kpi1-big">—</div>
+    <div class="target">Goal: <strong id="kpi1-target">—</strong></div>
+    <div class="progress"><div id="kpi1-progress"></div></div>
+    <div class="status pending" id="kpi1-status">—</div>
+  </a>
+  <a href="#goal-enhance" class="kpi g2">
+    <div class="num">Goal 2 · Enhance</div>
+    <div class="name">Lift page 2 → page 1</div>
+    <div class="big" id="kpi2-big">—</div>
+    <div class="target">Goal: <strong id="kpi2-target">—</strong> on page 1</div>
+    <div class="progress"><div id="kpi2-progress"></div></div>
+    <div class="status pending" id="kpi2-status">—</div>
+  </a>
+  <a href="#goal-3" class="kpi g3">
+    <div class="num">Goal 3 · Broaden</div>
+    <div class="name">Enter the philanthropy market</div>
+    <div class="big" id="kpi3-big">—</div>
+    <div class="target">Goal: <strong id="kpi3-target">—</strong> new on page 1</div>
+    <div class="progress"><div id="kpi3-progress"></div></div>
+    <div class="status pending" id="kpi3-status">Not started</div>
+  </a>
+  <a href="#goal-4" class="kpi g4">
+    <div class="num">Goal 4 · Establish</div>
+    <div class="name">Compete with Israel charities</div>
+    <div class="big" id="kpi4-big">—</div>
+    <div class="target">Goal: <strong id="kpi4-target">—</strong> share of organic traffic</div>
+    <div class="progress"><div id="kpi4-progress"></div></div>
+    <div class="status pending" id="kpi4-status">—</div>
+  </a>
+  <a href="#goal-5" class="kpi g5">
+    <div class="num">Goal 5 · Ensure</div>
+    <div class="name">Be the AI-named entity</div>
+    <div class="big" id="kpi5-big">—</div>
+    <div class="target">Goal: <strong id="kpi5-target">—</strong> AI questions</div>
+    <div class="progress"><div id="kpi5-progress"></div></div>
+    <div class="status pending" id="kpi5-status">—</div>
+  </a>
+</section>
+
+<!-- ===================== GOAL 1 ===================== -->
+<section id="goal-1">
+  <h2>North Star · Grow visitors from Google</h2>
+  <div class="h2-sub">Total organic clicks per month, last 12 full months. Source: Google Search Console.</div>
+  <div class="panel">
+    <div class="panel-head">
+      <span class="title">Monthly visitor trend</span>
+      <span class="badge pending" id="g1-badge">—</span>
+    </div>
+    <div class="metric-grid">
+      <div class="metric">
+        <div class="label">Last full month</div>
+        <div class="value" id="g1-current">—</div>
+        <div class="delta" id="g1-current-note">organic clicks</div>
+      </div>
+      <div class="metric">
+        <div class="label" id="g1-avg-label">12-month average</div>
+        <div class="value" id="g1-avg">—</div>
+        <div class="delta">monthly trailing</div>
+      </div>
+      <div class="metric">
+        <div class="label">Peak month</div>
+        <div class="value" id="g1-peak">—</div>
+        <div class="delta" id="g1-peak-month">12-month max</div>
+      </div>
+      <div class="metric">
+        <div class="label">Target by October 15</div>
+        <div class="value target" id="g1-goal">—</div>
+        <div class="delta">+5% compounded from the Jun-15 baseline</div>
+      </div>
+      <div class="metric">
+        <div class="label">Donations (organic, last 12 full months)</div>
+        <div class="value" id="g1-don-year" style="color:#2F6B3A">—</div>
+        <div class="delta" id="g1-don-note">key actions from search</div>
+      </div>
+      <div class="metric">
+        <div class="label">Impressions (last full month)</div>
+        <div class="value" id="g1-impr">—</div>
+        <div class="delta" id="g1-impr-note">times shown in Google</div>
+      </div>
+      <div class="metric">
+        <div class="label">Avg. Google position (last full month)</div>
+        <div class="value" id="g1-position">—</div>
+        <div class="delta" id="g1-position-note">average rank across all queries</div>
+      </div>
+    </div>
+    <div class="trend-chart">
+      <div class="trend-header">
+        <span class="label" id="g1-trend-label">Last 12 months</span>
+        <div class="trend-toggle" role="tablist" aria-label="Time range">
+          <button type="button" class="active" data-view="monthly">Monthly</button>
+          <button type="button" data-view="weekly">Weekly</button>
+          <button type="button" data-view="yoy">Year-over-year</button>
+        </div>
+      </div>
+      <div class="trend-bars" id="g1-trend"></div>
+      <div class="trend-axis" id="g1-axis"></div>
+    </div>
+    <div class="note" id="g1-note"></div>
+  </div>
+</section>
+
+<!-- ===================== GOAL 2 ===================== -->
+<section id="goal-2">
+  <h2>Goal 1 · Preserve — hold the rankings you already won</h2>
+  <div class="h2-sub"><strong>The 40 priority keywords we're protecting</strong> — brand terms plus the high-intent prayer, donation and yeshuos queries the site already ranks for. The scoreboard below shows how many sit in each position band <em>versus the baseline when tracking began</em> — so at a glance you can see whether we're <strong>holding</strong>. <a href="/opportunities.html" style="color:#8B3A3A;font-weight:600">→ page-1 push list</a></div>
+  <div class="panel">
+    <div class="panel-head">
+      <span class="title">Priority keyword sample</span>
+      <span class="badge" id="g2-badge">—</span>
+    </div>
+    <div id="preserve-maintain" style="margin:4px 0 20px"></div>
+    <div class="table-wrap">
+      <table class="data">
+        <thead>
+          <tr>
+            <th>Keyword</th>
+            <th>Search volume</th>
+            <th>Semrush</th>
+            <th>Ubersuggest</th>
+            <th>GSC 90-day</th>
+          </tr>
+        </thead>
+        <tbody id="g2-tbody"></tbody>
+      </table>
+    </div>
+    <div class="note" id="g2-note"></div>
+  </div>
+</section>
+
+<!-- ===================== GOAL 2 · ENHANCE ===================== -->
+<section id="goal-enhance">
+  <h2>Goal 2 · Enhance — lift page 2 to page 1</h2>
+  <div class="h2-sub"><strong>Striking-distance keywords</strong> — the proposal's Enhance band is positions 4-20; since positions 4-10 already sit on page 1, this locked sample tracks the page-2 strikers (positions 11-20) with a real path onto page 1. We track how many reach page 1 (top 10). Tracked monthly, refreshed live from Search Console.</div>
+  <div class="panel">
+    <div class="panel-head">
+      <span class="title">Striking-distance sample</span>
+      <span class="badge" id="ge-badge">—</span>
+    </div>
+    <div class="metric-grid">
+      <div class="metric"><div class="label">Now on page 1</div><div class="value" id="ge-current">—</div><div class="delta">of the locked sample</div></div>
+      <div class="metric"><div class="label">Sample size</div><div class="value" id="ge-size">—</div><div class="delta">page-2 keywords tracked</div></div>
+      <div class="metric"><div class="label">Goal</div><div class="value target" id="ge-goal">—</div><div class="delta">on page 1 by month 6</div></div>
+      <div class="metric"><div class="label">Last checked</div><div class="value" style="font-size:18px" id="ge-checked">—</div><div class="delta">weekly cadence</div></div>
+    </div>
+    <div class="table-wrap">
+      <table class="data">
+        <thead><tr><th>Keyword</th><th id="ge-locked-head">Locked at</th><th>Now</th><th>Move</th><th>On page 1?</th></tr></thead>
+        <tbody id="ge-tbody"></tbody>
+      </table>
+    </div>
+    <div class="note" id="ge-note"></div>
+  </div>
+</section>
+
+<!-- ===================== GOAL 3 ===================== -->
+<section id="goal-3">
+  <h2>Goal 3 · Broaden — win rankings on new topics</h2>
+  <div class="h2-sub"><strong>Two ways we're broadening reach.</strong> First, the newly published articles already ranking page 1 in new topic areas (mourning &amp; remembrance, prayer, Rabbi Meir history) — territory the site didn't rank for before. Second, entering the philanthropy &amp; legacy giving market (the target terms below), each cross-checked against live Search Console and tracked monthly. <a href="/opportunities.html" style="color:#8B3A3A;font-weight:600">→ opportunity keywords</a></div>
+  <div class="panel">
+    <div class="panel-head">
+      <span class="title">New topic keyword targets</span>
+      <span class="badge pending" id="g3-badge">Not started</span>
+    </div>
+    <div class="metric-grid">
+      <div class="metric">
+        <div class="label">Newly ranked</div>
+        <div class="value" id="g3-current">—</div>
+        <div class="delta">keywords now on page 1</div>
+      </div>
+      <div class="metric">
+        <div class="label">Goal</div>
+        <div class="value target" id="g3-goal">—</div>
+        <div class="delta" id="g3-goal-note">by month 6</div>
+      </div>
+      <div class="metric">
+        <div class="label">Pass line</div>
+        <div class="value target" id="g3-pass">—</div>
+        <div class="delta">minimum to pass</div>
+      </div>
+      <div class="metric">
+        <div class="label">Topic areas</div>
+        <div class="value" style="font-size:18px" id="g3-topics-count">—</div>
+        <div class="delta">categories targeted</div>
+      </div>
+    </div>
+    <div class="table-wrap">
+      <table class="data">
+        <thead>
+          <tr>
+            <th>Target keyword</th>
+            <th>Search volume</th>
+            <th>Current position</th>
+            <th>Status</th>
+          </tr>
+        </thead>
+        <tbody id="g3-tbody"></tbody>
+      </table>
+    </div>
+    <div id="g3-wins" style="margin-top:22px"></div>
+  </div>
+</section>
+
+<!-- ===================== GOAL 4 ===================== -->
+<section id="goal-4">
+  <h2>Goal 4 · Establish — compete with leading Israel charities</h2>
+  <div class="h2-sub"><strong>Share of organic traffic</strong> across the leading Israel charities — Colel Chabad, Meir Panim, Lev LaLev, Yad Ezra, Latet and Yad Eliezer (the headline bars below). A second view compares the direct Rabbi Meir Baal Haness charities (Kupath Rabbi Meir, Rabbi Meir Baal Haneis, Reb Meir). These are Semrush organic-traffic pulls (US database, dated below) — competitors' traffic isn't available from Google's live APIs, so this is the one metric that refreshes on a Semrush pull rather than automatically. Real figures, point-in-time. <a href="/opportunities.html" style="color:#8B3A3A;font-weight:600">→ link targets</a></div>
+  <div class="panel">
+    <div class="panel-head">
+      <span class="title">Share of organic traffic — among tracked charities</span>
+      <span class="badge" id="g4-badge" style="background: rgba(176,137,64,0.14); color: #B08940;">—</span>
+    </div>
+    <div class="metric-grid">
+      <div class="metric">
+        <div class="label">RMBH share of organic traffic</div>
+        <div class="value" id="g4-rmbh-sov">—</div>
+        <div class="delta" id="g4-rmbh-rank">—</div>
+      </div>
+      <div class="metric">
+        <div class="label">Top competitor</div>
+        <div class="value" style="font-size:18px;line-height:1.2" id="g4-top-competitor">—</div>
+        <div class="delta" id="g4-top-sov">—</div>
+      </div>
+      <div class="metric">
+        <div class="label">Target share</div>
+        <div class="value target" id="g4-target-sov">—</div>
+        <div class="delta">by month 6</div>
+      </div>
+      <div class="metric">
+        <div class="label">Source</div>
+        <div class="value" style="font-size:14px;line-height:1.3">Semrush</div>
+        <div class="delta" id="g4-fetched">—</div>
+      </div>
+    </div>
+    <div class="bar-row-list" id="g4-bars"></div>
+    <div id="g4-explainer" style="margin-top:20px"></div>
+    <div class="note" id="g4-note"></div>
+  </div>
+</section>
+
+<!-- ===================== GOAL 5 ===================== -->
+<section id="goal-5">
+  <h2>Goal 5 · Ensure — be the AI-named Rabbi Meir Baal Haness entity</h2>
+  <div class="h2-sub"><strong>Sample of 20 fixed prompts</strong> (15 focused on Rabbi Meir Baal Haness, 5 on general Jewish charity) run every week against the leading AI answer engines — the same prompts each time so the trend is comparable. <strong>Benchmark snapshot: June 15, 2026.</strong> The columns below show the engines that ran this scan; any awaiting an API key are noted under the table.</div>
+  <div class="panel">
+    <div class="panel-head">
+      <span class="title">AI mention matrix</span>
+      <span class="badge pending" id="g5-badge">Baseline · 0 mentions</span>
+    </div>
+    <div class="metric-grid">
+      <div class="metric">
+        <div class="label">Questions watched</div>
+        <div class="value" id="g5-total">—</div>
+        <div class="delta" id="g5-engines-note">—</div>
+      </div>
+      <div class="metric">
+        <div class="label">Questions naming the charity</div>
+        <div class="value" id="g5-current">—</div>
+        <div class="delta">questions with ≥1 engine naming RMBH</div>
+      </div>
+      <div class="metric">
+        <div class="label">Goal</div>
+        <div class="value target" id="g5-goal">—</div>
+        <div class="delta" id="g5-goal-note">questions where ≥1 engine mentions us</div>
+      </div>
+      <div class="metric">
+        <div class="label">Last scanned</div>
+        <div class="value" style="font-size:18px" id="g5-scanned">—</div>
+        <div class="delta">weekly cadence</div>
+      </div>
+    </div>
+    <div id="g5-snapshot" style="margin:8px 0 16px"></div>
+    <div class="table-wrap">
+      <table class="ai-matrix">
+        <thead>
+          <tr>
+            <th class="q">Question</th>
+            <!-- engine columns injected by app.js — only engines actually run this scan -->
+          </tr>
+        </thead>
+        <tbody id="g5-tbody"></tbody>
+      </table>
+    </div>
+    <div id="g5-competitors" style="margin-top:16px"></div>
+    <div class="note" id="g5-note"></div>
+  </div>
+</section>
+
+<div class="foot">
+  <span>Rabbi Meir Baal Haness Charities · Live Growth Dashboard · <span id="foot-date">—</span></span>
+  <span id="freshness" style="color:var(--ink-faint)"></span>
+  <span>Rank Friendly · info@rankfriendly.com</span>
+</div>
+
+</div>
+
+<script src="/app.js"></script>
+<script src="/edits-ui.js"></script>
+</body>
+</html>

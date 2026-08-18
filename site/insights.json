@@ -1,0 +1,274 @@
+{
+  "lastBuilt": "2026-08-04T04:24:54.138Z",
+  "generated": "2026-08-04",
+  "cards": [
+    {
+      "id": "money-attribution",
+      "severity": "high",
+      "title": "Where your donations actually come from (it isn't the homepage)",
+      "headline": "/reb-meirs-guarantee/ alone drove $430,401 — while many high-traffic article pages convert $0",
+      "detail": "Donation revenue is concentrated in a few funnels. The 'Reb Meir's Guarantee' page generated $430K; meanwhile high-traffic info pages (/download-app/ 1,977 sessions, how-to-write-shidduch-resume 1,190 sessions, parashas-hamon) convert at $0. 'The homepage makes the money' is an attribution artifact — the real pattern is funnel-page vs content-page.",
+      "action": "Port the proven donate mechanics from the Guarantee/homepage funnels onto the $0 high-traffic content cluster (10,000+ sessions / 6mo). Same articles, add the donation path.",
+      "kind": "pinned",
+      "asOf": "2026-06-18"
+    },
+    {
+      "id": "mobile-converts-better",
+      "severity": "high",
+      "title": "Mobile isn't broken — it converts BETTER and drives 71% of revenue",
+      "headline": "Mobile 11.96% vs desktop 9.65% conversion; mobile = $754,440 of $1,062,050 (71%)",
+      "detail": "Any 'rebuild mobile checkout' plan would risk 71% of revenue for a non-problem. The real underperformer is DESKTOP — it ranks ~7 positions deeper (page 2) on the same terms. Page speed (LCP ~4.7s) is still worth fixing as upside, not as a checkout emergency.",
+      "action": "Drop any mobile-checkout rebuild. Attack desktop page-2 rankings instead; keep page-speed as an upside lever, not a fire.",
+      "kind": "pinned",
+      "asOf": "2026-06-18"
+    },
+    {
+      "id": "striking-distance",
+      "severity": "high",
+      "title": "175 keywords are one nudge from a click windfall (positions 4-10)",
+      "headline": "175 RMBH-owned queries rank 4-10 with sub-1% CTR — e.g. 'shidduch' 10,060 impr at #6, 'prayer for lost things' 5,548 at #5",
+      "detail": "These are pages you already own, sitting just below the click fold. A small rank gain here = a large click gain, far cheaper than new content. Prioritize donation-intent terms (prayer / branded / shidduch) over 'meaning/definition' queries that won't convert.",
+      "action": "Work the intent-weighted list top-down: internal links + on-page depth to push these from #4-10 into the top 3.",
+      "kind": "pinned",
+      "asOf": "2026-06-18"
+    },
+    {
+      "id": "channel-retention",
+      "severity": "high",
+      "title": "3-4x channel conversion gap, and returning donors convert 2x",
+      "headline": "PMax/Cross-network 23.2% vs Organic 6.4% vs Direct 7.3%; returning visitors 19.4% vs new 10.2% (34% of revenue)",
+      "detail": "Organic Social is effectively dead (3 donations/yr). Returning visitors are only 21-23% of sessions but drive 34% of revenue, concentrated in Email (33%) and Cross-network (31%). The retention channels are underexploited.",
+      "action": "Stop investing in Organic Social; grow the email list from article pages; expand retargeting/Cross-network audiences; scale PMax while watching incrementality.",
+      "kind": "pinned",
+      "asOf": "2026-06-18"
+    },
+    {
+      "id": "publish-bottleneck",
+      "severity": "high",
+      "title": "300 finished articles are written but unpublished — earning $0",
+      "headline": "12 hubs fully written but ZERO published (Refuah 48, Holidays 42, Middos 39…) = 300 ready articles, plus 98 more in proven hubs",
+      "detail": "60% of the 502-article corpus is written but not live, producing no clicks and no donations. Proven hubs (Mourning, Tehillim, Educational) already rank page-1 with siblings locked. Publishing the backlog is the cheapest growth lever available.",
+      "action": "Publish proven hubs first (Mourning → Tehillim → Educational → Lifecycles → Parnassah → Shabbat), then whole dark silos starting Refuah & Health (48, highest intent) — after the Torah-citation QA gate. Don't trickle.",
+      "table": {
+        "head": [
+          "Hub",
+          "Written",
+          "Published",
+          "Best rank"
+        ],
+        "rows": [
+          [
+            "Refuah & Health",
+            48,
+            0,
+            "—"
+          ],
+          [
+            "Jewish Holidays",
+            42,
+            0,
+            "—"
+          ],
+          [
+            "Middos Tovos",
+            39,
+            0,
+            "—"
+          ],
+          [
+            "Mourning (proven)",
+            18,
+            6,
+            "#8.6"
+          ],
+          [
+            "Tehillim (proven)",
+            11,
+            2,
+            "#6.8"
+          ]
+        ]
+      },
+      "kind": "pinned",
+      "asOf": "2026-06-18"
+    },
+    {
+      "id": "pagespeed-fixes",
+      "severity": "high",
+      "title": "Page speed — the exact one-click fixes (not just 'it's slow')",
+      "headline": "41 render-blocking resources, a 730KiB hero PNG served TWICE (1.46MB redundant), and 2 DEAD Universal Analytics tags still loading",
+      "detail": "Mobile perf 46/100, LCP ~4.7s site-wide. Named causes: render-blocking CSS/JS (Salient 90KiB, Elementor 46KiB, salient-child CSS loaded twice, font-awesome 3x, 268KiB unused CSS); the hero PNG duplicated; and two dead UA tags (UA-218956708-1, UA-89597134-1, killed Jul 2023) plus a duplicate GTM container.",
+      "action": "Theme/plugin pass (WP Rocket / Perfmatters): inline critical CSS + defer the rest & jQuery; de-dup the 730KiB PNG → WebP with preload + fetchpriority on the hero; remove both dead UA tags and consolidate to one GTM container. ~500-900ms faster, ~1.5MB lighter, site-wide.",
+      "kind": "pinned",
+      "asOf": "2026-06-18"
+    },
+    {
+      "id": "lost-object-bleed",
+      "severity": "high",
+      "title": "/lost-object/ — your single biggest converter — is bleeding clicks",
+      "headline": "−2,308 clicks (−26%, 8,767→6,459); supporting queries slipped, e.g. 'bracha for lost items' #1.3→#6.1",
+      "detail": "This one flagship page is declining while the rest of the site grows — an isolated underperformer, not a site-wide drop. It answers the 'Amar Rabbi Binyamin' prayer-for-lost-objects searches that are core to Rabbi Meir Baal Haness.",
+      "action": "P0 content refresh: full Amar Rabbi Binyamin prayer (Hebrew + transliteration + English), FAQ schema, internal links from homepage/brand pages, fresh date + 2-3 links. Worth ~2,300 of your highest-converting clicks per 6 months.",
+      "kind": "pinned",
+      "asOf": "2026-06-18"
+    },
+    {
+      "id": "brand-revenue-loss",
+      "severity": "high",
+      "title": "Slipping brand rankings carry an ~$18K price tag",
+      "headline": "Brand clicks −23% (impressions +24%); organic conversions −20%, organic revenue −21% ($85.3K→$67.1K)",
+      "detail": "RMBH is shown more but clicked less on its OWN brand terms — pushed below the top result. 'rabbi meir baal haness prayer' fell #1.1→#3.7 (−248 clicks, the single biggest loser); 'donate' #1.8→#22.7. GA4 confirms the revenue cost even though total organic sessions grew +11%.",
+      "action": "Eyeball the live SERPs for the core brand terms to see what now outranks RMBH (AI Overview vs competitor vs feature change), then reclaim #1 on the homepage + /lost-object/ and build a real /donate landing page.",
+      "kind": "pinned",
+      "asOf": "2026-06-18"
+    },
+    {
+      "id": "ai-visibility",
+      "severity": "high",
+      "title": "Rankings & visibility are soaring — but clicks are flat",
+      "headline": "Impressions +24% · avg position 9.7→7.6 · CTR 2.1%→1.6% · clicks -6%",
+      "detail": "Positions improved and impressions jumped, yet clicks barely moved — because CTR fell. That inversion (better rank, worse CTR) is the signature of Google AI Overviews / zero-click search answering informational and prayer queries directly.",
+      "action": "Win the AI-Overview citation (Goal 5), write titles/snippets that earn the click beyond the answer, and lean into intent queries (kvittel, donate) where a click is required.",
+      "table": {
+        "head": [
+          "",
+          "Last 6 mo",
+          "Prior 6 mo"
+        ],
+        "rows": [
+          [
+            "Clicks",
+            18135,
+            19210
+          ],
+          [
+            "Impressions",
+            1148496,
+            929297
+          ],
+          [
+            "CTR",
+            "1.6%",
+            "2.1%"
+          ],
+          [
+            "Avg position",
+            7.6,
+            9.7
+          ]
+        ]
+      },
+      "kind": "live"
+    },
+    {
+      "id": "ranking-watch",
+      "severity": "high",
+      "title": "Top keywords that slipped out of their rankings",
+      "headline": "10 high-value terms dropped rank — including brand, donation and lost-object queries that were #1",
+      "detail": "Compared over the last 3 full months versus the same period a year ago. These are not zero-click losses — the page actually fell in Google; the average improved overall only because new long-tail content masked these crown-term slips. This half is recoverable.",
+      "action": "Re-optimize these specific pages (freshness, internal links, content depth) to win back top 3 — prioritize the donation/brand terms first.",
+      "table": {
+        "head": [
+          "Keyword",
+          "Clicks (yr→now)",
+          "Rank move"
+        ],
+        "rows": [
+          [
+            "rabbi meir baal haness donate",
+            "93→32",
+            "1.2→11.4"
+          ],
+          [
+            "meir baal haness",
+            "67→41",
+            "2.4→6.2"
+          ],
+          [
+            "rabbi meir baal haness charity",
+            "51→25",
+            "1→7.4"
+          ],
+          [
+            "rebbe meir baal hanes",
+            "37→16",
+            "1→6.7"
+          ],
+          [
+            "rabbi meir baal haness prayer english",
+            "26→5",
+            "1.4→11.3"
+          ],
+          [
+            "rabbi meir baal haness prayer for lost items",
+            "20→4",
+            "1.1→14"
+          ],
+          [
+            "bracha for lost items",
+            "66→53",
+            "1→6.5"
+          ],
+          [
+            "rav meir baal haness",
+            "28→16",
+            "1.5→7.4"
+          ],
+          [
+            "meir baal haness charity",
+            "23→16",
+            "1→10.4"
+          ],
+          [
+            "bracha for lost objects",
+            "21→14",
+            "1→9"
+          ]
+        ]
+      },
+      "kind": "live"
+    },
+    {
+      "id": "site-health",
+      "severity": "high",
+      "title": "The site is slow — especially on mobile",
+      "headline": "Avg mobile performance 65/100 · real-user load (LCP) ~4414ms — Google's \"poor\" zone (good is <2,500ms)",
+      "detail": "Real-user LCP is uniform across pages (3567–4617ms), so this is a site-wide template problem, not page-by-page. Slow load makes users bounce before the page renders — hurting CTR, conversion (the donation pages are among the slowest), and rankings.",
+      "action": "Fix the shared template once (image/font/script loading) to lift every page. Prioritize the homepage and the kvitel/donate pages.",
+      "table": {
+        "head": [
+          "Slowest pages",
+          "Perf /100"
+        ],
+        "rows": [
+          [
+            "/kvitel-to-rabbi-meir/",
+            58
+          ],
+          [
+            "/lost-object/",
+            59
+          ],
+          [
+            "/rabbi-meir-baal-haness-donate-hachnosas-kallah/",
+            60
+          ],
+          [
+            "/tehillim-guide/",
+            63
+          ]
+        ]
+      },
+      "kind": "live"
+    },
+    {
+      "id": "speed-rank",
+      "severity": "medium",
+      "title": "Does page speed correlate with the ranking drop? (partly, yes)",
+      "headline": "Correlation r = 0.18 across 8 key pages — slower pages tended to drop, faster pages rose",
+      "detail": "This is cross-sectional (one speed snapshot, n=8) so it's suggestive, not proof. We've now started logging speed monthly so the speed-vs-ranking relationship becomes a real time series you can watch.",
+      "action": "Treat speed as a site-wide ranking & conversion headwind worth fixing; re-measure the correlation monthly as the log builds.",
+      "kind": "live"
+    }
+  ]
+}

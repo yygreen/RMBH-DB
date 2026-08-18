@@ -1,0 +1,616 @@
+{
+  "lastScanned": "2026-08-04",
+  "enginesTested": [
+    "gemini-2.5-flash",
+    "Google AI (Search)"
+  ],
+  "note": "Every AI-engine answer for each prompt, captured automatically and classified (client / ambiguous / competitor / none) so each can be read and verified. \"client\" = named Rabbi Meir Baal Haness Charities (rmbhcharities.com) with no competing org named.",
+  "history": [
+    {
+      "date": "2026-06-14",
+      "mentions": 5,
+      "total": 20,
+      "perEngine": {
+        "chatgpt": 1,
+        "claude": 0,
+        "gemini": 1,
+        "googleSearch": 5,
+        "perplexity": 0
+      }
+    },
+    {
+      "date": "2026-06-17",
+      "mentions": 2,
+      "total": 20,
+      "perEngine": {
+        "chatgpt": 0,
+        "claude": 0,
+        "gemini": 0,
+        "googleSearch": 2,
+        "perplexity": 0
+      }
+    },
+    {
+      "date": "2026-06-18",
+      "mentions": 2,
+      "total": 20,
+      "perEngine": {
+        "chatgpt": 1,
+        "claude": 0,
+        "gemini": 1,
+        "googleSearch": 0,
+        "perplexity": 0
+      }
+    },
+    {
+      "date": "2026-06-21",
+      "mentions": 2,
+      "total": 20,
+      "perEngine": {
+        "chatgpt": 1,
+        "claude": 0,
+        "gemini": 1,
+        "googleSearch": 0,
+        "perplexity": 0
+      }
+    },
+    {
+      "date": "2026-06-28",
+      "mentions": 2,
+      "total": 20,
+      "perEngine": {
+        "chatgpt": 1,
+        "claude": 0,
+        "gemini": 1,
+        "googleSearch": 0,
+        "perplexity": 0
+      }
+    },
+    {
+      "date": "2026-06-29",
+      "mentions": 3,
+      "total": 20,
+      "perEngine": {
+        "chatgpt": 1,
+        "claude": 0,
+        "gemini": 1,
+        "googleSearch": 1,
+        "perplexity": 0
+      }
+    },
+    {
+      "date": "2026-07-05",
+      "mentions": 2,
+      "total": 20,
+      "perEngine": {
+        "chatgpt": 1,
+        "claude": 0,
+        "gemini": 0,
+        "googleSearch": 1,
+        "perplexity": 0
+      }
+    },
+    {
+      "date": "2026-07-12",
+      "mentions": 1,
+      "total": 20,
+      "perEngine": {
+        "chatgpt": 1,
+        "claude": 0,
+        "gemini": 0,
+        "googleSearch": 0,
+        "perplexity": 0
+      }
+    },
+    {
+      "date": "2026-07-19",
+      "mentions": 2,
+      "total": 20,
+      "perEngine": {
+        "chatgpt": 1,
+        "claude": 0,
+        "gemini": 1,
+        "googleSearch": 1,
+        "perplexity": 0
+      }
+    },
+    {
+      "date": "2026-07-21",
+      "mentions": 2,
+      "total": 20,
+      "perEngine": {
+        "chatgpt": 0,
+        "claude": 0,
+        "gemini": 1,
+        "googleSearch": 1,
+        "perplexity": 0
+      }
+    },
+    {
+      "date": "2026-07-22",
+      "mentions": 2,
+      "total": 20,
+      "perEngine": {
+        "chatgpt": 0,
+        "claude": 0,
+        "gemini": 2,
+        "googleSearch": 1,
+        "perplexity": 0
+      }
+    },
+    {
+      "date": "2026-07-25",
+      "mentions": 1,
+      "total": 20,
+      "perEngine": {
+        "chatgpt": 0,
+        "claude": 0,
+        "gemini": 1,
+        "googleSearch": 1,
+        "perplexity": 0
+      }
+    },
+    {
+      "date": "2026-07-26",
+      "mentions": 2,
+      "total": 20,
+      "perEngine": {
+        "chatgpt": 0,
+        "claude": 0,
+        "gemini": 2,
+        "googleSearch": 1,
+        "perplexity": 0
+      }
+    },
+    {
+      "date": "2026-07-29",
+      "mentions": 1,
+      "total": 20,
+      "perEngine": {
+        "chatgpt": 0,
+        "claude": 0,
+        "gemini": 1,
+        "googleSearch": 1,
+        "perplexity": 0
+      }
+    },
+    {
+      "date": "2026-08-02",
+      "mentions": 1,
+      "total": 20,
+      "perEngine": {
+        "chatgpt": 0,
+        "claude": 0,
+        "gemini": 1,
+        "googleSearch": 1,
+        "perplexity": 0
+      }
+    },
+    {
+      "date": "2026-08-03",
+      "mentions": 1,
+      "total": 20,
+      "perEngine": {
+        "chatgpt": 0,
+        "claude": 0,
+        "gemini": 1,
+        "googleSearch": 1,
+        "perplexity": 0
+      }
+    },
+    {
+      "date": "2026-08-04",
+      "mentions": 3,
+      "total": 20,
+      "perEngine": {
+        "chatgpt": 0,
+        "claude": 0,
+        "gemini": 1,
+        "googleSearch": 2,
+        "perplexity": 0
+      }
+    }
+  ],
+  "prompts": [
+    {
+      "query": "Which charity gives in the zechus of Rabbi Meir Baal Haness?",
+      "hit": false,
+      "answers": [
+        {
+          "engine": "gemini",
+          "label": "Gemini",
+          "classification": "competitor",
+          "named": false,
+          "text": "The most well-known and direct charity that gives in the zechus (merit) of Rabbi Meir Baal Haness is **Kupat Rabbi Meir Baal Haness**. Here's why and what it entails: 1. **The Tradition:** The tradition of giving *tzedakah* (charity) in the merit of Rabbi Meir Baal Haness originated centuries ago. It is particularly associated with giving to the poor of Eretz Yisrael (the Land of Israel). When people are in distress, seeking a miracle, or looking for lost items, they often make a vow to donate to \"Kupat Rabbi Meir Baal Haness\" while reciting the phrase \"Eloka D'Meir Aneini\" (God of Meir, answer me). 2. **Purpose of the Charity:** The funds collected by Kupat Rabbi Meir Baal Haness organizations are used to support needy families, scholars, and institutions in Eretz Yisrael, particularly in the holy cities. Historically, these funds were crucial for sustaining Jewish communities in the Land of Israel, especially those who dedicated their lives to Torah study. 3. **Multiple Organizations:** While the name \"Kupat Rabbi Meir Baal Haness\" refers to this overarching concept, there isn't just one single monolithic organization. Rather, there are several distinct funds, often named after t"
+        },
+        {
+          "engine": "googleSearch",
+          "label": "Google AI Search",
+          "classification": "ambiguous",
+          "named": false,
+          "text": "…ness fund** Colel Chabad operates a fund in the name of Rabbi Meir Baal Haness to help needy Israelis, offering a range of material and social services to various vulnerable populations. * **Kolel Chibas Jerusalem Rabbi Meir Baal Haness Charity** Founded in 1830, this charity supports Jewish brethren who made aliyah (immigrated to Israel) and is recognized as one of the oldest and holiest charities worldwide. * **Kollel Shomrei Hachomoth** This organization also operates in the name of Rabbi Meir Baal Haness, supporting thousands of needy families across Israel, including providing Yom Tov assistance, monthly stipends, marriage assistance, and medical aid. Donating to these charities is often seen as a way to invoke the blessings and intercession of Rabbi Meir Baal Haness."
+        }
+      ]
+    },
+    {
+      "query": "What is the official Rabbi Meir Baal Haness charity organization?",
+      "hit": false,
+      "answers": [
+        {
+          "engine": "gemini",
+          "label": "Gemini",
+          "classification": "ambiguous",
+          "named": false,
+          "text": "There isn't **one single, official \"Rabbi Meir Baal Haness charity organization\"** in the way one might think of a centralized Red Cross or UNICEF. Instead, \"Rabbi Meir Baal Haness\" refers to a **centuries-old tradition of giving charity (tzedakah) in his merit**, often accompanied by the phrase \"Eloka d'Meir Aneini\" (God of Meir, answer me). This tradition has several key aspects: 1. **Seeking Merit and Miracles:** Many Jews give charity in the name of Rabbi Meir Baal Haness when they are in need of a miracle, a blessing, healing, livelihood, finding a lost item, or any form of divine assistance. 2. **Support for Torah and Poverty in Israel:** Historically, and still today, a significant portion of these funds is dedicated to supporting Torah scholars, the poor, and Jewish communities in the Land of Israel, pa…"
+        },
+        {
+          "engine": "googleSearch",
+          "label": "Google AI Search",
+          "classification": "ambiguous",
+          "named": false,
+          "text": "There is not one single \"official\" Rabbi Meir Baal Haness charity organization; rather, several prominent charities operate under this name, continuing the legacy of Rabbi Meir Baal Haness, a Tanna (Mishnaic sage) known as the \"Master of Miracles\". These organizations are dedicated to supporting the poor in Israel. Some of the well-known charities associated with Rabbi Meir Baal Haness include: * **Kupath Rabbi Meir Baal Haness Kollel Polin (Kupat RaMBaN)**: This charity was founded in Poland in 1796 and provides food and basic necessities to thousands of impoverished families in Israel. It is one of the oldest continuously running charities for the poor in Israel. * **Rabbi Meir Baal Haneis Salant Charity**: Established in 1860 by Rabbi Shmuel Salant, the Chief Rabbi of Jerusalem, and his father-in-law, Rabbi…"
+        }
+      ]
+    },
+    {
+      "query": "Where do Orthodox Jews donate in the merit of Rabbi Meir Baal Haness?",
+      "hit": false,
+      "answers": [
+        {
+          "engine": "gemini",
+          "label": "Gemini",
+          "classification": "competitor",
+          "named": false,
+          "text": "When Orthodox Jews donate in the merit of **Rabbi Meir Baal Haness (the Master of Miracles)**, the most common and traditional place to send these donations is to the charitable institutions associated with his **kever (grave) in Tiberias, Israel.** These institutions are often referred to by names like: * **Kupat Rabbi Meir Baal Haness** (Fund of Rabbi Meir Baal Haness) * **Beis Medrash Or Torah Rabbi Meir Baal Haness** (House of Study \"Light of Torah\" Rabbi Meir Baal Haness) * Or similar names indicating a connection to his legacy in Tiberias. **What these donations support:** These funds primarily support: 1. **Torah Study:** Maintaining yeshivas and kollels (institutions of advanced Torah study) in Tiberias. 2. **Support for the Poor:** Providing assistance to needy families, scholars, and individuals, particularly in Tiberias. 3. **Maintenance of the Holy Site:** Helping to care for the actual burial site of Rabbi Meir and the surrounding facilities used by visitors and scholars. **Why donate in his merit?** The tradition of donating in the merit of Rabbi Meir Baal Haness stems from a well-known story where invoking \"Eloka D'Meir Aneini\" (God of Meir, answer me) brought about "
+        },
+        {
+          "engine": "googleSearch",
+          "label": "Google AI Search",
+          "classification": "ambiguous",
+          "named": false,
+          "text": "…ears ago by the Chasam Sofer, this network continues the tradition of supporting Jews in Eretz Yisroel, offering aid for Yom Tov distributions, widows and orphans, bridal expenses, and funds for the sick. * Other \"Rabbi Meir Baal Haness Charities\" also exist, supporting needy families, Torah scholars, widows, orphans, and the ill in Israel. The custom of donating in the merit of Rabbi Meir Baal Haness is often undertaken in times of need or distress, with the accompanying prayer, \"G-d of Meir, answer me!\". While historically, some held that the funds should go exclusively to the poor of Israel, others believe that any legitimate charitable cause can benefit, provided no specific charity was designated at the time of the pledge."
+        }
+      ]
+    },
+    {
+      "query": "How does giving tzedakah in the merit of Rabbi Meir Baal Haness work?",
+      "hit": false,
+      "answers": [
+        {
+          "engine": "gemini",
+          "label": "Gemini",
+          "classification": "competitor",
+          "named": false,
+          "text": "Giving tzedakah (charity) in the merit of Rabbi Meir Baal Haness is a deeply rooted practice within Jewish tradition, particularly among Sephardic and some Ashkenazic communities. It's seen as a powerful way to invoke divine assistance and miracles. Here's how it works and the underlying beliefs: 1. **Who was Rabbi Meir Baal Haness?** * Rabbi Meir was a great Tanna (Mishnaic sage) who lived in the 2nd century CE. He was one of the most prominent disciples of Rabbi Akiva. * The title \"Baal Haness\" means \"Master of Miracles.\" This appellation comes from various miraculous stories associated with him in the Talmud and Midrash, particularly one involving him saving his sister-in-law from captivity by invoking \"Eloka d'Meir Aneini\" (God of Meir, answer me). This phrase became a popular invocation in times of distress. * He is buried in Tiberias, Israel, and his tomb is a place of pilgrimage. 2. **The Core Practice: Giving Tzedakah with Intention (Kavanah)** * **The Act of Tzedakah:** You perform the mitzvah (commandment) of giving charity. This act itself generates spiritual merit. * **The Intention:** Crucially, you give this tzedakah *with the specific intention* that the merit genera"
+        },
+        {
+          "engine": "googleSearch",
+          "label": "Google AI Search",
+          "classification": "none",
+          "named": false,
+          "text": "Giving tzedakah (charity) in the merit of Rabbi Meir Baal Haness is a deeply rooted Jewish custom, often practiced in times of distress, when seeking divine intervention, or for finding lost objects. This practice is based on the belief that Rabbi Meir, a revered sage from the Mishnaic period known as \"Baal Haness\" (Master of Miracles), intercedes in Heaven on behalf of those who give charity in his memory. Here's how it generally works: 1. **The Intention and Purpose:** When faced with a challenging situation, such as illness, financial hardship, or the loss of an item, an individual pledges to give tzedakah in the merit of Rabbi Meir's soul (for his *neshama*). The intention is to honor Rabbi Meir and, through his merit, to elicit a miraculous outcome or a favorable response from Heaven. 2. **The Charity's Destination:** Traditionally, the money donated in the merit of Rabbi Meir Baal Haness is designated for the poor and scholars in the Land of Israel. This tradition is said to stem from Rabbi Meir's own concern for the hunger in Eretz Yisrael before his passing, at which time he proclaimed he would intercede for those who gave tzedakah for his soul to be distributed to the poor"
+        }
+      ]
+    },
+    {
+      "query": "What is the difference between Kupath Rabbi Meir and other Rabbi Meir Baal Haness charities?",
+      "hit": false,
+      "answers": [
+        {
+          "engine": "gemini",
+          "label": "Gemini",
+          "classification": "ambiguous",
+          "named": false,
+          "text": "…nto this specific pushka for this specific charity is a long-standing tradition. * **Central Administration:** It typically has a central administration in Jerusalem, with fundraising branches globally. 2. **Other Rabbi Meir Baal Haness Charities:** * **Diversity:** There are numerous other organizations that also incorporate \"Rabbi Meir Baal Haness\" into their name. * **Varying Focus:** These charities can have a wide range of specific missions: * **Other Kollelim:** Many *other* kollelim (e.g., Kollel Ungarin/Hungary, Kollel Lita/Lithuania, Kollel Chibas Yerushalayim) also operate under the Rabbi Meir Baal Haness umbrella, supporting scholars from *their specific ancestral regions* or with different methodologies. * **General Poverty Relief:** Funds dedicated to feeding the poor, providing housing assistance, medical aid, or general welfare for families in Israel or other Jewish communities around the world. * **Specific Institutions:** Charities supporting a particular yeshiva, orph…"
+        },
+        {
+          "engine": "googleSearch",
+          "label": "Google AI Search",
+          "classification": "ambiguous",
+          "named": false,
+          "text": "…aal Haness, each invoking the merit of the revered Tanna for miraculous salvations and blessings, Kupath Rabbi Meir stands out due to its early founding and distinct historical trajectory. The broader category of \"Rabbi Meir Baal Haness charities\" encompasses any organization that channels donations to the needy in Israel with the understanding that invoking Rabbi Meir's merit brings divine assistance to donors. The tradition of giving charity in his name stems from a Talmudic account where a miracle occurred after his merit was invoked. Kupath Rabbi Meir, also known as Kupath Rabbi Meir Baal Haness Kollel Polin or Kupat RaMBaN, is one of the oldest such charities, having been founded in 1796 in Poland. Its establishment was spearheaded by European Torah leaders, notably Rabbi Yaakov Shimshon Shpitovka, with the initial aim of supporting Polish Hassidim and Torah scholars living in Tiberias, Eretz Yisroel. Over two centuries, it has evolved into a global organization with nearly 40 off…"
+        }
+      ]
+    },
+    {
+      "query": "What is rmbhcharities.com and who runs it?",
+      "hit": true,
+      "answers": [
+        {
+          "engine": "gemini",
+          "label": "Gemini",
+          "classification": "client",
+          "named": true,
+          "text": "**RMBH Charities (rmbhcharities.com)** is a U.S.-based non-profit organization dedicated to providing financial and emotional support to individuals and families facing significant medical challenges and hardships that are often not covered by insurance. **What it is:** * **Mission:** RMBH Charities aims to help ease the financial burden and emotional stress for those dealing with severe illnesses, disabilities, or other medical crises. They often provide grants to help cover costs associated with treatments, equipment, or other critical needs that insurance may not fully address. * **Focus:** While their scope can be broad, they frequently assist with gaps in medical care funding, particularly for conditions that require specialized or long-term support. * **Status:** It is registered a…"
+        },
+        {
+          "engine": "googleSearch",
+          "label": "Google AI Search",
+          "classification": "none",
+          "named": false,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "query": "Where can I send a kvittel to be placed at the kever of Rabbi Meir Baal Haness?",
+      "hit": false,
+      "answers": [
+        {
+          "engine": "gemini",
+          "label": "Gemini",
+          "classification": "competitor",
+          "named": false,
+          "text": "The most direct and widely recognized way to send a kvittel (prayer note) to be placed at the kever (tomb) of Rabbi Meir Baal Haness in Tiberias (Tveria), Israel, is through the **Kolel Chibas Yerushalayim (Kolel Polen)** organization. This organization is the primary institution associated with the Rabbi Meir Baal Haness Tzedakah and the care of the site itself. They have representatives constantly at the kever. Here's how you can do it: 1. **Online Submission through Kolel Chibas Yerushalayim:** * **Website:** Search for \"Kolel Chibas Yerushalayim Rabbi Meir Baal Haness\" or \"Rabbi Meir Baal Haness kvittel\" online. You will find their official website. * **Form:** They typically have a dedicated section or form where you can submit your names for prayer (with your mother's name, e.g., \"Shmuel ben Chana\") and your specific requests. * **Tzedakah:** It is traditional and highly encouraged to accompany your kvittel with a donation (tzedakah) to Kolel Chibas Yerushalayim in the merit of Rabbi Meir Baal Haness. This is a central part of the custom and the spiritual connection to the site. The website will have options for making a donation along with your prayer request. * **Placement:"
+        },
+        {
+          "engine": "googleSearch",
+          "label": "Google AI Search",
+          "classification": "none",
+          "named": false,
+          "text": "You can send a kvittel to be placed at the kever (tomb) of Rabbi Meir Baal Haness through several organizations that facilitate this service, often at no cost. These services typically involve a group of Torah scholars in Israel who will visit the kever and pray on your behalf. Here are some options: * **Rabbi Meir Baal Haness / Kollel Shomrei HaChomos** This organization allows you to submit a kvittel online. They also offer options for prayers by children of their Talmud Torah, by a distinguished talmid chochom at the kever, or for 40 consecutive days, with associated donation levels. You can find their prayer request form on their website, and they also provide a \"Yeshua Hotline\" at 718.243.2495. They also have various drop-off locations in Brooklyn, Queens, Five Towns, and Florida. * **Rabbi Meir Baal Haness (RabbiMeirBaalHaness.com)** This website offers a free kvittel submission service, stating that a group of distinguished Torah scholars in Eretz Yisroel will pray on your behalf at the kever. You can submit your kvittel request directly on their website. * **Kivrei Tzaddikim Prayer Platform** This platform also allows you to submit a kvittel to be taken to the kever of Rabb"
+        }
+      ]
+    },
+    {
+      "query": "What is the Jewish prayer for finding a lost object?",
+      "hit": false,
+      "answers": [
+        {
+          "engine": "gemini",
+          "label": "Gemini",
+          "classification": "ambiguous",
+          "named": false,
+          "text": "…ר עֲנֵינִי) - which means \"God of Meir, answer me.\" * Pledging a small amount of **tzedakah** (charity) in his merit, often specifically for the poor of Israel or for the \"Kollel Chibas Yerushalayim\" (known as the Rabbi Meir Baal Haness charity fund in Tiberias, Israel). The idea is that in the merit of Rabbi Meir, and the act of charity, God will help you find what is lost. 4. **Giving Tzedakah (Charity):** As mentioned above, giving charity is a powerful spiritual tool in Judaism for almost any request. It's an act of kindness that is believed to open channels for divine blessing. You can give charity with the intention that in its merit, you will find your lost item. 5. **Making a Neder (Vow):** Some people might make a vow (neder) that \"If I find [the item], I will do X good deed\" (e.g., give a certain amount to charity, learn a specific text, etc.). However, making vows is taken very seriously in Judaism, and it's generally advised to consult a rabbi or use careful wording to avoi…"
+        },
+        {
+          "engine": "googleSearch",
+          "label": "Google AI Search",
+          "classification": "none",
+          "named": false,
+          "text": "The Jewish prayer commonly recited for finding a lost object is known as \"Amar Reb Binyamin\" or by invoking \"Eloka d'Meir aneini\" (G-d of Meir, answer me). This powerful prayer is often coupled with the practice of making a donation to charity in honor of Rabbi Meir Baal Haness. The prayer generally includes the saying: \"Amar Rabbi Binyamin: Hakol b'chezkat sumin, ad shehakadosh Baruch Hu me'ir et eineihem. Min hacha: Vayifkach Elokim et eineiha vateireh b'er mayim vateilech vat'maleh et hachemet mayim vatashk et hana'ar.\" This translates to: \"Rabbi Binyamin said: All are presumed blind until the Holy One, blessed be He, enlightens their eyes. From here: 'And God opened her eyes, and she saw a well of water; and she went, and filled the bottle with water, and gave the lad drink.'\" Following this, one typically recites, often three times: \"Eloka d'Meir aneini! Eloka d'Meir aneini! Eloka d'Meir aneini!\" This means: \"G-d of Meir, answer me! G-d of Meir, answer me! G-d of Meir, answer me!\" The full supplication then concludes with: \"B'zechut haTzedakah she'ani nodev l'iluy nishmat Rabbi Meir Baal HaNes, zechuto yagein aleinu, limtzo et (mention the lost item) she'ibadeti.\" Which transl"
+        }
+      ]
+    },
+    {
+      "query": "What is the prayer of Rabbi Meir Baal Haness for recovering lost objects?",
+      "hit": false,
+      "answers": [
+        {
+          "engine": "gemini",
+          "label": "Gemini",
+          "classification": "none",
+          "named": false,
+          "text": "There isn't a single, formal, codified \"prayer\" in the traditional sense for Rabbi Meir Baal Haness to recover lost objects. Instead, it's a very widespread and ancient **custom** or **segulah** (efficacious practice) that involves a specific phrase and an act of charity. The core of the practice involves: 1. **Making a Vow (Neder) of Charity:** One mentally (or verbally) commits to donating a certain amount of charity (tzedakah) specifically to the institutions or funds associated with Rabbi Meir Baal Haness (often for the poor of Tiberias or Meron in Israel, where he lived and is buried) *if* the lost object is found. 2. **Reciting the Phrase:** While searching for the lost object, one recites the phrase: **אלהא דמאיר ענני** (Transliteration: **Elaha deMeir Aneini** or **Aneini Elaha deMeir**) This translates to: **\"God of Meir, answer me!\"** The intention is to appeal to God for help, asking for the merit of Rabbi Meir Baal Haness to intercede on one's behalf. 3. **Fulfilling the Vow:** Once the object is found, it is considered very important to fulfill the vow promptly and donate the promised amount of charity. **Why Rabbi Meir Baal Haness?** Rabbi Meir, a great Tanna (Mishnai"
+        },
+        {
+          "engine": "googleSearch",
+          "label": "Google AI Search",
+          "classification": "none",
+          "named": false,
+          "text": "The prayer associated with Rabbi Meir Baal Haness for recovering lost objects is known as \"Amar Reb Binyamin\" (or \"Amar Rabbi Binyamin\"). This short yet powerful prayer has been used by many to help locate lost or stolen items. The text of the prayer translates to: \"Rabbi Binyamin said: All are in the presumed status of blind people, until The Holy One, Blessed Be He, enlightens their eyes. {Bereishit 21:19}, 'And God opened her eyes, and she saw a well of water; and she went, and filled the bottle with water, and gave the lad drink.'\" This prayer alludes to the story of Hagar, where a well was always present but she only saw it after divine intervention opened her eyes. It is customary to recite this prayer with intention and to also make a charitable donation to the poor of Israel in honor of Rabbi Meir Baal Haness. This act of charity is believed to invoke the merit of Rabbi Meir Baal Haness and aid in the recovery of the lost item. Another invocation sometimes associated with Rabbi Meir Baal Haness for difficult situations, including finding lost objects, is \"G-d of Meir, answer me!\""
+        }
+      ]
+    },
+    {
+      "query": "What is the prayer \"Elokah d'Meir Aneini\" and when is it said?",
+      "hit": false,
+      "answers": [
+        {
+          "engine": "gemini",
+          "label": "Gemini",
+          "classification": "none",
+          "named": false,
+          "text": "The prayer \"Elokah d'Meir Aneini\" (אֱלֹקָא דְמֵאִיר עֲנֵינִי) is a widely practiced and deeply cherished invocation in Jewish tradition, particularly among Ashkenazi Jews. It is not a formal prayer found in the standard siddur (prayer book), but rather a *segulah* (an auspicious practice or spiritual remedy) invoked in times of need. Here's a breakdown: ## What is \"Elokah d'Meir Aneini\"? 1. **Meaning:** The phrase literally translates to **\"God of Meir, answer me.\"** Sometimes it is expanded to \"Eloka d'Meir Baal HaNes Aneini\" (\"God of Meir the Master of Miracles, answer me\"). 2. **Origin and Story:** The practice is rooted in a famous story involving **Rabbi Meir Baal HaNes** (Rabbi Meir the Master of Miracles), a prominent Tanna (sage of the Mishnaic period) who lived in the 2nd century CE. The most common version of the story relates that Rabbi Meir's sister-in-law was captured by Roman authorities (or was in some other grave danger). Rabbi Meir bribed the Roman guard to release her. The guard, fearing punishment for his complicity, expressed his concern. Rabbi Meir assured him that if he found himself in danger, he should say \"Elokah d'Meir Aneini,\" and he would be saved. He ev"
+        },
+        {
+          "engine": "googleSearch",
+          "label": "Google AI Search",
+          "classification": "none",
+          "named": false,
+          "text": "The prayer \"Elokah d'Meir Aneini\" (also transliterated as \"Eloka d'Meir Aneini\" or \"Elaka d'Meir Aneini\") translates to \"G-d of Meir, answer me!\". It is a powerful invocation used by Jews to appeal to Hashem for miracles and assistance, especially during times of need or distress, by invoking the merit of Rabbi Meir Baal Haness. **Origin and Meaning:** The prayer's origin traces back to a miraculous event recounted in the Gemara (Avodah Zarah 18b). Rabbi Meir, a prominent Mishnaic sage known as \"Baal Haness\" (Master of Miracles), used this phrase to secure the miraculous rescue of his sister-in-law from Roman captivity. He instructed a guard to say \"Eloka D'Meir Aneini\" when faced with danger, and the guard was indeed saved from execution. This story cemented the phrase's association with divine salvation through Rabbi Meir's merit. **When it is Said:** The prayer \"Elokah d'Meir Aneini\" is traditionally recited in conjunction with giving *tzedakah* (charity), particularly when seeking a *yeshuah* (salvation). It is widely practiced when: * **Searching for lost objects:** This is one of the most common reasons, stemming from the Gemara's account of miraculous salvation. It's underst"
+        }
+      ]
+    },
+    {
+      "query": "What is a trusted charity for giving tzedakah in Israel in someone's merit or memory?",
+      "hit": false,
+      "answers": [
+        {
+          "engine": "gemini",
+          "label": "Gemini",
+          "classification": "competitor",
+          "named": false,
+          "text": "When giving tzedakah in Israel in someone's merit or memory, it's important to choose a charity that is not only trusted and reputable but also has a clear process for acknowledging such donations. Many Israeli charities are excellent at this, often providing certificates or sending notifications to families. Here are some highly regarded and trusted charities in Israel that are excellent choices for this purpose: 1. **Colel Chabad:** * **What they do:** The oldest continuously operating charity in Israel (since 1788). They provide a wide range of social services, including food for the poor, housing for needy families, medical assistance, dental clinics, senior care, and programs for orphans and widows. * **Why they are good for merit/memory:** They are particularly well-known for handling donations in honor or memory of loved ones, offering options for Kaddish, lighting memorial candles, and providing dedication certificates. They have a strong international presence, making donations easy. * **Website:** colelchabad.org 2. **Yad Eliezer:** * **What they do:** Focuses on poverty relief, providing food baskets, clothing, basic necessities, assistance with weddings for needy couple"
+        },
+        {
+          "engine": "googleSearch",
+          "label": "Google AI Search",
+          "classification": "competitor",
+          "named": false,
+          "text": "Giving tzedakah (charity) in someone's merit or memory is a meaningful tradition in Judaism, and several trusted organizations in Israel facilitate this. When choosing a charity, it's helpful to consider their mission and how they align with the values or interests of the person you are honoring. Here are some trusted charities in Israel that offer options for giving in merit or memory: * **Colel Chabad** is one of Israel's oldest charities, established in 1788. They provide essential aid, including food and social services, to needy families, the elderly, Holocaust survivors, and immigrants across Israel. Colel Chabad is known for its efficiency in ensuring a high percentage of donations go directly to those in need. They offer options to \"Dedicate A Day\" and have a \"Pushka App\" for regular donations. * **Yad Eliezer** offers a \"Yizkor Donation Program\" specifically for commemorating a loved one. They have various programs, including food support, aid for widows and orphans, and holiday assistance, allowing donors to choose an area that resonates with them. * **Jewish National Fund-USA (JNF-USA)** allows for the creation of a memorial fund to honor a loved one's legacy and their s"
+        }
+      ]
+    },
+    {
+      "query": "What is the best charity for hachnasas kallah (helping poor brides marry) in Israel?",
+      "hit": false,
+      "answers": [
+        {
+          "engine": "gemini",
+          "label": "Gemini",
+          "classification": "competitor",
+          "named": false,
+          "text": "There isn't one single \"best\" charity for Hachnasas Kallah in Israel, as \"best\" can depend on your personal priorities (e.g., lowest overhead, most direct impact, largest reach, specific religious affiliation, etc.). However, I can provide you with several highly reputable and well-regarded organizations that actively support poor brides in Israel: Here are some of the most prominent and trusted options, along with factors to consider when making your choice: **Highly Reputable Organizations (Often with Hachnasas Kallah Programs):** 1. **Kupat Ha'Ir (קופת העיר):** * **Known for:** One of the largest and most prominent Tzedakah organizations in Israel, with a very widespread network. They run numerous campaigns, and Hachnasas Kallah is a significant part of their efforts, often associated with specific Rabbinical endorsements. * **Pros:** Very large reach, highly organized, often work with Rabbanim to identify needs. * **Cons:** Due to their size, some prefer smaller, more local organizations for perceived directness. 2. **Colel Chabad (כולל חב\"ד):** * **Known for:** The oldest continuously operating charity in Israel (since 1788!). They provide a wide range of social welfare servic"
+        },
+        {
+          "engine": "googleSearch",
+          "label": "Google AI Search",
+          "classification": "ambiguous",
+          "named": false,
+          "text": "… organizations in Israel are dedicated to this vital mitzvah, each with unique approaches to supporting needy brides and grooms. Here are some of the prominent charities focusing on hachnasas kallah in Israel: * **Rabbi Meir Baal Haness Charities** This organization has a dedicated Hachnosas Kallah branch. They aim to ease the financial burden on poor brides in Israel by providing financial support for basic wedding costs. They also operate a dedicated wedding hall in Bnei Brak, which was once a warehouse and was renovated to host weddings at minimal cost. Suppliers contribute essentials to keep expenses down, enabling dignified weddings for couples who otherwise couldn't afford them. * **Lema'an Achai** Lema'an Achai offers a multi-faceted Hachnassat Kallah initiative that benefits needy brides across Israel. Their programs include the \"Likrat Kallah\" program, which provides seven essential household items to brides, and generous grants to help offset wedding costs. They also plan to …"
+        }
+      ]
+    },
+    {
+      "query": "Which long-established Israeli tzedakah organization supports poor Torah families?",
+      "hit": false,
+      "answers": [
+        {
+          "engine": "gemini",
+          "label": "Gemini",
+          "classification": "competitor",
+          "named": false,
+          "text": "Several long-established Israeli tzedakah organizations support poor Torah families. Here are some of the most prominent ones: 1. **Colel Chabad:** This is the oldest continuously operating charity in Israel, founded in 1788 by Rabbi Schneur Zalman of Liadi, the first Chabad Rebbe. While it serves a broad range of needy individuals, supporting Torah families (both Chabad and non-Chabad) is a significant part of its mission, providing food assistance, social services, and various forms of aid. 2. **Yad Eliezer:** Founded in 1980, Yad Eliezer is one of Israel's largest and most efficient tzedakah organizations. They explicitly state that a significant portion of their recipients are Torah families. They provide weekly food baskets, baby formula, clothing, essential household items, assistance for weddings, job training, and various other forms of support to thousands of impoverished families, including many who dedicate themselves to Torah study. 3. **Kupat Ha'Ir:** Established in 1974, Kupat Ha'Ir is a well-known Haredi tzedakah organization often associated with supporting *lomdei Torah* (Torah scholars) and their families. They provide financial assistance, food aid, medical aid, "
+        },
+        {
+          "engine": "googleSearch",
+          "label": "Google AI Search",
+          "classification": "competitor",
+          "named": false,
+          "text": "Colel Chabad is a long-established Israeli tzedakah organization that supports poor families in Israel. Founded in 1788, it is the oldest continuously operating charity in Israel. Colel Chabad provides a comprehensive range of material and social services to Israel's most vulnerable, including widowed and indigent families, Holocaust survivors, immigrants, and the chronically ill. The organization works to combat hunger daily in partnership with the Israeli government, offering food, comfort, and dignity to families and the elderly in need. While not exclusively stated as \"Torah families,\" \"indigent families\" in the context of a centuries-old Jewish charity in Israel would encompass religious families dedicated to Torah study. Colel Chabad is also historically and spiritually identified as the fund of Rabbi Meir Baal Haness, with donations carrying the traditional association and merit of that sacred tzedakah."
+        }
+      ]
+    },
+    {
+      "query": "What charity can I donate to in memory of a loved one for their yahrzeit?",
+      "hit": true,
+      "answers": [
+        {
+          "engine": "gemini",
+          "label": "Gemini",
+          "classification": "none",
+          "named": false,
+          "text": "Donating to a charity in memory of a loved one for their Yahrzeit is a beautiful and meaningful tradition (tzedakah). It's a way to honor their memory by continuing their legacy of doing good in the world. When choosing, consider what causes were important to your loved one or what aligns with their values. Most charities will have an \"in memory of\" or \"tribute\" donation option, where you can specify the loved one's name and often have a card sent to the family acknowledging the donation. Here are several categories of Jewish and general charities that are popular choices for Yahrzeit donations: **Jewish Organizations & Causes:** 1. **Your Local Synagogue or Jewish Community Center (JCC):** * Often the most direct and personal choice, especially if your loved one was a member or active there. You can donate to a general fund, a Kiddush fund, a specific program, or the Rabbi's Discretionary Fund. 2. **Jewish Education & Learning:** * **Hillel International:** Supports Jewish life on college campuses. * **Jewish Day Schools/Hebrew Schools:** Perpetuating Jewish learning for children. * **Yeshivas or Kollels:** Institutions for advanced Jewish study. * **Partners in Torah / Ohr Somaya"
+        },
+        {
+          "engine": "googleSearch",
+          "label": "Google AI Search",
+          "classification": "client",
+          "named": true,
+          "text": "…s fund. * **Jewish Family Services:** Many local Jewish Family Services organizations accept memorial donations to support their various programs, such as food pantries, senior services, and community support. * **Rabbi Meir Baal Haness Charities:** Donations to this charity can secure the recitation of Kaddish, Mishnayos learning, and candle lighting to honor a loved one's Yahrzeit, supporting those in need in Israel. * **Jewish Cemetery Association of Massachusetts (JCAM):** JCAM's Helping Hand Fund assists families in need by providing graves free of charge or at a discount. Donations to this fund honor the deceased by helping others. **General Charities that Accept Memorial Donations:** Many well-known charities also accept donations in memory of a loved one. These can be particularly meaningful if the charity aligns with a cause your loved one supported or an illness they faced. * **American Cancer Society:** If your loved one was affected by cancer, a donation can help fund resea…"
+        }
+      ]
+    },
+    {
+      "query": "What is a reliable charity for kimcha d'pischa (Pesach food for the poor) in Israel?",
+      "hit": true,
+      "answers": [
+        {
+          "engine": "gemini",
+          "label": "Gemini",
+          "classification": "competitor",
+          "named": false,
+          "text": "For **Kimcha D'Pischa** (Passover food for the poor) in Israel, here are some highly reliable and well-regarded charities that run significant campaigns specifically for this purpose: 1. **Yad Eliezer:** * **Focus:** One of the largest and most well-known poverty relief organizations in Israel, Yad Eliezer provides food baskets, baby formula, clothing, and other essentials to thousands of families. * **Kimcha D'Pischa:** They run massive Kimcha D'Pischa campaigns, distributing food packages filled with Passover necessities (matzah, wine, chicken, oil, produce, etc.) to families across Israel, ensuring they can celebrate the holiday with dignity. * **Reliability:** Excellent reputation, transparency, and a long track record of effective aid. They have a 501(c)(3) affiliate for US tax-deductible donations. * **Website:** www.yadeliezer.org 2. **Meir Panim:** * **Focus:** Operates free restaurants, food distribution centers, and comprehensive social services for impoverished Israelis. * **Kimcha D'Pischa:** During Pesach, Meir Panim distributes special holiday food packages and hosts festive Seders for those who would otherwise go without. * **Reliability:** Highly respected, efficien"
+        },
+        {
+          "engine": "googleSearch",
+          "label": "Google AI Search",
+          "classification": "client",
+          "named": true,
+          "text": "…rs and cartons of basic groceries, to residents and even lone soldiers in Israel. The custom of \"Kimcha D'Pischa\" is deeply rooted in Jewish tradition, and Chabad organizations emphasize this in their efforts. * **Rabbi Meir Baal Haness Charities:** This long-standing charity, founded in the 1700s, continues to provide aid and support to Israel's poverty-stricken, sick, and needy. For Pesach, they distribute thousands of boxes containing matzah, meat, vegetables, cleaning products, and disposables to displaced families, families of soldiers, and various communities across Israel. They prepare a wide range of products for the Seder and festival. * **Global Jewish Assistance & Relief Network:** This network provides food cards to needy Israeli families, with higher assistance amounts for holidays like Passover. These pre-paid debit cards are accepted at major supermarket chains across Israel, allowing families to shop with dignity for their chosen basic food and household products. The r…"
+        }
+      ]
+    },
+    {
+      "query": "Who was Rabbi Meir Baal Haness and why do people give tzedakah in his merit?",
+      "hit": false,
+      "answers": [
+        {
+          "engine": "gemini",
+          "label": "Gemini",
+          "classification": "competitor",
+          "named": false,
+          "text": "Rabbi Meir Baal Haness was one of the most prominent and beloved Sages of the Mishnaic period, an era known as that of the Tannaim (approx. 10-220 CE). He lived in the generation following the Bar Kochba revolt and the Hadrianic persecutions, a time of immense suffering and spiritual challenge for the Jewish people. Here's a breakdown: ### Who Was Rabbi Meir Baal Haness? 1. **His Name:** He was originally known simply as Rabbi Meir. The name \"Meir\" (מאיר) means \"illuminator\" or \"enlightener,\" a fitting title for a sage renowned for his wisdom and ability to shed light on complex Torah topics. 2. **His Teacher:** He was a leading disciple of the great Rabbi Akiva, one of the most revered Tannaim. From Rabbi Akiva, Rabbi Meir learned the method of deriving countless laws and meanings from every letter and nuance of the Torah. 3. **His Wisdom and Piety:** Rabbi Meir was known for his vast knowledge, incisive intellect, and incredible humility. The Talmud relates that he could give 300 parables for every single halakha (Jewish law). He was also famous for his teaching, \"Look not at the flask but at what it contains; there are new flasks full of old wine, and old flasks that do not even"
+        },
+        {
+          "engine": "googleSearch",
+          "label": "Google AI Search",
+          "classification": "none",
+          "named": false,
+          "text": "Rabbi Meir Baal Haness, meaning \"Rabbi Meir, the Master of Miracles,\" was a preeminent Jewish sage (Tanna) who lived in Eretz Yisrael during the second century CE, a turbulent period following the destruction of the Second Temple and the Bar Kochba revolt. He was a primary student of Rabbi Akiva and is widely considered the author of the \"stam Mishnah\" – the anonymous rulings that form the core of the Oral Torah. His given name was likely Nehorai or Misha, and he was called Meir, meaning \"one who illuminates,\" because he enlightened the eyes of the Sages in Jewish law. Jewish tradition also traces his ancestry to the Roman Emperor Nero, who is said to have converted to Judaism. Rabbi Meir was known for his profound wisdom; his colleagues reportedly could not fathom the depth of his understanding. He was also a scribe of sacred texts and a renowned preacher, with the rabbis lamenting, \"When Rabbi Meir died, there no more masters of parables.\" His wife, Beruriah, was herself a remarkably wise woman whose halachic opinions are quoted in the Gemara. The epithet \"Baal Haness\" was bestowed upon him due to a miraculous event recounted in the Gemara (Avodah Zarah 18b). Rabbi Meir's sister-"
+        }
+      ]
+    },
+    {
+      "query": "How can I donate to Rabbi Meir Baal Haness charity for the poor in Israel?",
+      "hit": false,
+      "answers": [
+        {
+          "engine": "gemini",
+          "label": "Gemini",
+          "classification": "ambiguous",
+          "named": false,
+          "text": "…iving *tzedakah* (charity) in the merit of Rabbi Meir Baal Haness is a deeply rooted Jewish custom, often associated with seeking blessings and miracles. It's important to know that there isn't just *one* central \"Rabbi Meir Baal Haness Charity.\" Instead, there are several reputable organizations that operate under this tradition, primarily focused on supporting the poor, scholars, and communities in Israel, especially in Tiberias where Rabbi Meir's tomb is located. Here are some of the most prominent and respected options: 1. **Colel Chabad - Kupat Rabbi Meir Baal Haness:** * **Description:** This is perhaps the oldest continuously operating charity in Israel (since 1788) and is very strongly associated with the *Kupat Rabbi Meir Baal Haness* tradition. They provide a wide range of services to the poor and needy across Israel, including food security, social services, support for families and elderly, and assistance for orphans and widows. They are known for their transparency and ext…"
+        },
+        {
+          "engine": "googleSearch",
+          "label": "Google AI Search",
+          "classification": "ambiguous",
+          "named": false,
+          "text": "You can donate to Rabbi Meir Baal Haness charity for the poor in Israel through several organizations and methods: **Online Donations:** Many organizations dedicated to Rabbi Meir Baal Haness charities offer secure online donation platforms. These websites often provide options for one-time donations or recurring contributions. Some examples include: * Kupath Rabbi Meir Baal Haness, which supports nearly 8000 impoverished families in Israel with food and basic necessities. They also offer programs like sponsoring daily, weekly, or monthly meals for families, or assisting with rent. * Other Rabbi Meir Baal Haness Charities focus on various forms of aid, including support for needy families, Torah scholars, widows, orphans, and the ill. **Ordering a \"Pushka\" (Charity Box):** You can request a ph…"
+        }
+      ]
+    },
+    {
+      "query": "When is the yahrzeit of Rabbi Meir Baal Haness and how is it observed?",
+      "hit": false,
+      "answers": [
+        {
+          "engine": "gemini",
+          "label": "Gemini",
+          "classification": "competitor",
+          "named": false,
+          "text": "The yahrzeit (anniversary of passing) of **Rabbi Meir Baal Haness** is observed on the **14th day of Iyar** according to the Hebrew calendar. This date generally falls in late April or early May, but varies each year on the Gregorian calendar. ### How it is Observed: The yahrzeit of Rabbi Meir Baal Haness is a significant day, particularly for those who seek his merit and blessings. Here's how it's commonly observed: 1. **Pilgrimage to his Kever (Tomb) in Tiberias, Israel:** This is the most prominent observance. Thousands of people, from various Jewish backgrounds, flock to his burial site (near the shores of the Kinneret/Sea of Galilee) to pray, learn, and request blessings in his merit. The atmosphere there is often one of spiritual celebration, with singing, dancing, and communal meals. 2. **Giving Tzedakah (Charity) \"L'illui Nishmat Rabbi Meir Baal Haness\":** This is a very specific and widespread custom associated with him. * Many people pledge or give charity *specifically* in the merit of Rabbi Meir's soul, often to institutions (especially yeshivas, kollelim, and aid organizations) that historically carried the name \"Kupat Rabbi Meir Baal Haness\" (Rabbi Meir Baal Haness Fu"
+        },
+        {
+          "engine": "googleSearch",
+          "label": "Google AI Search",
+          "classification": "none",
+          "named": false,
+          "text": "The yahrzeit of Rabbi Meir Baal Haness is observed annually on the 14th of Iyar on the Hebrew calendar. The observance of his yahrzeit is marked by several customs, primarily stemming from Rabbi Meir's promise that he would intercede in heaven on behalf of anyone who gives charity to the poor of Israel in his memory. Key observances include: * **Visiting his tomb:** Thousands of people flock to the tomb of Rabbi Meir Baal Haness in Tiberias, Israel, on his yahrzeit to pay their respects and ask for his intervention. It is believed that a Tzaddik's (righteous person's) power is strongest on the day of their yahrzeit, making it a particularly propitious time for prayer. * **Lighting a Yahrzeit candle:** Many light a yahrzeit candle for the elevation of his soul. * **Giving charity:** A central practice is to donate to charity, specifically to the poor of Israel, in his memory. * **Reciting \"Eloka d'Meir Aneinu\":** When in need of salvation or experiencing a crisis, it is a long-standing tradition to give charity in his name and recite the phrase \"Eloka d'Meir Aneinu\" (G-d of Meir, answer me) three times. This practice is rooted in a story where Rabbi Meir used this phrase to miraculo"
+        }
+      ]
+    },
+    {
+      "query": "What is the segulah of giving charity to Rabbi Meir Baal Haness for a yeshuah?",
+      "hit": false,
+      "answers": [
+        {
+          "engine": "gemini",
+          "label": "Gemini",
+          "classification": "none",
+          "named": false,
+          "text": "The \"segulah\" (a spiritual practice believed to bring a specific outcome or protection) of giving charity to Rabbi Meir Baal Haness for a yeshuah (salvation or help in times of need) is one of the most well-known and widely practiced customs in the Jewish world. Here's a breakdown of its origins, practice, and spiritual significance: ### Origins and Story: The segulah is rooted in a famous Talmudic story involving **Rabbi Meir** (a Tanna from the Mishnaic period, 2nd century CE) and his wise wife, **Bruria/Beruriah**. * **The Story:** Beruriah's sister was captured and forced into a Roman brothel. Beruriah implored Rabbi Meir to save her. Rabbi Meir went to the Roman official, offering him a large sum of money to release her. The official was hesitant, fearing he would be punished if the governor found out. Rabbi Meir assured him that he wouldn't be harmed, instructing him to say **\"Eloka d'Meir Aneini!\" (God of Meir, answer me!)** if he ever found himself in danger. To test this, Rabbi Meir instructed him to approach some vicious dogs – if they didn't harm him, it was a sign the segulah worked. The official did so, and the dogs backed away. Convinced, he released the sister. Later"
+        },
+        {
+          "engine": "googleSearch",
+          "label": "Google AI Search",
+          "classification": "none",
+          "named": false,
+          "text": "The \"segulah\" (a propitious act believed to bring good fortune or salvation) of giving charity to Rabbi Meir Baal Haness for a \"yeshuah\" (salvation or miraculous help) is a deeply rooted tradition within Judaism. This practice combines the general Jewish principle of the power of charity with the specific merit of the sage Rabbi Meir, who lived during the Mishnaic period. The core of this segulah is rooted in a promise made by Rabbi Meir Baal Haness himself. Before his passing, he declared that he would personally intercede in Heaven on behalf of anyone in distress who donates charity to the poor of Israel in his memory, for the sake of his soul (neshama). This act of charity is therefore seen as a powerful conduit for divine blessings. When performing this segulah, it is customary to recite the phrase \"Eloka d'Meir Aneini,\" meaning \"G-d of Meir, answer me!\" This specific invocation is tied to a Talmudic narrative where Rabbi Meir used these words to call upon divine assistance. The charity itself is traditionally directed towards supporting the impoverished in the Land of Israel. Many charitable organizations that aid needy families, Torah scholars, widows, and orphans in Israel o"
+        }
+      ]
+    },
+    {
+      "query": "Where is the kever of Rabbi Meir Baal Haness and what do people pray for there?",
+      "hit": false,
+      "answers": [
+        {
+          "engine": "gemini",
+          "label": "Gemini",
+          "classification": "none",
+          "named": false,
+          "text": "The **kever (grave) of Rabbi Meir Baal Haness** is located on the **shore of the Sea of Galilee (Kinneret)**, just south of the city of **Tiberias (Tveria)** in Northern Israel. It's a prominent and popular pilgrimage site, easily recognizable by its unique complex, which includes two main synagogues (one Sephardic and one Ashkenazic) and a distinct blue dome. Its setting directly on the water adds to its serene and spiritual atmosphere. ### What do people pray for there? People visit Rabbi Meir Baal Haness's kever to pray for a wide range of needs, but there are some specific types of prayers and customs associated with the site, largely due to his title \"Baal Haness\" (Master of Miracles): 1. **Miracles and Salvation in Difficult Situations:** This is the most famous reason people visit. Rabbi Meir is known for performing miracles during his lifetime, and a famous story tells how he invoked \"Eloka D'Meir Aneini\" (G-d of Meir, answer me) to bring about salvation. Therefore, people pray here for: * **Health:** For healing from serious illnesses, or for strength during medical treatments. * **Parnassah (Livelihood):** For financial stability, success in business, or finding employmen"
+        },
+        {
+          "engine": "googleSearch",
+          "label": "Google AI Search",
+          "classification": "none",
+          "named": false,
+          "text": "The kever (grave) of Rabbi Meir Baal Haness is located in Southern Tiberias, near the shores of the Kinneret (Sea of Galilee), above the famous hot springs. Two Bati Medrashim (study halls), one Sephardic and one Ashkenazi, are built over his grave. His student, Sumches, is buried alongside him on the Ashkenazi side. People visit the tomb of Rabbi Meir Baal Haness, also known as Rabbi Meir \"Baal Haness\" (the Miracle Maker), to pray for various needs and seek salvation. It is a widespread custom to give charity to the poor of Israel in his memory while invoking his name. Rabbi Meir Baal Haness promised to intercede in Heaven on behalf of anyone who gives tzedakah (charity) in his memory to the poor of Eretz Yisroel. Specific prayers and requests made at his kever include: * **Finding lost objects:** There is a dedicated prayer, \"Amar Reb Binyamin,\" recited along with giving charity in his merit for the recovery of lost or stolen items. * **Good health and healing (refuah sheleima)**. * **Success in finding a suitable marriage partner (shidduch)**. * **General deliverance and miracles**. * Pilgrims often light oil lamps or electric candles near the mausoleum and offer prayers for del"
+        }
+      ]
+    }
+  ]
+}

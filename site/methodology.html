@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="robots" content="noindex" />
+<title>RMBH · Methodology &amp; Data Provenance</title>
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<style id="__rmbh_auth_style">html,body{visibility:hidden}</style>
+<script>
+(function(){
+  var PASS = '5goals3to6months';
+  var KEY = 'rmbh_2026_auth';
+  function reveal(){ var s=document.getElementById('__rmbh_auth_style'); if(s)s.parentNode.removeChild(s); var o=document.getElementById('__rmbh_pw_overlay'); if(o)o.parentNode.removeChild(o); }
+  function showLock(){
+    var html='<div id="__rmbh_pw_overlay" style="position:fixed;inset:0;z-index:99999;background:linear-gradient(135deg,#2B2440 0%,#4A3266 55%,#6B3A6E 100%);display:flex;align-items:center;justify-content:center;font-family:Inter,system-ui,sans-serif;visibility:visible"><form id="__rmbh_pw_form" style="background:rgba(255,255,255,0.07);border:1px solid rgba(255,255,255,0.18);border-radius:14px;padding:36px 40px;max-width:400px;width:90%;color:#fff;backdrop-filter:blur(8px)"><div style="font-size:11px;letter-spacing:0.22em;text-transform:uppercase;opacity:0.78;font-weight:600;margin-bottom:14px">Rabbi Meir Baal Haness Charities</div><h1 style="font-family:\'Crimson Pro\',Georgia,serif;font-weight:600;font-size:32px;line-height:1.1;margin:0 0 8px">Live Dashboard</h1><p style="font-size:14px;opacity:0.85;margin:0 0 22px">Enter the password Joseph shared with you.</p><input type="password" id="__rmbh_pw_input" autofocus placeholder="Password" style="width:100%;padding:12px 14px;font-size:15px;border-radius:8px;border:1px solid rgba(255,255,255,0.3);background:rgba(255,255,255,0.08);color:#fff;outline:none;font-family:inherit;box-sizing:border-box"><div id="__rmbh_pw_err" style="font-size:13px;color:#FFB6B6;margin-top:10px;min-height:18px"></div><button type="submit" style="margin-top:14px;width:100%;padding:12px;font-size:14px;font-weight:600;border-radius:8px;border:none;background:#fff;color:#5E2424;cursor:pointer;font-family:inherit">Enter</button></form></div>';
+    document.body.insertAdjacentHTML('beforeend', html);
+    var style=document.getElementById('__rmbh_auth_style'); if(style)style.textContent='#__rmbh_pw_overlay{visibility:visible !important}html,body{visibility:hidden}';
+    var form=document.getElementById('__rmbh_pw_form'),input=document.getElementById('__rmbh_pw_input'),err=document.getElementById('__rmbh_pw_err');
+    form.addEventListener('submit',function(e){e.preventDefault(); if(input.value===PASS){try{localStorage.setItem(KEY,PASS);}catch(e){} reveal();} else {err.textContent='Wrong password.';input.value='';input.focus();}});
+  }
+  try { if(localStorage.getItem(KEY)===PASS){ document.readyState!=='loading'?reveal():document.addEventListener('DOMContentLoaded',reveal);} else { document.readyState!=='loading'?showLock():document.addEventListener('DOMContentLoaded',showLock);} }
+  catch(e){ document.readyState!=='loading'?showLock():document.addEventListener('DOMContentLoaded',showLock);}
+})();
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#F8F6F1;--paper:#FFFFFF;--ink:#1A1814;--ink-soft:#524A3F;--ink-faint:#8B8276;--rule:#E5DFD0;--rule-soft:#EFEADC;--accent:#8B3A3A;--accent-deep:#5E2424;--green:#2F6B3A;--amber:#B08940;--red:#A03A2E;}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--ink);font-family:'Inter',system-ui,sans-serif;font-size:15px;line-height:1.55;-webkit-font-smoothing:antialiased}
+.page{max-width:980px;margin:0 auto;padding:30px 30px 90px}
+a{color:var(--accent);text-decoration:none}
+.topnav{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:26px;font-size:13px}
+.topnav a{padding:6px 13px;border-radius:999px;color:var(--ink-soft);background:var(--rule-soft)}
+.topnav a.current{background:var(--accent-deep);color:#fff;font-weight:600}
+h1{font-family:'Crimson Pro',Georgia,serif;font-weight:600;font-size:34px;margin:0 0 6px}
+.sub{color:var(--ink-soft);margin-bottom:8px}
+.legend{display:flex;flex-wrap:wrap;gap:14px;margin:14px 0 26px;font-size:12.5px}
+.pill{display:inline-flex;align-items:center;gap:6px;padding:3px 10px;border-radius:999px;font-weight:600}
+.pill.live{background:#E7F0E8;color:var(--green)}
+.pill.snap{background:#F6F0DF;color:#6b5a2e}
+.card{background:var(--paper);border:1px solid var(--rule);border-radius:14px;padding:20px 22px;margin-bottom:16px}
+.card h2{font-family:'Crimson Pro',Georgia,serif;font-size:21px;margin:0 0 4px}
+.card .tag{font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--ink-faint);font-weight:700}
+.row{display:grid;grid-template-columns:130px 1fr;gap:6px 16px;margin-top:12px;font-size:13.5px}
+.row dt{color:var(--ink-faint);font-weight:600;text-transform:uppercase;letter-spacing:.03em;font-size:11px;padding-top:2px}
+.row dd{margin:0;color:var(--ink-soft)}
+.caveat{color:#6b5a2e}
+code{background:var(--rule-soft);padding:1px 5px;border-radius:4px;font-size:12.5px}
+.foot{margin-top:22px;font-size:12px;color:var(--ink-faint);text-align:center}
+</style>
+</head>
+<body>
+<div class="page">
+  <div class="topnav">
+    <a href="/proposal">Proposal</a>
+    <a href="/">Dashboard</a>
+    <a href="/keywords.html">Keyword Coverage</a>
+    <a href="/insights.html">Insights &amp; Health</a>
+    <a href="/deliverables.html">500 Deliverables</a>
+    <a href="/articles.html">Content</a>
+    <a href="/opportunities.html">Opportunities</a>
+    <a class="current" href="/methodology.html">Methodology</a>
+  </div>
+
+  <h1>Methodology &amp; Data Provenance</h1>
+  <div class="sub">Exactly where every number on this dashboard comes from, how fresh it is, and how it's calculated — so nothing here has to be taken on trust.</div>
+  <div class="legend">
+    <span class="pill live">● Live · auto-refreshed</span>
+    <span class="pill snap">● Dated snapshot · manual refresh</span>
+    <span style="color:var(--ink-faint)">Freshness dates below are read live from the data file.</span>
+  </div>
+
+  <div class="card">
+    <span class="tag">Goal 1 · Visitors &amp; Donations from Google</span>
+    <h2>Organic clicks &amp; donations <span class="pill live" style="font-size:11px;vertical-align:middle">Live</span></h2>
+    <dl class="row">
+      <dt>Source</dt><dd>Google Search Console (property <code>sc-domain:rmbhcharities.com</code>) for organic clicks; Google Analytics 4 (property 382006145, "Organic Search" channel, key events) for donations.</dd>
+      <dt>Freshness</dt><dd>Live via OAuth, refreshed automatically every week. Last Search Console + Analytics pull: <strong id="d-g1">—</strong>.</dd>
+      <dt>How it's computed</dt><dd>"Last full month" is the most recent <em>complete</em> calendar month — the in-progress month is deliberately excluded so partial data never flatters the trend. Month-over-month, year-over-year, and the 12-month average are all computed on complete months only.</dd>
+      <dt class="caveat">Honest caveats</dt><dd class="caveat">GA4 "key events" count donations / key actions, not dollar amounts (GA4 records the event, not the gift size). Organic traffic is <strong>down year-over-year</strong> — shown straight, not smoothed (the exact live figure is on the Dashboard).</dd>
+    </dl>
+  </div>
+
+  <div class="card">
+    <span class="tag">Goal 2 · Hold the rankings you already won</span>
+    <h2>Priority keyword positions <span class="pill live" style="font-size:11px;vertical-align:middle">Live</span></h2>
+    <dl class="row">
+      <dt>Source</dt><dd>Three rank sources are shown side by side so they can be cross-checked: Semrush (US) current, Ubersuggest (US) current, and the Google Search Console 90-day average. The sample is 40 priority keywords, every one ranking right now, benchmarked from June 15, 2026.</dd>
+      <dt>Freshness</dt><dd>The headline "holding" position is the live current rank (Semrush, or Ubersuggest where Semrush has no entry); the Search Console 90-day average is shown alongside for comparison. Last checked: <strong id="d-g2">—</strong>.</dd>
+      <dt>How it's computed</dt><dd>"Holding page 1" = keywords at position ≤ 10; "in top 5" = ≤ 5. The pass line is 35 of the 40 keywords.</dd>
+      <dt class="caveat">Honest caveats</dt><dd class="caveat">The 40-keyword list is a curated working sample of keywords that <em>actually rank right now</em> — anything not ranking was removed. The three sources can differ (Semrush and Ubersuggest are point-in-time; Search Console is a 90-day average), which is exactly why all three are shown.</dd>
+    </dl>
+  </div>
+
+  <div class="card">
+    <span class="tag">Goal 3 · Win rankings on new topics</span>
+    <h2>Broaden / new-topic targets <span class="pill live" style="font-size:11px;vertical-align:middle">Status live</span></h2>
+    <dl class="row">
+      <dt>Source</dt><dd>Philanthropy, legacy and Israel-impact giving terms (real Semrush US search volumes), cross-checked against live Search Console so nothing already-ranking is mislabelled. Alongside, the newly published articles already ranking page 1 in new topic areas (mourning, prayer, Rabbi Meir history) are shown as broaden wins.</dd>
+      <dt>Freshness</dt><dd>Candidate target list is a dated Semrush pull; whether RMBH ranks for each yet is checked against live GSC (null = not yet ranking).</dd>
+      <dt>How it's computed</dt><dd>Target keywords RMBH does not yet rank for, by search volume; current position stays empty until GSC shows the site ranking.</dd>
+      <dt class="caveat">Honest caveats</dt><dd class="caveat">This is a list of <em>targets we chose</em> (inherently curated, not a measurement); search volumes are Semrush estimates from the dated pull.</dd>
+    </dl>
+  </div>
+
+  <div class="card">
+    <span class="tag">Goal 4 · Compete with the other big Israeli charities</span>
+    <h2>Share of organic traffic</h2>
+    <dl class="row">
+      <dt>Source</dt><dd>Semrush organic-traffic estimates for RMBH and the competitor set. Headline view (leading Israel charities): Colel Chabad, Meir Panim, Lev LaLev, Yad Ezra, Yad Eliezer, Latet. Second view (direct Rabbi-Meir charities): Kupath Rabbi Meir, Rabbi Meir Baal Haneis, Reb Meir.</dd>
+      <dt>Freshness</dt><dd>This is the one metric that is NOT auto-live: competitors' traffic isn't available from Google's APIs — only from Semrush — so it refreshes on a manual Semrush pull, not automatically. Pulled: <strong id="d-g4">—</strong>.</dd>
+      <dt>How it's computed</dt><dd>Each domain's share = its estimated organic traffic ÷ the total of the tracked set; rank is by traffic.</dd>
+      <dt class="caveat">Honest caveats</dt><dd class="caveat">Semrush estimates differ from GSC actuals (different methodology — that's why RMBH's Semrush traffic estimate and its GSC clicks aren't the same number). Yad Eliezer and Latet don't register in Semrush's US database (their traffic is Israel-based) and are shown as "no data," not zero. To make this metric live would require Semrush API units.</dd>
+    </dl>
+  </div>
+
+  <div class="card">
+    <span class="tag">Goal 5 · Be the AI-named entity</span>
+    <h2>AI recognition <span class="pill live" style="font-size:11px;vertical-align:middle">Live</span></h2>
+    <dl class="row">
+      <dt>Source</dt><dd>Live API calls each scan to ChatGPT (gpt-4o), Gemini (2.5-flash), and Google AI Search (Gemini + Google's search-grounding). Claude and Perplexity are pending API credit and switch on automatically once funded.</dd>
+      <dt>Freshness</dt><dd>Live, re-queried each refresh; the actual answers are archived with their date. Last scan: <strong id="d-g5">—</strong>.</dd>
+      <dt>How it's computed</dt><dd>A "mention" counts only when the answer names the <em>client organisation</em> — "Rabbi Meir Baal Haness Charities" or rmbhcharities.com. It deliberately does NOT count the generic sage's name, the abbreviation "RMBH" (which also means Ronald McDonald House), or the competitor "Kupath Rabbi Meir Baal Haness."</dd>
+      <dt class="caveat">Honest caveats</dt><dd class="caveat">AI answers are non-deterministic, so the count varies scan to scan — that's normal, not a data error. The matrix shows only the engines that actually ran, and you can expand any prompt to read the real answer that named RMBH.</dd>
+    </dl>
+  </div>
+
+  <div class="card">
+    <span class="tag">Deliverables &amp; Content pipeline</span>
+    <h2>The 500-deliverable log <span class="pill live" style="font-size:11px;vertical-align:middle">Live</span></h2>
+    <dl class="row">
+      <dt>Source</dt><dd>The CMS content sheet joined with live GSC per-page performance, plus a credit-value catalog for the credit-weighting.</dd>
+      <dt>Freshness</dt><dd>Rebuilt each refresh from the sheet + live Search Console per-page data.</dd>
+      <dt>How it's computed</dt><dd>"Shipped" = items live and verified; "committed" = shipped + in-production; credit-weight comes from the catalog (1 credit = $25).</dd>
+      <dt class="caveat">Honest caveats</dt><dd class="caveat">"500" is mixed deliverables, not 500 articles. A few "ready" pages are pre-existing pages already live in Google (shown as net-new vs already-live where relevant).</dd>
+    </dl>
+  </div>
+
+  <div class="card" style="background:var(--rule-soft);border-color:var(--rule)">
+    <span class="tag">How accuracy is enforced</span>
+    <h2>Self-checking, every week</h2>
+    <dl class="row">
+      <dt>Guardian</dt><dd>Before anything is published, an automated Accuracy Guardian re-derives every figure independently from the source data and <strong>blocks the deploy if any number is off</strong> — it even fault-tests itself by injecting a deliberate error to prove it catches one.</dd>
+      <dt>Live monitor</dt><dd>A daily check confirms the live site stays up, fresh, and correct, and flags any drift.</dd>
+      <dt>No fabrication</dt><dd>Every keyword and figure carries a labelled source; nothing is placeholder or invented. Where a number is an estimate (Semrush search volumes, competitor traffic) it is labelled as an estimate, and rankings/impressions/donations are measured from live Google data.</dd>
+      <dt>Refresh cadence</dt><dd>The live goals refresh weekly via a scheduled task on the agency's machine (it last ran successfully and is verified). If that machine is off at the scheduled time the run is deferred to the next opportunity, and the data-freshness dates above always show the true last-update time — the dashboard never claims fresher data than it has.</dd>
+    </dl>
+  </div>
+
+  <div class="foot">Rabbi Meir Baal Haness Charities · Live Growth Dashboard · prepared by Rank Friendly</div>
+</div>
+<script>
+(async function(){
+  try{
+    const d = await (await fetch('/data.json',{cache:'no-store'})).json();
+    const fmt = s => s ? new Date(s).toLocaleDateString('en-US',{month:'long',day:'numeric',year:'numeric'}) : '—';
+    const set = (id,v)=>{const el=document.getElementById(id); if(el)el.textContent=v;};
+    set('d-g1', fmt(d.lastUpdated));
+    set('d-g2', fmt(d.goal2 && d.goal2.lastChecked));
+    set('d-g4', fmt(d.goal4 && d.goal4.shareOfVoice && d.goal4.shareOfVoice.lastFetched));
+    set('d-g5', fmt(d.goal5 && d.goal5.lastScanned));
+  }catch(e){}
+})();
+</script>
+</body>
+</html>

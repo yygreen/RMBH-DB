@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="robots" content="noindex" />
+<title>RMBH · Content Production</title>
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<style id="__rmbh_auth_style">html,body{visibility:hidden}</style>
+<script>
+(function(){
+  var PASS = '5goals3to6months';
+  var KEY = 'rmbh_2026_auth';
+  function reveal(){
+    var s = document.getElementById('__rmbh_auth_style');
+    if (s) s.parentNode.removeChild(s);
+    var o = document.getElementById('__rmbh_pw_overlay');
+    if (o) o.parentNode.removeChild(o);
+  }
+  function showLock(){
+    var html = '<div id="__rmbh_pw_overlay" style="position:fixed;inset:0;z-index:99999;background:linear-gradient(135deg,#2B2440 0%,#4A3266 55%,#6B3A6E 100%);display:flex;align-items:center;justify-content:center;font-family:Inter,system-ui,sans-serif;visibility:visible"><form id="__rmbh_pw_form" style="background:rgba(255,255,255,0.07);border:1px solid rgba(255,255,255,0.18);border-radius:14px;padding:36px 40px;max-width:400px;width:90%;color:#fff;backdrop-filter:blur(8px)"><div style="font-size:11px;letter-spacing:0.22em;text-transform:uppercase;opacity:0.78;font-weight:600;margin-bottom:14px">Rabbi Meir Baal Haness Charities</div><h1 style="font-family:\'Crimson Pro\',Georgia,serif;font-weight:600;font-size:32px;line-height:1.1;margin:0 0 8px">Live Dashboard</h1><p style="font-size:14px;opacity:0.85;margin:0 0 22px">Enter the password Joseph shared with you.</p><input type="password" id="__rmbh_pw_input" autofocus placeholder="Password" style="width:100%;padding:12px 14px;font-size:15px;border-radius:8px;border:1px solid rgba(255,255,255,0.3);background:rgba(255,255,255,0.08);color:#fff;outline:none;font-family:inherit;box-sizing:border-box"><div id="__rmbh_pw_err" style="font-size:13px;color:#FFB6B6;margin-top:10px;min-height:18px"></div><button type="submit" style="margin-top:14px;width:100%;padding:12px;font-size:14px;font-weight:600;border-radius:8px;border:none;background:#fff;color:#5E2424;cursor:pointer;font-family:inherit">Enter</button></form></div>';
+    document.body.insertAdjacentHTML('beforeend', html);
+    var style = document.getElementById('__rmbh_auth_style');
+    if (style) style.textContent = '#__rmbh_pw_overlay{visibility:visible !important}html,body{visibility:hidden}';
+    var form = document.getElementById('__rmbh_pw_form');
+    var input = document.getElementById('__rmbh_pw_input');
+    var err = document.getElementById('__rmbh_pw_err');
+    form.addEventListener('submit', function(e){
+      e.preventDefault();
+      if (input.value === PASS) {
+        try { localStorage.setItem(KEY, PASS); } catch(e){}
+        reveal();
+      } else {
+        err.textContent = 'Wrong password.';
+        input.value = '';
+        input.focus();
+      }
+    });
+  }
+  try {
+    if (localStorage.getItem(KEY) === PASS) {
+      if (document.readyState !== 'loading') reveal();
+      else document.addEventListener('DOMContentLoaded', reveal);
+    } else {
+      if (document.readyState !== 'loading') showLock();
+      else document.addEventListener('DOMContentLoaded', showLock);
+    }
+  } catch(e) {
+    if (document.readyState !== 'loading') showLock();
+    else document.addEventListener('DOMContentLoaded', showLock);
+  }
+})();
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#F8F6F1; --paper:#FFFFFF; --ink:#1A1814; --ink-soft:#524A3F; --ink-faint:#8B8276;
+  --rule:#E5DFD0; --rule-soft:#EFEADC; --accent:#8B3A3A; --accent-deep:#5E2424; --accent-soft:#C56666;
+  --hero-1:#2B2440; --hero-2:#4A3266; --hero-3:#6B3A6E;
+  --green:#2F6B3A; --amber:#B08940; --red:#A03A2E; --blue:#3A5A8B;
+}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--ink);font-family:'Inter',system-ui,sans-serif;font-size:15px;line-height:1.5;-webkit-font-smoothing:antialiased}
+.page{max-width:1280px;margin:0 auto;padding:30px 30px 90px}
+a{color:var(--accent);text-decoration:none}
+a:hover{text-decoration:underline}
+.topnav{display:flex;gap:4px;background:var(--paper);border:1px solid var(--rule);border-radius:999px;padding:4px;width:fit-content;margin-bottom:22px;font-size:13px}
+.topnav a{padding:7px 16px;border-radius:999px;color:var(--ink-soft);font-weight:500}
+.topnav a:hover{color:var(--accent);text-decoration:none}
+.topnav a.current{background:var(--ink);color:#fff}
+h1{font-family:'Crimson Pro',serif;font-weight:700;font-size:34px;margin:0 0 4px;letter-spacing:-.01em}
+.sub{color:var(--ink-faint);font-size:13px;margin-bottom:24px}
+.sub b{color:var(--ink-soft);font-weight:600}
+
+/* Funnel */
+.funnel{display:grid;grid-template-columns:repeat(6,1fr);gap:12px;margin-bottom:26px}
+.fcard{background:var(--paper);border:1px solid var(--rule);border-radius:14px;padding:16px 16px 14px;position:relative;overflow:hidden}
+.fcard .lab{font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:var(--ink-faint);font-weight:600}
+.fcard .big{font-family:'Crimson Pro',serif;font-size:32px;font-weight:700;line-height:1.05;margin-top:6px}
+.fcard .note{font-size:11px;color:var(--ink-faint);margin-top:2px}
+.fcard.accent .big{color:var(--accent)}
+.fcard .bar{position:absolute;left:0;bottom:0;height:3px;background:var(--accent-soft)}
+@media(max-width:1000px){.funnel{grid-template-columns:repeat(3,1fr)}}
+@media(max-width:600px){.funnel{grid-template-columns:repeat(2,1fr)}}
+
+/* Hub strip */
+.section-title{font-family:'Crimson Pro',serif;font-weight:600;font-size:20px;margin:30px 0 12px}
+.hubwrap{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:8px}
+.hubchip{background:var(--paper);border:1px solid var(--rule);border-radius:10px;padding:8px 12px;font-size:12px;cursor:pointer;transition:.12s}
+.hubchip:hover{border-color:var(--accent-soft)}
+.hubchip.active{background:var(--ink);color:#fff;border-color:var(--ink)}
+.hubchip b{font-weight:700}
+.hubchip .m{color:var(--ink-faint);margin-left:6px}
+.hubchip.active .m{color:#d9cdcd}
+.qwlist{background:var(--paper);border:1px solid var(--rule);border-radius:14px;overflow:hidden;margin-bottom:6px}
+.qwrow{display:flex;align-items:center;gap:14px;padding:9px 14px;border-bottom:1px solid var(--rule-soft);font-size:13px}
+.qwrow:last-child{border-bottom:0}
+.qwrow:hover{background:#FCFAF5}
+.qwrow .qpos{flex:0 0 46px;font-weight:700;font-variant-numeric:tabular-nums}
+.qwrow .qurl{flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-family:ui-monospace,monospace;font-size:12px}
+.qwrow .qnum{flex:0 0 86px;text-align:right;color:var(--ink-soft);font-variant-numeric:tabular-nums}
+.qwrow .qtag{flex:0 0 64px;text-align:right;font-size:10.5px;text-transform:uppercase;letter-spacing:.04em}
+
+/* Controls */
+.controls{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin:18px 0 12px}
+.controls input[type=search],.controls select{font-family:inherit;font-size:13px;padding:9px 12px;border:1px solid var(--rule);border-radius:10px;background:var(--paper);color:var(--ink)}
+.controls input[type=search]{min-width:260px}
+.seg{display:flex;border:1px solid var(--rule);border-radius:10px;overflow:hidden;background:var(--paper)}
+.seg button{font-family:inherit;font-size:12.5px;font-weight:500;padding:8px 14px;border:0;background:transparent;color:var(--ink-soft);cursor:pointer}
+.seg button.on{background:var(--accent);color:#fff}
+.count{margin-left:auto;color:var(--ink-faint);font-size:12.5px}
+
+/* Table */
+.tablecard{background:var(--paper);border:1px solid var(--rule);border-radius:14px;overflow-x:auto}
+table{width:100%;border-collapse:collapse;font-size:13px}
+thead th{text-align:left;padding:11px 14px;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--ink-faint);font-weight:600;border-bottom:1px solid var(--rule);background:var(--rule-soft);cursor:pointer;white-space:nowrap}
+thead th:hover{color:var(--accent)}
+tbody td{padding:11px 14px;border-bottom:1px solid var(--rule-soft);vertical-align:top}
+tbody tr:last-child td{border-bottom:0}
+tbody tr:hover{background:#FCFAF5}
+.t-title{font-weight:600;color:var(--ink);max-width:340px}
+.t-title a{color:var(--ink)}
+.t-slug{display:block;color:var(--ink-faint);font-size:11px;margin-top:2px;font-family:ui-monospace,monospace;max-width:340px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.num{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+.kw{color:var(--ink-soft);max-width:190px}
+.kw .none{color:var(--ink-faint);font-style:italic}
+.kw .ranksfor{color:var(--green);font-size:12px}
+.kw .ranksfor b{font-weight:600}
+.btn{font-family:inherit;font-size:12.5px;font-weight:600;padding:8px 14px;border:1px solid var(--rule);border-radius:10px;background:var(--paper);color:var(--accent);cursor:pointer}
+.btn:hover{border-color:var(--accent-soft)}
+.badge{display:inline-block;padding:2px 9px;border-radius:999px;font-size:11px;font-weight:600;white-space:nowrap}
+.b-ready{background:#F0ECE3;color:#7a6f5d}
+.b-published{background:#EEF1F8;color:var(--blue)}
+.b-indexed{background:#F6F0DF;color:var(--amber)}
+.b-page1{background:#EEF3EC;color:var(--green)}
+.b-top3{background:#E3F0E6;color:#1f5a2c}
+.pos{font-weight:700;font-variant-numeric:tabular-nums}
+.pos.good{color:var(--green)}.pos.mid{color:var(--amber)}.pos.bad{color:var(--ink-faint)}
+.dash{color:var(--ink-faint)}
+.foot{margin-top:26px;color:var(--ink-faint);font-size:12px;border-top:1px solid var(--rule);padding-top:16px}
+.note-inline{background:#F6F0DF;border:1px solid var(--tile-gold-edge,#DCC78D);border-radius:10px;padding:10px 14px;font-size:12.5px;color:#6b5a2e;margin:6px 0 18px}
+</style>
+</head>
+<body>
+<div class="page">
+  <div class="topnav">
+    <a href="/proposal">Proposal</a>
+    <a href="/">Dashboard</a>
+    <a href="/keywords.html">Keyword Coverage</a>
+    <a href="/insights.html">Insights &amp; Health</a>
+    <a href="/deliverables.html">500 Deliverables</a>
+    <a class="current" href="/articles.html">Content</a>
+    <a href="/opportunities.html">Opportunities</a>
+    <a href="/methodology.html">Methodology</a>
+  </div>
+
+  <h1>Content Production &amp; Keyword Tracker</h1>
+  <div style="background:#FBF2DD;border:1px solid #DCC78D;border-radius:12px;padding:16px 20px;margin:8px 0 18px;color:#6b5a2e;font-size:14.5px;line-height:1.5"><strong>🚧 Under construction.</strong> The content workstream is being rebuilt around the finalised 2026 content strategy — page targets, hubs and the publishing plan are still being locked in with Joseph &amp; Lennart. <strong>It will publish here as soon as the plan is set.</strong> The live figures below are a work-in-progress snapshot, shown dimmed until the plan is set.</div>
+  <div style="opacity:.32;filter:grayscale(.85) contrast(.72) brightness(1.08)">
+
+  <div class="section-title">Quick-win opportunities <span style="font-size:12px;color:var(--ink-faint);font-weight:400">— live pages ranking #4–20, ordered by impressions (where small gains move the most traffic)</span></div>
+  <div id="qw"></div>
+
+  <div class="section-title">Top donation-driving pages <span style="font-size:12px;color:var(--ink-faint);font-weight:400">— organic landing pages that convert; protect &amp; enhance these first</span></div>
+  <div id="converting"></div>
+
+  <div class="section-title">By content hub <span style="font-size:12px;color:var(--ink-faint);font-weight:400">— click to filter</span></div>
+  <div class="hubwrap" id="hubs"></div>
+
+  <div class="controls">
+    <input type="search" id="q" placeholder="Search title, slug, or keyword…" />
+    <div class="seg" id="statusSeg">
+      <button data-s="all" class="on">All</button>
+      <button data-s="ready">Ready</button>
+      <button data-s="published">Published</button>
+      <button data-s="live">Live in Google</button>
+    </div>
+    <select id="hubSel"><option value="">All hubs</option></select>
+    <button class="btn" id="csvBtn" type="button">⬇ Export CSV</button>
+    <span class="count" id="count"></span>
+  </div>
+
+  <div class="tablecard">
+    <table>
+      <thead><tr>
+        <th data-k="title">Page</th>
+        <th data-k="hub">Hub</th>
+        <th data-k="status">Status</th>
+        <th data-k="primaryKeyword">Target keyword</th>
+        <th data-k="position" class="num">Live pos.</th>
+        <th data-k="clicks" class="num">Clicks 90d</th>
+        <th data-k="impressions" class="num">Impr. 90d</th>
+      </tr></thead>
+      <tbody id="rows"></tbody>
+    </table>
+  </div>
+  </div><!-- /under-construction dim -->
+
+  <div class="foot" id="foot"></div>
+</div>
+
+<script>
+(async function(){
+  const d = await (await fetch('/articles-data.json',{cache:'no-store'})).json();
+  const fmt = n => n==null?'—':new Intl.NumberFormat('en-US').format(n);
+  const built = new Date(d.lastBuilt).toLocaleDateString('en-US',{year:'numeric',month:'short',day:'numeric'});
+
+  // Top-of-page stats (sub line, keyword-mapped note, 6-card funnel, publication-status + monthly chart)
+  // removed 2026-06-19 while the content strategy is being finalised — page is shown under construction.
+
+  // Hubs
+  const hubSel = document.getElementById('hubSel');
+  d.hubs.forEach(h=>{ const o=document.createElement('option'); o.value=h.hub; o.textContent=`${h.hub} (${h.total})`; hubSel.appendChild(o); });
+  document.getElementById('hubs').innerHTML = d.hubs.map(h=>
+    `<div class="hubchip" data-hub="${h.hub.replace(/"/g,'&quot;')}"><b>${h.hub}</b><span class="m">${h.total} · ${h.live} live</span></div>`
+  ).join('');
+
+  // Top donation-driving pages (organic landing-page conversions)
+  const tc = d.topConverting || [];
+  if (tc.length) {
+    const maxC = Math.max(...tc.map(p=>p.conversions)) || 1;
+    document.getElementById('converting').innerHTML = '<div class="qwlist">' + tc.slice(0,12).map(p=>{
+      const cvr = p.sessions ? ((p.conversions/p.sessions)*100).toFixed(0) : 0;
+      return `<div class="qwrow"><span class="qpos" style="flex:0 0 52px;color:var(--accent)">${fmt(p.conversions)}</span><a class="qurl" href="https://rmbhcharities.com${p.path}" target="_blank" rel="noopener">${p.path}</a><span class="qnum">${cvr}% conv.</span><span class="qnum">${fmt(p.sessions)} sess</span></div>`;
+    }).join('') + '</div><div style="font-size:11px;color:var(--ink-faint);margin-top:4px">Donations / key actions per organic landing page (last 90 days). The homepage and /lost-object/ drive the most — and /lost-object/ is also a top-3 push target above (currently #6), so it lifts traffic and donations at once.</div>';
+  }
+
+  // Quick-win opportunities (live pages ranking #4–20 by impressions)
+  document.getElementById('qw').innerHTML = '<div class="qwlist">' + (d.quickWins||[]).map(w=>`
+    <div class="qwrow">
+      <span class="qpos" style="color:${w.position<=10?'var(--amber)':'var(--ink-faint)'}">#${w.position}</span>
+      <a class="qurl" href="${w.url}" target="_blank" rel="noopener">${w.url.replace('https://rmbhcharities.com','')||'/'}</a>
+      <span class="qnum">${fmt(w.impressions)} impr</span>
+      <span class="qnum">${fmt(w.clicks)} clk</span>
+      <span class="qtag" style="flex:0 0 118px;color:${w.conversions>0?'var(--accent)':(w.inProject?'var(--green)':'var(--ink-faint)')};font-weight:${w.conversions>0?700:600}">${w.conversions>0?`🎯 ${fmt(w.conversions)} donations`:(w.inProject?'in 500':'existing')}</span>
+    </div>`).join('') + '</div>';
+
+  // State + render
+  let state = {status:'all', hub:'', q:'', sortK:'status', sortDir:1};
+  const stageBadge = a => {
+    const map={ready:['Ready','b-ready'],published:['Published','b-published'],indexed:['Indexed','b-indexed'],page1:['Page 1','b-page1'],top3:['Top 3','b-top3']};
+    const [t,c]=map[a.stage]||['—','b-ready']; return `<span class="badge ${c}">${t}</span>`;
+  };
+  const posCell = a => {
+    if(a.position==null) return '<span class="dash">—</span>';
+    const cls = a.position<=3?'good':a.position<=10?'mid':'bad';
+    return `<span class="pos ${cls}">${a.position}</span>`;
+  };
+  function applySort(arr){
+    const k=state.sortK, dir=state.sortDir;
+    return arr.slice().sort((a,b)=>{
+      let x=a[k], y=b[k];
+      if(k==='position'){ x=x==null?999:x; y=y==null?999:y; }
+      if(k==='clicks'||k==='impressions'){ x=x||0; y=y||0; }
+      if(typeof x==='string'){ return x.localeCompare(y)*dir; }
+      return (x-y)*dir;
+    });
+  }
+  function filtered(){
+    const q=state.q.toLowerCase();
+    return d.articles.filter(a=>{
+      if(state.status==='ready' && a.status!=='ready') return false;
+      if(state.status==='published' && a.status!=='published') return false;
+      if(state.status==='live' && !a.live) return false;
+      if(state.hub && a.hub!==state.hub) return false;
+      if(q && !(`${a.title} ${a.slug} ${a.primaryKeyword}`.toLowerCase().includes(q))) return false;
+      return true;
+    });
+  }
+  function render(){
+    const arr=applySort(filtered());
+    document.getElementById('count').textContent=`${arr.length} shown`;
+    document.getElementById('rows').innerHTML = arr.map(a=>`
+      <tr>
+        <td class="t-title"><a href="${a.url}" target="_blank" rel="noopener">${a.title||'(untitled)'}</a><span class="t-slug">${a.slug}</span></td>
+        <td>${a.hub}</td>
+        <td>${stageBadge(a)}</td>
+        <td class="kw">${a.primaryKeyword ? a.primaryKeyword : (a.kwQuery ? `<span class="ranksfor">ranks for <b>“${a.kwQuery}”</b></span>` : '<span class="none">— to map —</span>')}</td>
+        <td class="num">${posCell(a)}</td>
+        <td class="num">${a.clicks!=null?fmt(a.clicks):'<span class="dash">—</span>'}</td>
+        <td class="num">${a.impressions!=null?fmt(a.impressions):'<span class="dash">—</span>'}</td>
+      </tr>`).join('') || `<tr><td colspan="7" style="padding:30px;text-align:center;color:var(--ink-faint)">No articles match.</td></tr>`;
+  }
+  // Wire controls
+  document.getElementById('q').addEventListener('input',e=>{state.q=e.target.value;render();});
+  document.getElementById('statusSeg').addEventListener('click',e=>{
+    if(e.target.tagName!=='BUTTON')return;
+    [...e.currentTarget.children].forEach(b=>b.classList.remove('on'));
+    e.target.classList.add('on'); state.status=e.target.dataset.s; render();
+  });
+  hubSel.addEventListener('change',e=>{state.hub=e.target.value; syncHubChips(); render();});
+  function syncHubChips(){ document.querySelectorAll('.hubchip').forEach(c=>c.classList.toggle('active',c.dataset.hub===state.hub)); }
+  document.getElementById('hubs').addEventListener('click',e=>{
+    const chip=e.target.closest('.hubchip'); if(!chip)return;
+    state.hub = state.hub===chip.dataset.hub ? '' : chip.dataset.hub;
+    hubSel.value=state.hub; syncHubChips(); render();
+  });
+  document.querySelectorAll('thead th').forEach(th=>th.addEventListener('click',()=>{
+    const k=th.dataset.k; if(state.sortK===k) state.sortDir*=-1; else {state.sortK=k; state.sortDir=1;}
+    render();
+  }));
+  document.getElementById('csvBtn').addEventListener('click',()=>{
+    const arr=applySort(filtered());
+    const cols=['title','slug','url','hub','subHub','status','stage','primaryKeyword','kwQuery','position','kwPosition','clicks','impressions','publishedDate'];
+    const esc=v=>{v=v==null?'':String(v);return /[",\n]/.test(v)?'"'+v.replace(/"/g,'""')+'"':v;};
+    const csv=[cols.join(',')].concat(arr.map(a=>cols.map(c=>esc(a[c])).join(','))).join('\n');
+    const blob=new Blob([csv],{type:'text/csv;charset=utf-8'});
+    const url=URL.createObjectURL(blob); const link=document.createElement('a');
+    link.href=url; link.download='rmbh-content.csv'; link.click(); URL.revokeObjectURL(url);
+  });
+
+  document.getElementById('foot').innerHTML =
+    `Site-wide: <b style="color:var(--ink-soft)">${fmt(d.siteTotals.livePages)}</b> pages on rmbhcharities.com received search traffic in the last 90 days `+
+    `(<b style="color:var(--ink-soft)">${fmt(d.siteTotals.totalClicks90d)}</b> clicks, ${fmt(d.siteTotals.totalImpr90d)} impressions). `+
+    `Of the ${d.counts.total} content pages, ${d.funnel.published} are published and ${d.funnel.live} are already appearing in Google. `+
+    `Data refreshes from Google Search Console and updates with each weekly build.`;
+
+  render();
+})();
+</script>
+<script>window.addEventListener('unhandledrejection',function(){if(document.querySelector('[data-err]'))return;var b=document.createElement('div');b.setAttribute('data-err','1');b.style.cssText='position:fixed;top:0;left:0;right:0;z-index:99998;background:#A03A2E;color:#fff;padding:9px;text-align:center;font:13px Inter,system-ui,sans-serif';b.textContent='Could not load live data — please refresh the page.';document.body.appendChild(b);});</script>
+</body>
+</html>
