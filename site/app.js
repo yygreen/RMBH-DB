@@ -230,9 +230,14 @@
     }
   }
   {
-    const dn30 = (d.goal1.last30 && d.goal1.last30.donations != null) ? d.goal1.last30.donations : (ga4L ? ga4L.conversions : null);
+    // 2026-08-18 fix: this line used to show goal1.last30.donations (the BASELINE window,
+    // 30 days to Jun 15) under a "Last 30 days" label. Now shows the last full GA4 month.
+    const dnMonthly = (d.goal1.ga4 && d.goal1.ga4.donations && d.goal1.ga4.donations.monthly) || [];
+    const dnLast = dnMonthly.length ? dnMonthly[dnMonthly.length - 1] : null;
     const el = document.getElementById('ns-donations');
-    if (el && dn30 != null) el.innerHTML = `<span style="opacity:.8;font-size:13px">Last 30 days —</span> organic search drove <strong>${fmtNum(dn30)}</strong> donations.`;
+    if (el && dnLast && dnLast.organicDonations != null) {
+      el.innerHTML = `<span style="opacity:.8;font-size:13px">${fmtMonthLabel(dnLast.month)} —</span> organic search drove <strong>${fmtNum(dnLast.organicDonations)}</strong> donations.`;
+    }
   }
   // (Donations bar chart removed 2026-06-18 — consolidated to a single Goal-1 trend chart; the donation
   // count + dollar value live in the stat cards above, so we don't show two competing bar charts.)
