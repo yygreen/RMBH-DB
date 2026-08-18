@@ -1,2532 +1,2532 @@
 {
-  "lastUpdated": "2026-08-04T04:15:13.905Z",
-  "dataSource": "Google Search Console + Google Analytics 4 · auto-refreshed",
-  "engagement": {
-    "client": "Rabbi Meir Baal Haness Charities",
-    "preparedBy": "Joseph Green · Rank Friendly",
-    "startDate": "2026-06-15",
-    "endDate": "2026-12-15",
-    "duration": "6 months"
-  },
-  "goal1": {
-    "name": "Grow visitors from Google",
-    "current": 2317,
-    "target": 2816,
-    "passLine": 2300,
-    "baseline": 2131,
-    "baselineDate": "2026-04-23",
-    "unit": "monthly visitors",
-    "monthOverMonth": -6.5,
-    "yearOverYear": -20.3,
-    "history12mo": [
-      {
-        "month": "2025-08",
-        "visitors": 2952,
-        "impressions": 146035,
-        "position": 17.1,
-        "ctr": 2,
-        "priorYear": null
-      },
-      {
-        "month": "2025-09",
-        "visitors": 2750,
-        "impressions": 112611,
-        "position": 11.6,
-        "ctr": 2.4,
-        "priorYear": null
-      },
-      {
-        "month": "2025-10",
-        "visitors": 3190,
-        "impressions": 122422,
-        "position": 6.7,
-        "ctr": 2.6,
-        "priorYear": null
-      },
-      {
-        "month": "2025-11",
-        "visitors": 3139,
-        "impressions": 137364,
-        "position": 6.8,
-        "ctr": 2.3,
-        "priorYear": null
-      },
-      {
-        "month": "2025-12",
-        "visitors": 3607,
-        "impressions": 191667,
-        "position": 8.4,
-        "ctr": 1.9,
-        "priorYear": null
-      },
-      {
-        "month": "2026-01",
-        "visitors": 3572,
-        "impressions": 219198,
-        "position": 8.3,
-        "ctr": 1.6,
-        "priorYear": null
-      },
-      {
-        "month": "2026-02",
-        "visitors": 4187,
-        "impressions": 286629,
-        "position": 7.2,
-        "ctr": 1.5,
-        "priorYear": null
-      },
-      {
-        "month": "2026-03",
-        "visitors": 3428,
-        "impressions": 224373,
-        "position": 5.8,
-        "ctr": 1.5,
-        "priorYear": null
-      },
-      {
-        "month": "2026-04",
-        "visitors": 2889,
-        "impressions": 170733,
-        "position": 7,
-        "ctr": 1.7,
-        "priorYear": 2687
-      },
-      {
-        "month": "2026-05",
-        "visitors": 2837,
-        "impressions": 159327,
-        "position": 9.3,
-        "ctr": 1.8,
-        "priorYear": 3633
-      },
-      {
-        "month": "2026-06",
-        "visitors": 2477,
-        "impressions": 174034,
-        "position": 8.1,
-        "ctr": 1.4,
-        "priorYear": 3351
-      },
-      {
-        "month": "2026-07",
-        "visitors": 2317,
-        "impressions": 133400,
-        "position": 9.8,
-        "ctr": 1.7,
-        "priorYear": 2908
-      },
-      {
-        "month": "2026-08",
-        "visitors": 112,
-        "impressions": 8088,
-        "position": 12.7,
-        "ctr": 1.4,
-        "priorYear": 2952
-      }
-    ],
-    "ga4": {
-      "currentSessions": 233,
-      "currentUsers": 191,
-      "currentConversions": 5,
-      "conversions12mo": 3234,
-      "monthOverMonthSessions": -96.1,
-      "yearOverYearSessions": -93.3,
-      "history12mo": [
-        {
-          "month": "2025-08",
-          "sessions": 3473,
-          "users": 2588,
-          "conversions": 311
-        },
-        {
-          "month": "2025-09",
-          "sessions": 3326,
-          "users": 2423,
-          "conversions": 305
-        },
-        {
-          "month": "2025-10",
-          "sessions": 3681,
-          "users": 2780,
-          "conversions": 299
-        },
-        {
-          "month": "2025-11",
-          "sessions": 3759,
-          "users": 2795,
-          "conversions": 194
-        },
-        {
-          "month": "2025-12",
-          "sessions": 4602,
-          "users": 3282,
-          "conversions": 269
-        },
-        {
-          "month": "2026-01",
-          "sessions": 4337,
-          "users": 3220,
-          "conversions": 233
-        },
-        {
-          "month": "2026-02",
-          "sessions": 5024,
-          "users": 3832,
-          "conversions": 210
-        },
-        {
-          "month": "2026-03",
-          "sessions": 4085,
-          "users": 3118,
-          "conversions": 226
-        },
-        {
-          "month": "2026-04",
-          "sessions": 3473,
-          "users": 2718,
-          "conversions": 184
-        },
-        {
-          "month": "2026-05",
-          "sessions": 3611,
-          "users": 2755,
-          "conversions": 221
-        },
-        {
-          "month": "2026-06",
-          "sessions": 5945,
-          "users": 4317,
-          "conversions": 366
-        },
-        {
-          "month": "2026-07",
-          "sessions": 6032,
-          "users": 4412,
-          "conversions": 416
-        },
-        {
-          "month": "2026-08",
-          "sessions": 233,
-          "users": 191,
-          "conversions": 5
-        }
-      ],
-      "organicChannel": "Organic Search",
-      "lastFetched": "2026-08-04T04:15:13.905Z",
-      "donations": {
-        "source": "GA4 purchase event (completed gifts), property 382006145",
-        "window": "2025-08 … 2026-07 (12 full months)",
-        "siteDonations12mo": 20953,
-        "organicDonations12mo": 3234,
-        "currentMonthDonations": 18,
-        "monthly": [
-          {
-            "month": "2025-08",
-            "siteDonations": 1751,
-            "organicDonations": 311
-          },
-          {
-            "month": "2025-09",
-            "siteDonations": 1920,
-            "organicDonations": 305
-          },
-          {
-            "month": "2025-10",
-            "siteDonations": 1615,
-            "organicDonations": 299
-          },
-          {
-            "month": "2025-11",
-            "siteDonations": 1430,
-            "organicDonations": 194
-          },
-          {
-            "month": "2025-12",
-            "siteDonations": 2008,
-            "organicDonations": 269
-          },
-          {
-            "month": "2026-01",
-            "siteDonations": 1696,
-            "organicDonations": 233
-          },
-          {
-            "month": "2026-02",
-            "siteDonations": 1415,
-            "organicDonations": 210
-          },
-          {
-            "month": "2026-03",
-            "siteDonations": 1865,
-            "organicDonations": 226
-          },
-          {
-            "month": "2026-04",
-            "siteDonations": 1815,
-            "organicDonations": 184
-          },
-          {
-            "month": "2026-05",
-            "siteDonations": 2058,
-            "organicDonations": 221
-          },
-          {
-            "month": "2026-06",
-            "siteDonations": 1552,
-            "organicDonations": 366
-          },
-          {
-            "month": "2026-07",
-            "siteDonations": 1828,
-            "organicDonations": 416
-          }
-        ],
-        "lastFetched": "2026-08-04T04:15:13.905Z"
-      }
+ "lastUpdated": "2026-08-18T10:16:38.000Z",
+ "dataSource": "Google Search Console + Google Analytics 4 · auto-refreshed",
+ "engagement": {
+  "client": "Rabbi Meir Baal Haness Charities",
+  "preparedBy": "Joseph Green · Rank Friendly",
+  "startDate": "2026-06-15",
+  "endDate": "2026-12-15",
+  "duration": "6 months"
+ },
+ "goal1": {
+  "name": "Grow visitors from Google",
+  "current": 2317,
+  "target": 2816,
+  "passLine": 2300,
+  "baseline": 2131,
+  "baselineDate": "2026-04-23",
+  "unit": "monthly visitors",
+  "monthOverMonth": -6.5,
+  "yearOverYear": -20.3,
+  "history12mo": [
+   {
+    "month": "2025-08",
+    "visitors": 2952,
+    "impressions": 146035,
+    "position": 17.1,
+    "ctr": 2,
+    "priorYear": null
+   },
+   {
+    "month": "2025-09",
+    "visitors": 2750,
+    "impressions": 112611,
+    "position": 11.6,
+    "ctr": 2.4,
+    "priorYear": null
+   },
+   {
+    "month": "2025-10",
+    "visitors": 3190,
+    "impressions": 122422,
+    "position": 6.7,
+    "ctr": 2.6,
+    "priorYear": null
+   },
+   {
+    "month": "2025-11",
+    "visitors": 3139,
+    "impressions": 137364,
+    "position": 6.8,
+    "ctr": 2.3,
+    "priorYear": null
+   },
+   {
+    "month": "2025-12",
+    "visitors": 3607,
+    "impressions": 191667,
+    "position": 8.4,
+    "ctr": 1.9,
+    "priorYear": null
+   },
+   {
+    "month": "2026-01",
+    "visitors": 3572,
+    "impressions": 219198,
+    "position": 8.3,
+    "ctr": 1.6,
+    "priorYear": null
+   },
+   {
+    "month": "2026-02",
+    "visitors": 4187,
+    "impressions": 286629,
+    "position": 7.2,
+    "ctr": 1.5,
+    "priorYear": null
+   },
+   {
+    "month": "2026-03",
+    "visitors": 3428,
+    "impressions": 224373,
+    "position": 5.8,
+    "ctr": 1.5,
+    "priorYear": null
+   },
+   {
+    "month": "2026-04",
+    "visitors": 2889,
+    "impressions": 170733,
+    "position": 7,
+    "ctr": 1.7,
+    "priorYear": 2687
+   },
+   {
+    "month": "2026-05",
+    "visitors": 2837,
+    "impressions": 159327,
+    "position": 9.3,
+    "ctr": 1.8,
+    "priorYear": 3633
+   },
+   {
+    "month": "2026-06",
+    "visitors": 2477,
+    "impressions": 174034,
+    "position": 8.1,
+    "ctr": 1.4,
+    "priorYear": 3351
+   },
+   {
+    "month": "2026-07",
+    "visitors": 2317,
+    "impressions": 133400,
+    "position": 9.8,
+    "ctr": 1.7,
+    "priorYear": 2908
+   },
+   {
+    "month": "2026-08",
+    "visitors": 1226,
+    "impressions": 78049,
+    "position": 11.5,
+    "ctr": 1.6,
+    "priorYear": 2952
+   }
+  ],
+  "ga4": {
+   "currentSessions": 233,
+   "currentUsers": 191,
+   "currentConversions": 5,
+   "conversions12mo": 3234,
+   "monthOverMonthSessions": -96.1,
+   "yearOverYearSessions": -93.3,
+   "history12mo": [
+    {
+     "month": "2025-08",
+     "sessions": 3473,
+     "users": 2588,
+     "conversions": 311
     },
-    "topQueries": [
-      {
-        "keyword": "rabbi meir baal haness prayer",
-        "clicks": 1257,
-        "impressions": 6954,
-        "position": 3.1
-      },
-      {
-        "keyword": "rabbi meir baal haness",
-        "clicks": 897,
-        "impressions": 16505,
-        "position": 3.7
-      },
-      {
-        "keyword": "prayer for lost objects",
-        "clicks": 481,
-        "impressions": 5442,
-        "position": 2.4
-      },
-      {
-        "keyword": "shidduch resume",
-        "clicks": 465,
-        "impressions": 3235,
-        "position": 1.6
-      },
-      {
-        "keyword": "bracha for lost items",
-        "clicks": 439,
-        "impressions": 2413,
-        "position": 4.2
-      },
-      {
-        "keyword": "rabbi meir baal haness charity",
-        "clicks": 357,
-        "impressions": 2357,
-        "position": 4
-      },
-      {
-        "keyword": "rabbi meir baal haness donate",
-        "clicks": 331,
-        "impressions": 3445,
-        "position": 13
-      },
-      {
-        "keyword": "rabbi meir baal haness prayer for lost objects",
-        "clicks": 300,
-        "impressions": 1905,
-        "position": 4.7
-      },
-      {
-        "keyword": "jewish prayer for lost items",
-        "clicks": 291,
-        "impressions": 2151,
-        "position": 3.7
-      },
-      {
-        "keyword": "tehillim for success",
-        "clicks": 283,
-        "impressions": 6110,
-        "position": 4.4
-      },
-      {
-        "keyword": "meir baal haness",
-        "clicks": 266,
-        "impressions": 4102,
-        "position": 4.3
-      },
-      {
-        "keyword": "prayer for lost items jewish",
-        "clicks": 248,
-        "impressions": 1836,
-        "position": 4.5
-      },
-      {
-        "keyword": "reb meir baal haness donate",
-        "clicks": 242,
-        "impressions": 1641,
-        "position": 5.9
-      },
-      {
-        "keyword": "reb meir baal hanes",
-        "clicks": 224,
-        "impressions": 5006,
-        "position": 3.6
-      },
-      {
-        "keyword": "shidduch resume template",
-        "clicks": 200,
-        "impressions": 1663,
-        "position": 1.7
-      },
-      {
-        "keyword": "rmbh",
-        "clicks": 178,
-        "impressions": 2554,
-        "position": 3.9
-      },
-      {
-        "keyword": "tefillah for lost objects",
-        "clicks": 163,
-        "impressions": 1304,
-        "position": 4.9
-      },
-      {
-        "keyword": "meir baal haness prayer",
-        "clicks": 153,
-        "impressions": 1363,
-        "position": 8.2
-      },
-      {
-        "keyword": "amar rabbi binyamin prayer",
-        "clicks": 151,
-        "impressions": 1316,
-        "position": 4.6
-      },
-      {
-        "keyword": "prayer for lost object",
-        "clicks": 137,
-        "impressions": 1136,
-        "position": 2.9
-      },
-      {
-        "keyword": "rabbi meir baal hanes",
-        "clicks": 137,
-        "impressions": 3235,
-        "position": 5.5
-      },
-      {
-        "keyword": "rav meir baal haness prayer",
-        "clicks": 135,
-        "impressions": 1069,
-        "position": 6.6
-      },
-      {
-        "keyword": "prayer for lost items",
-        "clicks": 129,
-        "impressions": 13307,
-        "position": 6.2
-      },
-      {
-        "keyword": "rebbe meir baal hanes",
-        "clicks": 128,
-        "impressions": 1892,
-        "position": 4.6
-      },
-      {
-        "keyword": "rav meir baal haness",
-        "clicks": 117,
-        "impressions": 2141,
-        "position": 5.5
-      },
-      {
-        "keyword": "jewish prayer for success",
-        "clicks": 115,
-        "impressions": 3395,
-        "position": 7.4
-      },
-      {
-        "keyword": "lost object prayer",
-        "clicks": 107,
-        "impressions": 1239,
-        "position": 3.4
-      },
-      {
-        "keyword": "jewish prayer to find lost things",
-        "clicks": 104,
-        "impressions": 926,
-        "position": 3.4
-      },
-      {
-        "keyword": "prayer for lost objects jewish",
-        "clicks": 94,
-        "impressions": 1298,
-        "position": 5.4
-      },
-      {
-        "keyword": "pasuk for lost items",
-        "clicks": 92,
-        "impressions": 964,
-        "position": 3.7
-      }
-    ],
-    "average12mo": 3112,
-    "peakMonth": {
+    {
+     "month": "2025-09",
+     "sessions": 3326,
+     "users": 2423,
+     "conversions": 305
+    },
+    {
+     "month": "2025-10",
+     "sessions": 3681,
+     "users": 2780,
+     "conversions": 299
+    },
+    {
+     "month": "2025-11",
+     "sessions": 3759,
+     "users": 2795,
+     "conversions": 194
+    },
+    {
+     "month": "2025-12",
+     "sessions": 4602,
+     "users": 3282,
+     "conversions": 269
+    },
+    {
+     "month": "2026-01",
+     "sessions": 4337,
+     "users": 3220,
+     "conversions": 233
+    },
+    {
+     "month": "2026-02",
+     "sessions": 5024,
+     "users": 3832,
+     "conversions": 210
+    },
+    {
+     "month": "2026-03",
+     "sessions": 4085,
+     "users": 3118,
+     "conversions": 226
+    },
+    {
+     "month": "2026-04",
+     "sessions": 3473,
+     "users": 2718,
+     "conversions": 184
+    },
+    {
+     "month": "2026-05",
+     "sessions": 3611,
+     "users": 2755,
+     "conversions": 221
+    },
+    {
+     "month": "2026-06",
+     "sessions": 5945,
+     "users": 4317,
+     "conversions": 366
+    },
+    {
+     "month": "2026-07",
+     "sessions": 6032,
+     "users": 4412,
+     "conversions": 416
+    },
+    {
+     "month": "2026-08",
+     "sessions": 233,
+     "users": 191,
+     "conversions": 5
+    }
+   ],
+   "organicChannel": "Organic Search",
+   "lastFetched": "2026-08-04T04:15:13.905Z",
+   "donations": {
+    "source": "GA4 purchase event (completed gifts), property 382006145",
+    "window": "2025-08 … 2026-07 (12 full months)",
+    "siteDonations12mo": 20953,
+    "organicDonations12mo": 3234,
+    "currentMonthDonations": 18,
+    "monthly": [
+     {
+      "month": "2025-08",
+      "siteDonations": 1751,
+      "organicDonations": 311
+     },
+     {
+      "month": "2025-09",
+      "siteDonations": 1920,
+      "organicDonations": 305
+     },
+     {
+      "month": "2025-10",
+      "siteDonations": 1615,
+      "organicDonations": 299
+     },
+     {
+      "month": "2025-11",
+      "siteDonations": 1430,
+      "organicDonations": 194
+     },
+     {
+      "month": "2025-12",
+      "siteDonations": 2008,
+      "organicDonations": 269
+     },
+     {
+      "month": "2026-01",
+      "siteDonations": 1696,
+      "organicDonations": 233
+     },
+     {
       "month": "2026-02",
-      "visitors": 4187,
-      "impressions": 286629,
-      "position": 7.2,
-      "ctr": 1.5,
-      "priorYear": null
-    },
-    "history13wk": [
-      {
-        "weekStart": "2026-05-11",
-        "visitors": 600
-      },
-      {
-        "weekStart": "2026-05-18",
-        "visitors": 586
-      },
-      {
-        "weekStart": "2026-05-25",
-        "visitors": 652
-      },
-      {
-        "weekStart": "2026-06-01",
-        "visitors": 644
-      },
-      {
-        "weekStart": "2026-06-08",
-        "visitors": 666
-      },
-      {
-        "weekStart": "2026-06-15",
-        "visitors": 506
-      },
-      {
-        "weekStart": "2026-06-22",
-        "visitors": 523
-      },
-      {
-        "weekStart": "2026-06-29",
-        "visitors": 471
-      },
-      {
-        "weekStart": "2026-07-06",
-        "visitors": 493
-      },
-      {
-        "weekStart": "2026-07-13",
-        "visitors": 550
-      },
-      {
-        "weekStart": "2026-07-20",
-        "visitors": 523
-      },
-      {
-        "weekStart": "2026-07-27",
-        "visitors": 530
-      },
-      {
-        "weekStart": "2026-08-03",
-        "visitors": null
-      }
+      "siteDonations": 1415,
+      "organicDonations": 210
+     },
+     {
+      "month": "2026-03",
+      "siteDonations": 1865,
+      "organicDonations": 226
+     },
+     {
+      "month": "2026-04",
+      "siteDonations": 1815,
+      "organicDonations": 184
+     },
+     {
+      "month": "2026-05",
+      "siteDonations": 2058,
+      "organicDonations": 221
+     },
+     {
+      "month": "2026-06",
+      "siteDonations": 1552,
+      "organicDonations": 366
+     },
+     {
+      "month": "2026-07",
+      "siteDonations": 1828,
+      "organicDonations": 416
+     }
     ],
-    "last30": {
-      "startDate": "2026-05-17",
-      "endDate": "2026-06-15",
-      "traffic": 2750,
-      "donations": 244,
-      "window": "2026-05-17 … 2026-06-15",
-      "lastFetched": "2026-08-04T04:15:14.612Z"
-    }
+    "lastFetched": "2026-08-04T04:15:13.905Z"
+   }
   },
-  "goal2": {
-    "name": "Hold rankings on the priority sample",
-    "sampleSize": 40,
-    "passLine": 35,
-    "currentRetained": 34,
-    "lastChecked": "2026-08-04",
-    "sample": [
-      {
-        "keyword": "rabbi meir baal haness",
-        "currentPosition": 3,
-        "previousPosition": 3,
-        "change": 0,
-        "volume": 5710,
-        "url": "https://rmbhcharities.com/",
-        "tier": "BRAND",
-        "band": "page1",
-        "gscPosition90": 7,
-        "liveImpressions": 2070,
-        "semrushPosition": null,
-        "manualPosition": null,
-        "source": "ubersuggest",
-        "livePosition": 3,
-        "ubersuggestPosition": 3
-      },
-      {
-        "keyword": "rabbi meir baal haness prayer",
-        "currentPosition": 1,
-        "previousPosition": 1,
-        "change": 0,
-        "volume": 2190,
-        "url": "https://rmbhcharities.com/",
-        "tier": "BRAND",
-        "band": "page1",
-        "gscPosition90": 7,
-        "liveImpressions": 1504,
-        "semrushPosition": null,
-        "manualPosition": null,
-        "source": "ubersuggest",
-        "livePosition": 1,
-        "ubersuggestPosition": 1
-      },
-      {
-        "keyword": "amar rabbi binyamin",
-        "currentPosition": 1,
-        "previousPosition": 1,
-        "change": 0,
-        "volume": 130,
-        "url": "https://rmbhcharities.com/amar-rabbi-binyamin-meaning/",
-        "tier": "BRAND",
-        "band": "page1",
-        "gscPosition90": 6,
-        "liveImpressions": 475,
-        "semrushPosition": null,
-        "manualPosition": null,
-        "source": "ubersuggest",
-        "livePosition": 1,
-        "ubersuggestPosition": 1
-      },
-      {
-        "keyword": "rabbi meir baal haness yahrzeit",
-        "currentPosition": 2,
-        "previousPosition": 2,
-        "change": 0,
-        "volume": 90,
-        "url": "https://rmbhcharities.com/reb-meirs-yahrtzeit/",
-        "tier": "BRAND",
-        "band": "page1",
-        "gscPosition90": 22,
-        "liveImpressions": 185,
-        "semrushPosition": null,
-        "manualPosition": null,
-        "source": "ubersuggest",
-        "livePosition": 2,
-        "ubersuggestPosition": 2
-      },
-      {
-        "keyword": "yahrzeit of rabbi meir baal haness",
-        "currentPosition": 2,
-        "previousPosition": 2,
-        "change": 0,
-        "volume": 40,
-        "url": "https://rmbhcharities.com/reb-meirs-yahrtzeit/",
-        "tier": "BRAND",
-        "band": "page1",
-        "gscPosition90": 20,
-        "liveImpressions": 123,
-        "semrushPosition": null,
-        "manualPosition": 1,
-        "source": "ubersuggest",
-        "livePosition": 2,
-        "ubersuggestPosition": 2
-      },
-      {
-        "keyword": "rabbi meir baal haness kever",
-        "currentPosition": 3,
-        "previousPosition": 3,
-        "change": 0,
-        "volume": 30,
-        "url": "https://rmbhcharities.com/kvitel-to-rabbi-meir/",
-        "tier": "BRAND",
-        "band": "page1",
-        "gscPosition90": 18,
-        "liveImpressions": 145,
-        "semrushPosition": null,
-        "manualPosition": 1,
-        "source": "ubersuggest",
-        "livePosition": 3,
-        "ubersuggestPosition": 3
-      },
-      {
-        "keyword": "reb meir baal haness yahrzeit",
-        "currentPosition": 1,
-        "previousPosition": 1,
-        "change": 0,
-        "volume": 30,
-        "url": "https://rmbhcharities.com/reb-meirs-yahrtzeit/",
-        "tier": "BRAND",
-        "band": "page1",
-        "gscPosition90": 19,
-        "liveImpressions": 136,
-        "semrushPosition": null,
-        "manualPosition": 1,
-        "source": "ubersuggest",
-        "livePosition": 1,
-        "ubersuggestPosition": 1
-      },
-      {
-        "keyword": "kever rabbi meir baal haness",
-        "currentPosition": 2,
-        "previousPosition": 2,
-        "change": 0,
-        "volume": 30,
-        "url": "https://rmbhcharities.com/kvitel-to-rabbi-meir/",
-        "tier": "BRAND",
-        "band": "page1",
-        "gscPosition90": 18,
-        "liveImpressions": 159,
-        "semrushPosition": null,
-        "manualPosition": 2,
-        "source": "ubersuggest",
-        "livePosition": 2,
-        "ubersuggestPosition": 2
-      },
-      {
-        "keyword": "amar rabi binyamin",
-        "currentPosition": 1,
-        "previousPosition": 1,
-        "change": 0,
-        "volume": 20,
-        "url": "https://rmbhcharities.com/amar-rabbi-binyamin-meaning/",
-        "tier": "BRAND",
-        "band": "page1",
-        "gscPosition90": 1,
-        "liveImpressions": 43,
-        "semrushPosition": null,
-        "manualPosition": 2,
-        "source": "ubersuggest",
-        "livePosition": 1,
-        "ubersuggestPosition": 1
-      },
-      {
-        "keyword": "prayer for lost objects",
-        "currentPosition": 6,
-        "previousPosition": 6,
-        "change": 0,
-        "volume": 2060,
-        "url": "https://rmbhcharities.com/",
-        "tier": "ASSOCIATED",
-        "band": "page1",
-        "gscPosition90": 6,
-        "liveImpressions": 448,
-        "semrushPosition": null,
-        "manualPosition": null,
-        "source": "ubersuggest",
-        "livePosition": 6,
-        "ubersuggestPosition": 6
-      },
-      {
-        "keyword": "bracha for lost items",
-        "currentPosition": 1,
-        "previousPosition": 1,
-        "change": 0,
-        "volume": 790,
-        "url": "https://rmbhcharities.com/",
-        "tier": "ASSOCIATED",
-        "band": "page1",
-        "gscPosition90": 10,
-        "liveImpressions": 471,
-        "semrushPosition": null,
-        "manualPosition": null,
-        "source": "ubersuggest",
-        "livePosition": 1,
-        "ubersuggestPosition": 1
-      },
-      {
-        "keyword": "tehillim for sick",
-        "currentPosition": 62,
-        "previousPosition": 62,
-        "change": 0,
-        "volume": 270,
-        "url": "https://rmbhcharities.com/tehillim-guide/jewish-prayer-for-sick/",
-        "tier": "ASSOCIATED",
-        "band": "page3",
-        "gscPosition90": 12,
-        "liveImpressions": 887,
-        "semrushPosition": null,
-        "manualPosition": null,
-        "source": "ubersuggest",
-        "livePosition": 62,
-        "ubersuggestPosition": 62
-      },
-      {
-        "keyword": "parnassah",
-        "currentPosition": 6,
-        "previousPosition": 6,
-        "change": 0,
-        "volume": 260,
-        "url": "https://rmbhcharities.com/parnassah/",
-        "tier": "ASSOCIATED",
-        "band": "page1",
-        "gscPosition90": 6,
-        "liveImpressions": 673,
-        "semrushPosition": null,
-        "manualPosition": null,
-        "source": "ubersuggest",
-        "livePosition": 6,
-        "ubersuggestPosition": 6
-      },
-      {
-        "keyword": "what is the prayer for lost things",
-        "currentPosition": 21,
-        "previousPosition": 21,
-        "change": 0,
-        "volume": 220,
-        "url": "https://rmbhcharities.com/lost-object/",
-        "tier": "ASSOCIATED",
-        "band": "page3",
-        "gscPosition90": 11,
-        "liveImpressions": 248,
-        "semrushPosition": null,
-        "manualPosition": null,
-        "source": "ubersuggest",
-        "livePosition": 21,
-        "ubersuggestPosition": 21
-      },
-      {
-        "keyword": "prayer to find something lost",
-        "currentPosition": 14,
-        "previousPosition": 14,
-        "change": 0,
-        "volume": 220,
-        "url": "https://rmbhcharities.com/lost-object/",
-        "tier": "ASSOCIATED",
-        "band": "page2",
-        "gscPosition90": 11,
-        "liveImpressions": 260,
-        "semrushPosition": null,
-        "manualPosition": null,
-        "source": "ubersuggest",
-        "livePosition": 14,
-        "ubersuggestPosition": 14
-      },
-      {
-        "keyword": "kimcha depischa",
-        "currentPosition": 5,
-        "previousPosition": 5,
-        "change": 0,
-        "volume": 160,
-        "url": "https://rmbhcharities.com/kimcha-depischa/",
-        "tier": "ASSOCIATED",
-        "band": "page1",
-        "gscPosition90": 3,
-        "liveImpressions": 95,
-        "semrushPosition": null,
-        "manualPosition": null,
-        "source": "ubersuggest",
-        "livePosition": 5,
-        "ubersuggestPosition": 5
-      },
-      {
-        "keyword": "prayer for finding lost things",
-        "currentPosition": 16,
-        "previousPosition": 16,
-        "change": 0,
-        "volume": 160,
-        "url": "https://rmbhcharities.com/lost-object/",
-        "tier": "ASSOCIATED",
-        "band": "page2",
-        "gscPosition90": 9,
-        "liveImpressions": 208,
-        "semrushPosition": null,
-        "manualPosition": null,
-        "source": "ubersuggest",
-        "livePosition": 16,
-        "ubersuggestPosition": 16
-      },
-      {
-        "keyword": "shidduchim",
-        "currentPosition": 20,
-        "previousPosition": 20,
-        "change": 0,
-        "volume": 120,
-        "url": "https://rmbhcharities.com/yeshuos/shidduchim/navigating-shidduchim-process-with-confidence/",
-        "tier": "ASSOCIATED",
-        "band": "page2",
-        "gscPosition90": 10,
-        "liveImpressions": 553,
-        "semrushPosition": null,
-        "manualPosition": null,
-        "source": "ubersuggest",
-        "livePosition": 20,
-        "ubersuggestPosition": 20
-      },
-      {
-        "keyword": "r meir baal hanes",
-        "currentPosition": 3,
-        "previousPosition": 3,
-        "change": 0,
-        "volume": 110,
-        "url": "https://rmbhcharities.com/",
-        "tier": "ASSOCIATED",
-        "band": "page1",
-        "gscPosition90": 11,
-        "liveImpressions": 352,
-        "semrushPosition": null,
-        "manualPosition": null,
-        "source": "ubersuggest",
-        "livePosition": 3,
-        "ubersuggestPosition": 3
-      },
-      {
-        "keyword": "tehillim for parnassa",
-        "currentPosition": 8,
-        "previousPosition": 8,
-        "change": 0,
-        "volume": 110,
-        "url": "https://rmbhcharities.com/parnassah/guide-to-segulah-for-parnassah/",
-        "tier": "ASSOCIATED",
-        "band": "page1",
-        "gscPosition90": 7,
-        "liveImpressions": 289,
-        "semrushPosition": null,
-        "manualPosition": null,
-        "source": "ubersuggest",
-        "livePosition": 8,
-        "ubersuggestPosition": 8
-      },
-      {
-        "keyword": "mishnayos for shloshim",
-        "currentPosition": 4,
-        "previousPosition": 4,
-        "change": 0,
-        "volume": 100,
-        "url": "https://rmbhcharities.com/merit-for-departed/mishnayos-for-mourners/",
-        "tier": "ASSOCIATED",
-        "band": "page1",
-        "gscPosition90": 9,
-        "liveImpressions": 337,
-        "semrushPosition": null,
-        "manualPosition": null,
-        "source": "ubersuggest",
-        "livePosition": 4,
-        "ubersuggestPosition": 4
-      },
-      {
-        "keyword": "most powerful hebrew prayer for healing",
-        "currentPosition": 14,
-        "previousPosition": 14,
-        "change": 0,
-        "volume": 100,
-        "url": "https://rmbhcharities.com/tehillim-guide/asher-yatzar-healing-prayer/",
-        "tier": "ASSOCIATED",
-        "band": "page2",
-        "gscPosition90": 11,
-        "liveImpressions": 322,
-        "semrushPosition": null,
-        "manualPosition": null,
-        "source": "ubersuggest",
-        "livePosition": 14,
-        "ubersuggestPosition": 14
-      },
-      {
-        "keyword": "parnassah prayer",
-        "currentPosition": 3,
-        "previousPosition": 3,
-        "change": 0,
-        "volume": 90,
-        "url": "https://rmbhcharities.com/parnassah/guide-to-segulah-for-parnassah/",
-        "tier": "ASSOCIATED",
-        "band": "page1",
-        "gscPosition90": 6,
-        "liveImpressions": 276,
-        "semrushPosition": null,
-        "manualPosition": null,
-        "source": "ubersuggest",
-        "livePosition": 3,
-        "ubersuggestPosition": 3
-      },
-      {
-        "keyword": "mishnayos for yahrzeit",
-        "currentPosition": 4,
-        "previousPosition": 4,
-        "change": 0,
-        "volume": 90,
-        "url": "https://rmbhcharities.com/merit-for-departed/mishnayos-for-mourners/",
-        "tier": "ASSOCIATED",
-        "band": "page1",
-        "gscPosition90": 6,
-        "liveImpressions": 182,
-        "semrushPosition": null,
-        "manualPosition": null,
-        "source": "ubersuggest",
-        "livePosition": 4,
-        "ubersuggestPosition": 4
-      },
-      {
-        "keyword": "hachnosas kallah",
-        "currentPosition": 2,
-        "previousPosition": 2,
-        "change": 0,
-        "volume": 90,
-        "url": "https://rmbhcharities.com/rabbi-meir-baal-haness-donate-hachnosas-kallah/",
-        "tier": "ASSOCIATED",
-        "band": "page1",
-        "gscPosition90": 6,
-        "liveImpressions": 255,
-        "semrushPosition": null,
-        "manualPosition": null,
-        "source": "ubersuggest",
-        "livePosition": 2,
-        "ubersuggestPosition": 2
-      },
-      {
-        "keyword": "tehillim for healing",
-        "currentPosition": 8,
-        "previousPosition": 8,
-        "change": 0,
-        "volume": 90,
-        "url": "https://rmbhcharities.com/tehillim-guide/jewish-prayer-for-sick/",
-        "tier": "ASSOCIATED",
-        "band": "page1",
-        "gscPosition90": 8,
-        "liveImpressions": 367,
-        "semrushPosition": null,
-        "manualPosition": null,
-        "source": "ubersuggest",
-        "livePosition": 8,
-        "ubersuggestPosition": 8
-      },
-      {
-        "keyword": "tehillim for good luck",
-        "currentPosition": 5,
-        "previousPosition": 5,
-        "change": 0,
-        "volume": 80,
-        "url": "https://rmbhcharities.com/tehillim-guide/",
-        "tier": "ASSOCIATED",
-        "band": "page1",
-        "gscPosition90": 4,
-        "liveImpressions": 243,
-        "semrushPosition": null,
-        "manualPosition": 3,
-        "source": "ubersuggest",
-        "livePosition": 5,
-        "ubersuggestPosition": 5
-      },
-      {
-        "keyword": "tehillim for parnassah",
-        "currentPosition": 4,
-        "previousPosition": 4,
-        "change": 0,
-        "volume": 80,
-        "url": "https://rmbhcharities.com/parnassah/guide-to-segulah-for-parnassah/",
-        "tier": "ASSOCIATED",
-        "band": "page1",
-        "gscPosition90": 7,
-        "liveImpressions": 329,
-        "semrushPosition": null,
-        "manualPosition": null,
-        "source": "ubersuggest",
-        "livePosition": 4,
-        "ubersuggestPosition": 4
-      },
-      {
-        "keyword": "hebrew prayer for strength and courage",
-        "currentPosition": 8,
-        "previousPosition": 8,
-        "change": 0,
-        "volume": 80,
-        "url": "https://rmbhcharities.com/tehillim-guide/prayer-for-strength/",
-        "tier": "ASSOCIATED",
-        "band": "page1",
-        "gscPosition90": 5,
-        "liveImpressions": 195,
-        "semrushPosition": null,
-        "manualPosition": null,
-        "source": "ubersuggest",
-        "livePosition": 8,
-        "ubersuggestPosition": 8
-      },
-      {
-        "keyword": "jewish prayer request",
-        "currentPosition": 8,
-        "previousPosition": 8,
-        "change": 0,
-        "volume": 70,
-        "url": "https://rmbhcharities.com/kvitel-to-rabbi-meir/",
-        "tier": "ASSOCIATED",
-        "band": "page1",
-        "gscPosition90": 6,
-        "liveImpressions": 234,
-        "semrushPosition": null,
-        "manualPosition": null,
-        "source": "ubersuggest",
-        "livePosition": 8,
-        "ubersuggestPosition": 8
-      },
-      {
-        "keyword": "hachnasat kallah",
-        "currentPosition": 4,
-        "previousPosition": 4,
-        "change": 0,
-        "volume": 70,
-        "url": "https://rmbhcharities.com/rabbi-meir-baal-haness-donate-hachnosas-kallah/",
-        "tier": "ASSOCIATED",
-        "band": "page1",
-        "gscPosition90": 9,
-        "liveImpressions": 233,
-        "semrushPosition": null,
-        "manualPosition": null,
-        "source": "ubersuggest",
-        "livePosition": 4,
-        "ubersuggestPosition": 4
-      },
-      {
-        "keyword": "tehillim for sick person",
-        "currentPosition": 9,
-        "previousPosition": 9,
-        "change": 0,
-        "volume": 70,
-        "url": "https://rmbhcharities.com/tehillim-guide/jewish-prayer-for-sick/",
-        "tier": "ASSOCIATED",
-        "band": "page1",
-        "gscPosition90": 9,
-        "liveImpressions": 266,
-        "semrushPosition": null,
-        "manualPosition": null,
-        "source": "ubersuggest",
-        "livePosition": 9,
-        "ubersuggestPosition": 9
-      },
-      {
-        "keyword": "kvittel",
-        "currentPosition": 5,
-        "previousPosition": 5,
-        "change": 0,
-        "volume": 70,
-        "url": "https://rmbhcharities.com/kvitel-to-rabbi-meir/",
-        "tier": "ASSOCIATED",
-        "band": "page1",
-        "gscPosition90": 4,
-        "liveImpressions": 220,
-        "semrushPosition": null,
-        "manualPosition": null,
-        "source": "ubersuggest",
-        "livePosition": 5,
-        "ubersuggestPosition": 5
-      },
-      {
-        "keyword": "parnassa",
-        "currentPosition": 7,
-        "previousPosition": 7,
-        "change": 0,
-        "volume": 70,
-        "url": "https://rmbhcharities.com/parnassah/",
-        "tier": "ASSOCIATED",
-        "band": "page1",
-        "gscPosition90": 9,
-        "liveImpressions": 181,
-        "semrushPosition": null,
-        "manualPosition": null,
-        "source": "ubersuggest",
-        "livePosition": 7,
-        "ubersuggestPosition": 7
-      },
-      {
-        "keyword": "tehillim for success in exam",
-        "currentPosition": 4,
-        "previousPosition": 4,
-        "change": 0,
-        "volume": 60,
-        "url": "https://rmbhcharities.com/tehillim-guide/",
-        "tier": "ASSOCIATED",
-        "band": "page1",
-        "gscPosition90": 6,
-        "liveImpressions": 185,
-        "semrushPosition": null,
-        "manualPosition": null,
-        "source": "ubersuggest",
-        "livePosition": 4,
-        "ubersuggestPosition": 4
-      },
-      {
-        "keyword": "tehillim for good results",
-        "currentPosition": 2,
-        "previousPosition": 2,
-        "change": 0,
-        "volume": 60,
-        "url": "https://rmbhcharities.com/tehillim-guide/",
-        "tier": "ASSOCIATED",
-        "band": "page1",
-        "gscPosition90": 6,
-        "liveImpressions": 179,
-        "semrushPosition": null,
-        "manualPosition": null,
-        "source": "ubersuggest",
-        "livePosition": 2,
-        "ubersuggestPosition": 2
-      },
-      {
-        "keyword": "prayer for parnassah in hebrew",
-        "currentPosition": 2,
-        "previousPosition": 2,
-        "change": 0,
-        "volume": 50,
-        "url": "https://rmbhcharities.com/parnassah/guide-to-segulah-for-parnassah/",
-        "tier": "ASSOCIATED",
-        "band": "page1",
-        "gscPosition90": 7,
-        "liveImpressions": 199,
-        "semrushPosition": null,
-        "manualPosition": 3,
-        "source": "ubersuggest",
-        "livePosition": 2,
-        "ubersuggestPosition": 2
-      },
-      {
-        "keyword": "tehillim for protection",
-        "currentPosition": 4,
-        "previousPosition": 4,
-        "change": 0,
-        "volume": 50,
-        "url": "https://rmbhcharities.com/tehillim-guide/prayers-for-protection/",
-        "tier": "ASSOCIATED",
-        "band": "page1",
-        "gscPosition90": 6,
-        "liveImpressions": 159,
-        "semrushPosition": null,
-        "manualPosition": null,
-        "source": "ubersuggest",
-        "livePosition": 4,
-        "ubersuggestPosition": 4
-      },
-      {
-        "keyword": "tehilim for success",
-        "currentPosition": 5,
-        "previousPosition": 5,
-        "change": 0,
-        "volume": 50,
-        "url": "https://rmbhcharities.com/tehillim-guide/",
-        "tier": "ASSOCIATED",
-        "band": "page1",
-        "gscPosition90": 9,
-        "liveImpressions": 202,
-        "semrushPosition": null,
-        "manualPosition": 3,
-        "source": "ubersuggest",
-        "livePosition": 5,
-        "ubersuggestPosition": 5
-      },
-      {
-        "keyword": "jewish prayer for strength",
-        "currentPosition": 8,
-        "previousPosition": 8,
-        "change": 0,
-        "volume": 50,
-        "url": "https://rmbhcharities.com/tehillim-guide/prayer-for-strength/",
-        "tier": "ASSOCIATED",
-        "band": "page1",
-        "gscPosition90": 6,
-        "liveImpressions": 180,
-        "semrushPosition": null,
-        "manualPosition": null,
-        "source": "ubersuggest",
-        "livePosition": 8,
-        "ubersuggestPosition": 8
-      }
-    ],
-    "note": "40 priority keywords that are ACTUALLY RANKING right now — every one has a verified current position. Three rank sources are shown side by side so you can cross-check them: Semrush (US) current, Ubersuggest (US) current, and the Google Search Console 90-day average. The headline \"holding\" count uses the live current rank (Semrush, or Ubersuggest where Semrush has no entry). 34 holding page 1 (top 10), 25 in the top 5.",
-    "inTop3": 15,
-    "liveCount": 40,
-    "noGscDataCount": 0,
-    "liveDenominator": 40,
-    "brandCount": 9,
-    "associatedCount": 31,
-    "preserve": {
-      "baseline": {
-        "top5": 33,
-        "page1": 38,
-        "page2": 1
-      },
-      "trackingSince": "2026-06",
-      "current": {
-        "top5": 25,
-        "page1": 34,
-        "page2": 4
-      },
-      "monthly": [
-        {
-          "month": "2026-06",
-          "top5": 33,
-          "page1": 38,
-          "page2": 1
-        },
-        {
-          "month": "2026-07",
-          "top5": 25,
-          "page1": 34,
-          "page2": 4
-        },
-        {
-          "month": "2026-08",
-          "top5": 25,
-          "page1": 34,
-          "page2": 4
-        }
-      ],
-      "benchmarkDate": "2026-06-15",
-      "sourceBasis": "semrush+ubersuggest"
-    },
-    "inTop5": 25,
-    "semrushCount": 0,
-    "noSemrushCount": 40,
-    "bandTargets": {
-      "top5": 30,
-      "page1": 35,
-      "top20": 38
-    },
-    "manualCount": 0,
-    "ubersuggestCount": 40
+  "topQueries": [
+   {
+    "keyword": "rabbi meir baal haness prayer",
+    "clicks": 1257,
+    "impressions": 6954,
+    "position": 3.1
+   },
+   {
+    "keyword": "rabbi meir baal haness",
+    "clicks": 897,
+    "impressions": 16505,
+    "position": 3.7
+   },
+   {
+    "keyword": "prayer for lost objects",
+    "clicks": 481,
+    "impressions": 5442,
+    "position": 2.4
+   },
+   {
+    "keyword": "shidduch resume",
+    "clicks": 465,
+    "impressions": 3235,
+    "position": 1.6
+   },
+   {
+    "keyword": "bracha for lost items",
+    "clicks": 439,
+    "impressions": 2413,
+    "position": 4.2
+   },
+   {
+    "keyword": "rabbi meir baal haness charity",
+    "clicks": 357,
+    "impressions": 2357,
+    "position": 4
+   },
+   {
+    "keyword": "rabbi meir baal haness donate",
+    "clicks": 331,
+    "impressions": 3445,
+    "position": 13
+   },
+   {
+    "keyword": "rabbi meir baal haness prayer for lost objects",
+    "clicks": 300,
+    "impressions": 1905,
+    "position": 4.7
+   },
+   {
+    "keyword": "jewish prayer for lost items",
+    "clicks": 291,
+    "impressions": 2151,
+    "position": 3.7
+   },
+   {
+    "keyword": "tehillim for success",
+    "clicks": 283,
+    "impressions": 6110,
+    "position": 4.4
+   },
+   {
+    "keyword": "meir baal haness",
+    "clicks": 266,
+    "impressions": 4102,
+    "position": 4.3
+   },
+   {
+    "keyword": "prayer for lost items jewish",
+    "clicks": 248,
+    "impressions": 1836,
+    "position": 4.5
+   },
+   {
+    "keyword": "reb meir baal haness donate",
+    "clicks": 242,
+    "impressions": 1641,
+    "position": 5.9
+   },
+   {
+    "keyword": "reb meir baal hanes",
+    "clicks": 224,
+    "impressions": 5006,
+    "position": 3.6
+   },
+   {
+    "keyword": "shidduch resume template",
+    "clicks": 200,
+    "impressions": 1663,
+    "position": 1.7
+   },
+   {
+    "keyword": "rmbh",
+    "clicks": 178,
+    "impressions": 2554,
+    "position": 3.9
+   },
+   {
+    "keyword": "tefillah for lost objects",
+    "clicks": 163,
+    "impressions": 1304,
+    "position": 4.9
+   },
+   {
+    "keyword": "meir baal haness prayer",
+    "clicks": 153,
+    "impressions": 1363,
+    "position": 8.2
+   },
+   {
+    "keyword": "amar rabbi binyamin prayer",
+    "clicks": 151,
+    "impressions": 1316,
+    "position": 4.6
+   },
+   {
+    "keyword": "prayer for lost object",
+    "clicks": 137,
+    "impressions": 1136,
+    "position": 2.9
+   },
+   {
+    "keyword": "rabbi meir baal hanes",
+    "clicks": 137,
+    "impressions": 3235,
+    "position": 5.5
+   },
+   {
+    "keyword": "rav meir baal haness prayer",
+    "clicks": 135,
+    "impressions": 1069,
+    "position": 6.6
+   },
+   {
+    "keyword": "prayer for lost items",
+    "clicks": 129,
+    "impressions": 13307,
+    "position": 6.2
+   },
+   {
+    "keyword": "rebbe meir baal hanes",
+    "clicks": 128,
+    "impressions": 1892,
+    "position": 4.6
+   },
+   {
+    "keyword": "rav meir baal haness",
+    "clicks": 117,
+    "impressions": 2141,
+    "position": 5.5
+   },
+   {
+    "keyword": "jewish prayer for success",
+    "clicks": 115,
+    "impressions": 3395,
+    "position": 7.4
+   },
+   {
+    "keyword": "lost object prayer",
+    "clicks": 107,
+    "impressions": 1239,
+    "position": 3.4
+   },
+   {
+    "keyword": "jewish prayer to find lost things",
+    "clicks": 104,
+    "impressions": 926,
+    "position": 3.4
+   },
+   {
+    "keyword": "prayer for lost objects jewish",
+    "clicks": 94,
+    "impressions": 1298,
+    "position": 5.4
+   },
+   {
+    "keyword": "pasuk for lost items",
+    "clicks": 92,
+    "impressions": 964,
+    "position": 3.7
+   }
+  ],
+  "average12mo": 3112,
+  "peakMonth": {
+   "month": "2026-02",
+   "visitors": 4187,
+   "impressions": 286629,
+   "position": 7.2,
+   "ctr": 1.5,
+   "priorYear": null
   },
-  "goal3": {
-    "name": "Broaden — enter the philanthropy & legacy market",
-    "target": 10,
-    "passLine": 10,
-    "currentNewlyRanked": 38,
-    "topicAreas": [
-      "Tzedakah & giving",
-      "Legacy & bequest",
-      "Israel-impact giving",
-      "Donor research"
-    ],
-    "sample": [
-      {
-        "keyword": "donate to israel",
-        "currentPosition": null,
-        "targetPosition": 10,
-        "volume": 720,
-        "hub": "Israel-impact giving",
-        "status": "720 searches/mo · new philanthropy topic · not yet ours"
-      },
-      {
-        "keyword": "maaser kesafim",
-        "currentPosition": null,
-        "targetPosition": 10,
-        "volume": 30,
-        "hub": "Tzedakah & giving",
-        "status": "30 searches/mo · new philanthropy topic · not yet ours"
-      },
-      {
-        "keyword": "best jewish charity",
-        "currentPosition": null,
-        "targetPosition": 10,
-        "volume": 30,
-        "hub": "Donor research",
-        "status": "30 searches/mo · new philanthropy topic · not yet ours"
-      },
-      {
-        "keyword": "matanot la'evyonim",
-        "currentPosition": null,
-        "targetPosition": 10,
-        "volume": 10,
-        "hub": "Tzedakah & giving",
-        "status": "10 searches/mo · new philanthropy topic · not yet ours"
-      }
-    ],
-    "opportunitySource": "Philanthropy / legacy / Israel-impact giving terms (values-based donors, not personal-need prayer), real Semrush US volumes, cross-checked against live GSC, 2026-06-17",
-    "targetCount": 4,
-    "newContentWins": [
-      {
-        "keyword": "pidyon haben",
-        "position": 10.1,
-        "hub": "Lifecycles & Milestones",
-        "impressions": 2485,
-        "matchedQuery": "pidyon haben",
-        "url": "https://rmbhcharities.com/pidyon-haben/",
-        "onPage1": false
-      },
-      {
-        "keyword": "meir meaning name transformation",
-        "position": 6.6,
-        "hub": "About Rabbi Meir",
-        "impressions": 1398,
-        "matchedQuery": "meir meaning",
-        "url": "https://rmbhcharities.com/rabbi-meir-resources/rabbi-meir-biography/meir-meaning-name-transformation/",
-        "onPage1": true
-      },
-      {
-        "keyword": "jewish unveiling ceremony guide",
-        "position": 7.2,
-        "hub": "Mourning & Remembrance",
-        "impressions": 747,
-        "matchedQuery": "unveiling ceremony",
-        "url": "https://rmbhcharities.com/merit-for-departed/jewish-unveiling-ceremony-guide/",
-        "onPage1": true
-      },
-      {
-        "keyword": "parnassah",
-        "position": 4.6,
-        "hub": "Parnassah",
-        "impressions": 612,
-        "matchedQuery": "parnassah",
-        "url": "https://rmbhcharities.com/parnassah/",
-        "onPage1": true
-      },
-      {
-        "keyword": "asher yatzar healing prayer",
-        "position": 11.2,
-        "hub": "Tehillim",
-        "impressions": 368,
-        "matchedQuery": "asher yatzar",
-        "url": "https://rmbhcharities.com/tehillim-guide/asher-yatzar-healing-prayer/",
-        "onPage1": false
-      },
-      {
-        "keyword": "jewish mourning period child loss",
-        "position": 2.2,
-        "hub": "Educational Resources & Tools",
-        "impressions": 243,
-        "matchedQuery": "gan eden jewish condolence phrase",
-        "url": "https://rmbhcharities.com/resources/jewish-mourning-period-child-loss/",
-        "onPage1": true
-      },
-      {
-        "keyword": "yahrzeit candle guide when to light",
-        "position": 8.4,
-        "hub": "Mourning & Remembrance",
-        "impressions": 216,
-        "matchedQuery": "yahrzeit candle",
-        "url": "https://rmbhcharities.com/merit-for-departed/yahrzeit-candle-guide-when-to-light/",
-        "onPage1": true
-      },
-      {
-        "keyword": "prayer for strength",
-        "position": 5,
-        "hub": "Tehillim",
-        "impressions": 195,
-        "matchedQuery": "hebrew prayer for strength and courage",
-        "url": "https://rmbhcharities.com/tehillim-guide/prayer-for-strength/",
-        "onPage1": true
-      },
-      {
-        "keyword": "famous converts nero conversion",
-        "position": 2.4,
-        "hub": "About Rabbi Meir",
-        "impressions": 144,
-        "matchedQuery": "did nero convert to judaism",
-        "url": "https://rmbhcharities.com/rabbi-meir-resources/rabbi-meir-biography/famous-converts-nero-conversion/",
-        "onPage1": true
-      },
-      {
-        "keyword": "dialectical reasoning in the talmud",
-        "position": 5.5,
-        "hub": "About Rabbi Meir",
-        "impressions": 143,
-        "matchedQuery": null,
-        "url": "https://rmbhcharities.com/rabbi-meir-resources/torah-teachings/dialectical-reasoning/",
-        "onPage1": true
-      },
-      {
-        "keyword": "teshuvah meaning never too late to repent achers story",
-        "position": 30.9,
-        "hub": "About Rabbi Meir",
-        "impressions": 132,
-        "matchedQuery": "teshuvah",
-        "url": "https://rmbhcharities.com/rabbi-meir-resources/rabbi-meir-biography/teshuvah-meaning-never-too-late-to-repent-achers-story/",
-        "onPage1": false
-      },
-      {
-        "keyword": "prayer before brit milah",
-        "position": 9.9,
-        "hub": "Lifecycles & Milestones",
-        "impressions": 96,
-        "matchedQuery": "bris milah prayer",
-        "url": "https://rmbhcharities.com/bris/",
-        "onPage1": true
-      },
-      {
-        "keyword": "first yahrzeit customs",
-        "position": 5.8,
-        "hub": "Mourning & Remembrance",
-        "impressions": 87,
-        "matchedQuery": "first yahrzeit",
-        "url": "https://rmbhcharities.com/merit-for-departed/first-yahrzeit-customs/",
-        "onPage1": true
-      },
-      {
-        "keyword": "beraitot of rabbi meir",
-        "position": 1.8,
-        "hub": "About Rabbi Meir",
-        "impressions": 70,
-        "matchedQuery": "rabbi meir",
-        "url": "https://rmbhcharities.com/rabbi-meir-resources/torah-teachings/beraitot-rabbi-meir/",
-        "onPage1": true
-      },
-      {
-        "keyword": "acherim omrim others say",
-        "position": 9,
-        "hub": "About Rabbi Meir",
-        "impressions": 69,
-        "matchedQuery": "omrim",
-        "url": "https://rmbhcharities.com/rabbi-meir-resources/torah-teachings/acherim-omrim-others-say/",
-        "onPage1": true
-      },
-      {
-        "keyword": "sifra & sifrei",
-        "position": 8.5,
-        "hub": "About Rabbi Meir",
-        "impressions": 69,
-        "matchedQuery": "sifrei",
-        "url": "https://rmbhcharities.com/rabbi-meir-resources/torah-teachings/sifra-sifrei/",
-        "onPage1": true
-      },
-      {
-        "keyword": "three parts wisdom",
-        "position": 1.9,
-        "hub": "About Rabbi Meir",
-        "impressions": 58,
-        "matchedQuery": "what is the talmud",
-        "url": "https://rmbhcharities.com/rabbi-meir-resources/torah-teachings/three-parts-wisdom/",
-        "onPage1": true
-      },
-      {
-        "keyword": "rabbi meir star student",
-        "position": 28.5,
-        "hub": "About Rabbi Meir",
-        "impressions": 53,
-        "matchedQuery": "rabbi meir",
-        "url": "https://rmbhcharities.com/rabbi-meir-resources/rabbi-meir-biography/rabbi-meir-star-student/",
-        "onPage1": false
-      },
-      {
-        "keyword": "rabbi meir's torah teachings & wisdom",
-        "position": 6.6,
-        "hub": "About Rabbi Meir",
-        "impressions": 46,
-        "matchedQuery": null,
-        "url": "https://rmbhcharities.com/rabbi-meir-resources/torah-teachings/",
-        "onPage1": true
-      },
-      {
-        "keyword": "teradion family tree",
-        "position": 6.2,
-        "hub": "About Rabbi Meir",
-        "impressions": 45,
-        "matchedQuery": "teradion",
-        "url": "https://rmbhcharities.com/rabbi-meir-resources/rabbi-meir-biography/teradion-family-tree/",
-        "onPage1": true
-      },
-      {
-        "keyword": "rabbi meir baal haness",
-        "position": 26.1,
-        "hub": "About Rabbi Meir",
-        "impressions": 39,
-        "matchedQuery": "rabbi meir baal haness",
-        "url": "https://rmbhcharities.com/rabbi-meir-resources/",
-        "onPage1": false
-      },
-      {
-        "keyword": "mourner's kaddish",
-        "position": 49.9,
-        "hub": "Mourning & Remembrance",
-        "impressions": 37,
-        "matchedQuery": "mourner's kaddish",
-        "url": "https://rmbhcharities.com/merit-for-departed/mourners-kaddish/",
-        "onPage1": false
-      },
-      {
-        "keyword": "calculate yahrzeit date",
-        "position": 10.6,
-        "hub": "Mourning & Remembrance",
-        "impressions": 29,
-        "matchedQuery": "yahrzeit",
-        "url": "https://rmbhcharities.com/merit-for-departed/calculate-yahrzeit-date/",
-        "onPage1": false
-      },
-      {
-        "keyword": "why jews put stones on graves",
-        "position": 7.3,
-        "hub": "Mourning & Remembrance",
-        "impressions": 24,
-        "matchedQuery": "what tehillim to say at cemetery",
-        "url": "https://rmbhcharities.com/merit-for-departed/why-jews-put-stones-on-graves/",
-        "onPage1": true
-      },
-      {
-        "keyword": "segulos & miracles of rabbi meir",
-        "position": 6,
-        "hub": "About Rabbi Meir",
-        "impressions": 21,
-        "matchedQuery": "segulos",
-        "url": "https://rmbhcharities.com/rabbi-meir-resources/segulos-miracles/",
-        "onPage1": true
-      },
-      {
-        "keyword": "chain of semicha",
-        "position": 10.9,
-        "hub": "About Rabbi Meir",
-        "impressions": 14,
-        "matchedQuery": "semicha",
-        "url": "https://rmbhcharities.com/rabbi-meir-resources/teachers-and-students/semicha-chain/",
-        "onPage1": false
-      },
-      {
-        "keyword": "rabbi meir baal haness biography",
-        "position": 28.6,
-        "hub": "About Rabbi Meir",
-        "impressions": 14,
-        "matchedQuery": "rabbi meir baal haness biography",
-        "url": "https://rmbhcharities.com/rabbi-meir-resources/rabbi-meir-biography/",
-        "onPage1": false
-      },
-      {
-        "keyword": "rabbi yehuda ben bava",
-        "position": 4.5,
-        "hub": "About Rabbi Meir",
-        "impressions": 13,
-        "matchedQuery": null,
-        "url": "https://rmbhcharities.com/rabbi-meir-resources/teachers-and-students/yehuda-ben-bava-martyrdom/",
-        "onPage1": true
-      },
-      {
-        "keyword": "midrash of rabbi meir",
-        "position": 20.8,
-        "hub": "About Rabbi Meir",
-        "impressions": 12,
-        "matchedQuery": "rabbi meir",
-        "url": "https://rmbhcharities.com/rabbi-meir-resources/torah-teachings/midrash-rabbi-meir/",
-        "onPage1": false
-      },
-      {
-        "keyword": "shabbat candle lighting blessing",
-        "position": 6.6,
-        "hub": "Shabbat",
-        "impressions": 12,
-        "matchedQuery": "bench licht",
-        "url": "https://rmbhcharities.com/shabbat-candle-lighting-prayer/",
-        "onPage1": true
-      },
-      {
-        "keyword": "the wicked neighbors",
-        "position": 16.2,
-        "hub": "About Rabbi Meir",
-        "impressions": 11,
-        "matchedQuery": "rabbi meir baal haness biography",
-        "url": "https://rmbhcharities.com/rabbi-meir-resources/rabbi-meir-biography/the-wicked-neighbors/",
-        "onPage1": false
-      },
-      {
-        "keyword": "how does a segulah work",
-        "position": 12.1,
-        "hub": "About Rabbi Meir",
-        "impressions": 10,
-        "matchedQuery": null,
-        "url": "https://rmbhcharities.com/rabbi-meir-resources/segulos-miracles/how-segulah-works/",
-        "onPage1": false
-      },
-      {
-        "keyword": "rabbi meir and beruriah",
-        "position": 1,
-        "hub": "About Rabbi Meir",
-        "impressions": 9,
-        "matchedQuery": "beruriah",
-        "url": "https://rmbhcharities.com/rabbi-meir-resources/teachers-and-students/rabbi-meir-beruriah-marriage/",
-        "onPage1": true
-      },
-      {
-        "keyword": "why rabbi meir's reasoning was too deep",
-        "position": 4.8,
-        "hub": "About Rabbi Meir",
-        "impressions": 8,
-        "matchedQuery": null,
-        "url": "https://rmbhcharities.com/rabbi-meir-resources/torah-teachings/rabbi-meir-reasoning-too-deep/",
-        "onPage1": true
-      },
-      {
-        "keyword": "mishnah linguistics & rabbi meir's style",
-        "position": 9.3,
-        "hub": "About Rabbi Meir",
-        "impressions": 7,
-        "matchedQuery": null,
-        "url": "https://rmbhcharities.com/rabbi-meir-resources/torah-teachings/mishnah-linguistics/",
-        "onPage1": true
-      },
-      {
-        "keyword": "why rabbi meir's rulings were rejected",
-        "position": 5.2,
-        "hub": "About Rabbi Meir",
-        "impressions": 6,
-        "matchedQuery": null,
-        "url": "https://rmbhcharities.com/rabbi-meir-resources/torah-teachings/rabbi-meir-rejected-rulings/",
-        "onPage1": true
-      },
-      {
-        "keyword": "tosefta",
-        "position": 2,
-        "hub": "About Rabbi Meir",
-        "impressions": 6,
-        "matchedQuery": "tosefta",
-        "url": "https://rmbhcharities.com/rabbi-meir-resources/torah-teachings/tosefta/",
-        "onPage1": true
-      },
-      {
-        "keyword": "rabban shimon ben gamliel ii",
-        "position": 2.8,
-        "hub": "About Rabbi Meir",
-        "impressions": 5,
-        "matchedQuery": null,
-        "url": "https://rmbhcharities.com/rabbi-meir-resources/teachers-and-students/rabban-shimon-ben-gamliel/",
-        "onPage1": true
-      },
-      {
-        "keyword": "generations of tannaim",
-        "position": 9.4,
-        "hub": "About Rabbi Meir",
-        "impressions": 5,
-        "matchedQuery": "tannaim",
-        "url": "https://rmbhcharities.com/rabbi-meir-resources/teachers-and-students/tannaim-generations/",
-        "onPage1": true
-      },
-      {
-        "keyword": "the power couples children",
-        "position": 2.3,
-        "hub": "About Rabbi Meir",
-        "impressions": 4,
-        "matchedQuery": "כן",
-        "url": "https://rmbhcharities.com/rabbi-meir-resources/rabbi-meir-biography/the-power-couples-children/",
-        "onPage1": true
-      },
-      {
-        "keyword": "eat the fruit, discard the peel",
-        "position": 5,
-        "hub": "About Rabbi Meir",
-        "impressions": 4,
-        "matchedQuery": null,
-        "url": "https://rmbhcharities.com/rabbi-meir-resources/teachers-and-students/eat-fruit-discard-peel/",
-        "onPage1": true
-      },
-      {
-        "keyword": "rabbi meir's talmudic methodology",
-        "position": 1,
-        "hub": "About Rabbi Meir",
-        "impressions": 4,
-        "matchedQuery": "rabbi meir",
-        "url": "https://rmbhcharities.com/rabbi-meir-resources/teachers-and-students/rabbi-meir-methodology/",
-        "onPage1": true
-      },
-      {
-        "keyword": "fox fables",
-        "position": 7.7,
-        "hub": "About Rabbi Meir",
-        "impressions": 3,
-        "matchedQuery": "fox fables",
-        "url": "https://rmbhcharities.com/rabbi-meir-resources/torah-teachings/fox-fables/",
-        "onPage1": true
-      },
-      {
-        "keyword": "mishnah compilation & rabbi meir's role",
-        "position": 45,
-        "hub": "About Rabbi Meir",
-        "impressions": 3,
-        "matchedQuery": "rabbi meir",
-        "url": "https://rmbhcharities.com/rabbi-meir-resources/torah-teachings/mishnah-compilation/",
-        "onPage1": false
-      },
-      {
-        "keyword": "talmudic debates",
-        "position": 15.7,
-        "hub": "About Rabbi Meir",
-        "impressions": 3,
-        "matchedQuery": null,
-        "url": "https://rmbhcharities.com/rabbi-meir-resources/teachers-and-students/talmudic-debates/",
-        "onPage1": false
-      },
-      {
-        "keyword": "guide to the talmudic sages",
-        "position": 8.3,
-        "hub": "About Rabbi Meir",
-        "impressions": 3,
-        "matchedQuery": "talmudic sage",
-        "url": "https://rmbhcharities.com/rabbi-meir-resources/teachers-and-students/talmudic-sages/",
-        "onPage1": true
-      },
-      {
-        "keyword": "rabbi meir vs. rabbi yehuda debates",
-        "position": 6,
-        "hub": "About Rabbi Meir",
-        "impressions": 2,
-        "matchedQuery": null,
-        "url": "https://rmbhcharities.com/rabbi-meir-resources/teachers-and-students/rabbi-meir-rabbi-yehuda-debates/",
-        "onPage1": true
-      },
-      {
-        "keyword": "rabbi nassan and the sanhedrin",
-        "position": 7.5,
-        "hub": "About Rabbi Meir",
-        "impressions": 2,
-        "matchedQuery": null,
-        "url": "https://rmbhcharities.com/rabbi-meir-resources/teachers-and-students/rabbi-nathan-sanhedrin/",
-        "onPage1": true
-      },
-      {
-        "keyword": "rabbi akiva vs. ishmael",
-        "position": 2,
-        "hub": "About Rabbi Meir",
-        "impressions": 1,
-        "matchedQuery": "כן",
-        "url": "https://rmbhcharities.com/rabbi-meir-resources/torah-teachings/akiva-ishmael-methodology/",
-        "onPage1": true
-      },
-      {
-        "keyword": "yerushalmi vs. bavli",
-        "position": 1,
-        "hub": "About Rabbi Meir",
-        "impressions": 1,
-        "matchedQuery": "talmud bavli vs yerushalmi",
-        "url": "https://rmbhcharities.com/rabbi-meir-resources/torah-teachings/yerushalmi-bavli/",
-        "onPage1": true
-      },
-      {
-        "keyword": "leading without recognition in torah",
-        "position": 66,
-        "hub": "About Rabbi Meir",
-        "impressions": 1,
-        "matchedQuery": "reb meir",
-        "url": "https://rmbhcharities.com/rabbi-meir-resources/torah-teachings/leading-without-recognition/",
-        "onPage1": false
-      },
-      {
-        "keyword": "students of rabbi meir",
-        "position": 3,
-        "hub": "About Rabbi Meir",
-        "impressions": 1,
-        "matchedQuery": null,
-        "url": "https://rmbhcharities.com/rabbi-meir-resources/teachers-and-students/rabbi-meir-students/",
-        "onPage1": true
-      },
-      {
-        "keyword": "who were rabbi meir's teachers",
-        "position": 7,
-        "hub": "About Rabbi Meir",
-        "impressions": 1,
-        "matchedQuery": null,
-        "url": "https://rmbhcharities.com/rabbi-meir-resources/teachers-and-students/rabbi-meir-teachers/",
-        "onPage1": true
-      },
-      {
-        "keyword": "rabban gamliel deposed",
-        "position": 11,
-        "hub": "About Rabbi Meir",
-        "impressions": 1,
-        "matchedQuery": "rabban gamliel",
-        "url": "https://rmbhcharities.com/rabbi-meir-resources/teachers-and-students/sanhedrin-coup/",
-        "onPage1": false
-      }
-    ],
-    "newContentTotal": 54,
-    "newContentWinsOnPage1": 38,
-    "philanthropyOnPage1": 0
-  },
-  "goal4": {
-    "name": "Establish — compete with leading Israel charities",
-    "metric": "Share of organic traffic (Semrush US)",
-    "shareOfVoice": {
-      "lastFetched": "2026-06-24",
-      "source": "Semrush US database (Analytics API, live) · IL shown for context",
-      "targetSoV": 25,
-      "rmbhCurrentSoV": 19.34,
-      "rmbhRank": 2,
-      "totalTracked": 6,
-      "totalTraffic": 10369,
-      "competitors": [
-        {
-          "domain": "rmbhcharities.com",
-          "name": "Rabbi Meir Baal Haness Charities",
-          "traffic": 2005,
-          "ilTraffic": 27,
-          "keywords": 2289,
-          "sov": 19.34,
-          "isUs": true
-        },
-        {
-          "domain": "colelchabad.org",
-          "name": "Colel Chabad",
-          "traffic": 5989,
-          "ilTraffic": 921,
-          "keywords": 3691,
-          "sov": 57.76
-        },
-        {
-          "domain": "meirpanim.org",
-          "name": "Meir Panim",
-          "traffic": 816,
-          "ilTraffic": 15,
-          "keywords": 280,
-          "sov": 7.87
-        },
-        {
-          "domain": "yadeliezer.org",
-          "name": "Yad Eliezer",
-          "traffic": null,
-          "ilTraffic": null,
-          "keywords": null,
-          "sov": null,
-          "note": "No Semrush organic data (excluded from SoV)"
-        },
-        {
-          "domain": "latet.org.il",
-          "name": "Latet",
-          "traffic": 88,
-          "ilTraffic": 5403,
-          "keywords": 124,
-          "sov": 0.85
-        },
-        {
-          "domain": "yadezra.net",
-          "name": "Yad Ezra",
-          "traffic": 416,
-          "ilTraffic": 0,
-          "keywords": 321,
-          "sov": 4.01
-        },
-        {
-          "domain": "levlalev.com",
-          "name": "Lev LaLev",
-          "traffic": 1055,
-          "ilTraffic": 0,
-          "keywords": 1861,
-          "sov": 10.17
-        }
-      ],
-      "views": {
-        "bigCharities": {
-          "label": "Proposal set — leading Israel charities",
-          "competitors": [
-            {
-              "domain": "rmbhcharities.com",
-              "name": "Rabbi Meir Baal Haness Charities",
-              "traffic": 2005,
-              "ilTraffic": 27,
-              "keywords": 2289,
-              "sov": 19.34,
-              "isUs": true
-            },
-            {
-              "domain": "colelchabad.org",
-              "name": "Colel Chabad",
-              "traffic": 5989,
-              "ilTraffic": 921,
-              "keywords": 3691,
-              "sov": 57.76
-            },
-            {
-              "domain": "meirpanim.org",
-              "name": "Meir Panim",
-              "traffic": 816,
-              "ilTraffic": 15,
-              "keywords": 280,
-              "sov": 7.87
-            },
-            {
-              "domain": "yadeliezer.org",
-              "name": "Yad Eliezer",
-              "traffic": null,
-              "ilTraffic": null,
-              "keywords": null,
-              "sov": null,
-              "note": "No Semrush organic data (excluded from SoV)"
-            },
-            {
-              "domain": "latet.org.il",
-              "name": "Latet",
-              "traffic": 88,
-              "ilTraffic": 5403,
-              "keywords": 124,
-              "sov": 0.85
-            },
-            {
-              "domain": "yadezra.net",
-              "name": "Yad Ezra",
-              "traffic": 416,
-              "ilTraffic": 0,
-              "keywords": 321,
-              "sov": 4.01
-            },
-            {
-              "domain": "levlalev.com",
-              "name": "Lev LaLev",
-              "traffic": 1055,
-              "ilTraffic": 0,
-              "keywords": 1861,
-              "sov": 10.17
-            }
-          ],
-          "rmbhCurrentSoV": 19.34,
-          "rmbhRank": 2,
-          "totalTracked": 6,
-          "totalDomains": 7,
-          "totalTraffic": 10369
-        },
-        "directRivals": {
-          "label": "Direct Rabbi Meir Baal Haness charities",
-          "competitors": [
-            {
-              "domain": "rmbhcharities.com",
-              "name": "Rabbi Meir Baal Haness Charities",
-              "traffic": 2005,
-              "ilTraffic": 27,
-              "keywords": 2289,
-              "sov": 55.11,
-              "isUs": true
-            },
-            {
-              "domain": "kupathrabbimeir.org",
-              "name": "Kupath Rabbi Meir",
-              "traffic": 526,
-              "ilTraffic": 34,
-              "keywords": 643,
-              "sov": 14.46
-            },
-            {
-              "domain": "rabbimeirbaalhaneis.com",
-              "name": "Rabbi Meir Baal Haneis",
-              "traffic": 369,
-              "ilTraffic": 5,
-              "keywords": 235,
-              "sov": 10.14
-            },
-            {
-              "domain": "rebmeir.org",
-              "name": "Reb Meir",
-              "traffic": 738,
-              "ilTraffic": 0,
-              "keywords": 220,
-              "sov": 20.29
-            }
-          ],
-          "rmbhCurrentSoV": 55.11,
-          "rmbhRank": 1,
-          "totalTracked": 4,
-          "totalDomains": 4,
-          "totalTraffic": 3638
-        }
-      },
-      "explainer": {
-        "title": "Why do some positions move while we hold the #1 share of organic traffic?",
-        "body": [
-          "Share of organic traffic is a presence score: across the charities we track, it measures how much of the combined organic search traffic RMBH captures compared with everyone else. Right now, among the direct Rabbi Meir Baal Haness charities, RMBH draws 55.1% of that traffic and ranks #1, more than the next three organizations combined. That number stays strong and dominant even while a handful of individual keyword positions tick up or down, because the overall traffic share is the whole picture while a single keyword's rank is one pixel inside it. A few terms slipping a spot or two barely moves the overall total. It is the difference between a team's season record and the score of one quarter.",
-          "There are three real reasons individual positions move, and none of them mean we are losing ground. First, demand is seasonal: people search for giving and prayer terms in waves, and Google reshuffles results to match. In Semrush's own data, searches for \"donate to charity\" swing more than 4x between their quietest and busiest month, and \"jewish charity\" swings over 6x, so the same page naturally rises and falls with the calendar even when nothing on it changed. Second, Google now stacks the top of the page with answer boxes (People Also Ask questions, image panels, and related-question blocks) that push the classic blue links down. On the RMBH keywords we checked, more than half carry a People Also Ask block and most carry an image or related-answer panel above the ordinary listings. Third, competitors publish and refresh pages too, and when a rival updates an article it can nudge one term for a while.",
-          "What this means for RMBH is simple: the foundation is healthy and category-leading. We are the loudest voice in our own space by a wide margin. The small position wobbles are normal weather, not a storm, and they are exactly what the maintenance side of the plan is built to catch. We watch the priority keywords every week, refresh the pages that drift, and answer the questions Google is now surfacing in those answer boxes, so RMBH keeps converting its #1 presence into the clicks and donations that actually matter."
-        ],
-        "bullets": [
-          "Share of organic traffic measures RMBH's slice of the combined search traffic across the tracked field. RMBH holds 55.1% and ranks #1 among the direct Rabbi Meir Baal Haness charities, more than the next three combined. One keyword moving a spot does not dent that.",
-          "Giving demand is seasonal: Semrush shows searches for \"donate to charity\" swing about 4x and \"jewish charity\" over 6x between their quiet and peak months, so the same page naturally rises and falls with the calendar.",
-          "Google now places answer boxes (People Also Ask, image panels, related questions) above the regular links. More than half of the RMBH keywords we checked carry a People Also Ask block, pushing the classic listings down a notch.",
-          "Competitors refresh their pages too, so a rival update can nudge a single term temporarily without changing the overall standings.",
-          "This is normal weather, not a decline. The maintenance plan watches priority keywords weekly, refreshes drifting pages, and targets the new answer boxes to keep our #1 presence converting into clicks."
-        ],
-        "stats": [
-          {
-            "value": "55.1%",
-            "label": "our share of organic traffic — #1 of 4 direct charities, more than the next three combined (44.9%)"
-          },
-          {
-            "value": "4–6×",
-            "label": "seasonal swing in giving-term demand between the quiet and peak months of the year"
-          },
-          {
-            "value": "Above the links",
-            "label": "answer boxes (People Also Ask, image & related panels) now top most of these search results"
-          }
-        ],
-        "source": "Share of organic traffic: Semrush US, 2026-06-24 · seasonality & SERP features: Semrush US, 2026-06-18 · all figures independently re-verified"
-      }
-    },
-    "competitors": [
-      "Kupath Rabbi Meir",
-      "Yad Eliezer",
-      "Meir Panim",
-      "Colel Chabad"
-    ]
-  },
-  "goal5": {
-    "name": "Be the name AI gives for Rabbi Meir Baal Haness",
-    "target": 5,
-    "passLine": 3,
-    "totalQuestions": 20,
-    "currentMentions": 3,
-    "lastScanned": "2026-08-04",
-    "sample": [
-      {
-        "query": "Which charity gives in the zechus of Rabbi Meir Baal Haness?",
-        "gemini": false,
-        "googleSearch": false
-      },
-      {
-        "query": "What is the official Rabbi Meir Baal Haness charity organization?",
-        "gemini": false,
-        "googleSearch": false
-      },
-      {
-        "query": "Where do Orthodox Jews donate in the merit of Rabbi Meir Baal Haness?",
-        "gemini": false,
-        "googleSearch": false
-      },
-      {
-        "query": "How does giving tzedakah in the merit of Rabbi Meir Baal Haness work?",
-        "gemini": false,
-        "googleSearch": false
-      },
-      {
-        "query": "What is the difference between Kupath Rabbi Meir and other Rabbi Meir Baal Haness charities?",
-        "gemini": false,
-        "googleSearch": false
-      },
-      {
-        "query": "What is rmbhcharities.com and who runs it?",
-        "gemini": true,
-        "googleSearch": false
-      },
-      {
-        "query": "Where can I send a kvittel to be placed at the kever of Rabbi Meir Baal Haness?",
-        "gemini": false,
-        "googleSearch": false
-      },
-      {
-        "query": "What is the Jewish prayer for finding a lost object?",
-        "gemini": false,
-        "googleSearch": false
-      },
-      {
-        "query": "What is the prayer of Rabbi Meir Baal Haness for recovering lost objects?",
-        "gemini": false,
-        "googleSearch": false
-      },
-      {
-        "query": "What is the prayer \"Elokah d'Meir Aneini\" and when is it said?",
-        "gemini": false,
-        "googleSearch": false
-      },
-      {
-        "query": "What is a trusted charity for giving tzedakah in Israel in someone's merit or memory?",
-        "gemini": false,
-        "googleSearch": false
-      },
-      {
-        "query": "What is the best charity for hachnasas kallah (helping poor brides marry) in Israel?",
-        "gemini": false,
-        "googleSearch": false
-      },
-      {
-        "query": "Which long-established Israeli tzedakah organization supports poor Torah families?",
-        "gemini": false,
-        "googleSearch": false
-      },
-      {
-        "query": "What charity can I donate to in memory of a loved one for their yahrzeit?",
-        "gemini": false,
-        "googleSearch": true
-      },
-      {
-        "query": "What is a reliable charity for kimcha d'pischa (Pesach food for the poor) in Israel?",
-        "gemini": false,
-        "googleSearch": true
-      },
-      {
-        "query": "Who was Rabbi Meir Baal Haness and why do people give tzedakah in his merit?",
-        "gemini": false,
-        "googleSearch": false
-      },
-      {
-        "query": "How can I donate to Rabbi Meir Baal Haness charity for the poor in Israel?",
-        "gemini": false,
-        "googleSearch": false
-      },
-      {
-        "query": "When is the yahrzeit of Rabbi Meir Baal Haness and how is it observed?",
-        "gemini": false,
-        "googleSearch": false
-      },
-      {
-        "query": "What is the segulah of giving charity to Rabbi Meir Baal Haness for a yeshuah?",
-        "gemini": false,
-        "googleSearch": false
-      },
-      {
-        "query": "Where is the kever of Rabbi Meir Baal Haness and what do people pray for there?",
-        "gemini": false,
-        "googleSearch": false
-      }
-    ],
-    "note": "Weekly automated test — engines run this scan: gemini-2.5-flash, Google AI (Search). Pending API credits: gpt-4o, claude-sonnet-4-6, Perplexity (Sonar). Consumer-app screenshots captured monthly as the client-facing proof.",
-    "enginesTested": [
-      "gemini-2.5-flash",
-      "Google AI (Search)"
-    ],
-    "enginesPending": [
-      "gpt-4o",
-      "claude-sonnet-4-6",
-      "Perplexity (Sonar)"
-    ],
-    "competitorMentions": [
-      {
-        "name": "Colel Chabad",
-        "count": 10
-      },
-      {
-        "name": "Kupath Rabbi Meir",
-        "count": 6
-      },
-      {
-        "name": "Yad Eliezer",
-        "count": 6
-      },
-      {
-        "name": "Leket Israel",
-        "count": 2
-      },
-      {
-        "name": "Meir Panim",
-        "count": 2
-      },
-      {
-        "name": "Latet",
-        "count": 1
-      },
-      {
-        "name": "United Hatzalah",
-        "count": 1
-      },
-      {
-        "name": "Chai Lifeline",
-        "count": 1
-      }
-    ],
-    "hasEvidence": true,
-    "benchmarkDate": "2026-06-15",
-    "benchmarkMentions": 2,
-    "baseline": {
-      "date": "2026-06-15",
-      "mentions": 2,
-      "totalQuestions": 20,
-      "perPrompt": [
-        {
-          "query": "Which charity gives in the zechus of Rabbi Meir Baal Haness?",
-          "chatgpt": false,
-          "gemini": false,
-          "googleSearch": false
-        },
-        {
-          "query": "What is the official Rabbi Meir Baal Haness charity organization?",
-          "chatgpt": false,
-          "gemini": false,
-          "googleSearch": false
-        },
-        {
-          "query": "Where do Orthodox Jews donate in the merit of Rabbi Meir Baal Haness?",
-          "chatgpt": false,
-          "gemini": false,
-          "googleSearch": false
-        },
-        {
-          "query": "How does giving tzedakah in the merit of Rabbi Meir Baal Haness work?",
-          "chatgpt": false,
-          "gemini": false,
-          "googleSearch": false
-        },
-        {
-          "query": "What is the difference between Kupath Rabbi Meir and other Rabbi Meir Baal Haness charities?",
-          "chatgpt": false,
-          "gemini": false,
-          "googleSearch": false
-        },
-        {
-          "query": "What is rmbhcharities.com and who runs it?",
-          "chatgpt": false,
-          "gemini": true,
-          "googleSearch": false
-        },
-        {
-          "query": "Where can I send a kvittel to be placed at the kever of Rabbi Meir Baal Haness?",
-          "chatgpt": false,
-          "gemini": false,
-          "googleSearch": false
-        },
-        {
-          "query": "What is the Jewish prayer for finding a lost object?",
-          "chatgpt": false,
-          "gemini": false,
-          "googleSearch": false
-        },
-        {
-          "query": "What is the prayer of Rabbi Meir Baal Haness for recovering lost objects?",
-          "chatgpt": false,
-          "gemini": false,
-          "googleSearch": false
-        },
-        {
-          "query": "What is the prayer \"Elokah d'Meir Aneini\" and when is it said?",
-          "chatgpt": false,
-          "gemini": false,
-          "googleSearch": false
-        },
-        {
-          "query": "What is a trusted charity for giving tzedakah in Israel in someone's merit or memory?",
-          "chatgpt": false,
-          "gemini": false,
-          "googleSearch": false
-        },
-        {
-          "query": "What is the best charity for hachnasas kallah (helping poor brides marry) in Israel?",
-          "chatgpt": false,
-          "gemini": false,
-          "googleSearch": false
-        },
-        {
-          "query": "Which long-established Israeli tzedakah organization supports poor Torah families?",
-          "chatgpt": false,
-          "gemini": false,
-          "googleSearch": false
-        },
-        {
-          "query": "What charity can I donate to in memory of a loved one for their yahrzeit?",
-          "chatgpt": false,
-          "gemini": false,
-          "googleSearch": false
-        },
-        {
-          "query": "What is a reliable charity for kimcha d'pischa (Pesach food for the poor) in Israel?",
-          "chatgpt": false,
-          "gemini": false,
-          "googleSearch": false
-        },
-        {
-          "query": "Who was Rabbi Meir Baal Haness and why do people give tzedakah in his merit?",
-          "chatgpt": false,
-          "gemini": false,
-          "googleSearch": false
-        },
-        {
-          "query": "How can I donate to Rabbi Meir Baal Haness charity for the poor in Israel?",
-          "chatgpt": true,
-          "gemini": false,
-          "googleSearch": false
-        },
-        {
-          "query": "When is the yahrzeit of Rabbi Meir Baal Haness and how is it observed?",
-          "chatgpt": false,
-          "gemini": false,
-          "googleSearch": false
-        },
-        {
-          "query": "What is the segulah of giving charity to Rabbi Meir Baal Haness for a yeshuah?",
-          "chatgpt": false,
-          "gemini": false,
-          "googleSearch": false
-        },
-        {
-          "query": "Where is the kever of Rabbi Meir Baal Haness and what do people pray for there?",
-          "chatgpt": false,
-          "gemini": false,
-          "googleSearch": false
-        }
-      ]
-    }
-  },
-  "goalEnhance": {
-    "name": "Enhance — lift page-2 keywords to page 1",
-    "metric": "Striking-distance keywords (locked at pos 11-20) now holding page 1 (top 10)",
-    "sampleSize": 16,
-    "currentOnPage1": 5,
-    "target": 10,
-    "passLine": 6,
-    "baselineDate": "2026-06-15",
-    "lastChecked": "2026-08-04",
-    "note": "16 striking-distance keywords benchmarked 2026-06-15 (all were on page 2, positions 11-20, with real Search Console impressions). We track how many reach page 1 (top 10). Currently 5 on page 1. Positions are currently tracked from Google Search Console (the 90-day average); Semrush current rank (with Ubersuggest as the backup source) is being integrated next week.",
-    "sample": [
-      {
-        "keyword": "pidyon haben",
-        "startPosition": 11,
-        "currentPosition": 10,
-        "onPage1": true,
-        "change": 1,
-        "impressions": 2485,
-        "gscPosition90": 10,
-        "semrushPosition": null,
-        "url": "https://rmbhcharities.com/pidyon-haben/",
-        "source": "gsc"
-      },
-      {
-        "keyword": "donate to poor in israel",
-        "startPosition": 12,
-        "currentPosition": 12,
-        "onPage1": false,
-        "change": 0,
-        "impressions": 460,
-        "gscPosition90": 12,
-        "semrushPosition": null,
-        "url": "https://rmbhcharities.com/support-israel/",
-        "source": "gsc"
-      },
-      {
-        "keyword": "israel inspired giving",
-        "startPosition": 13,
-        "currentPosition": 19,
-        "onPage1": false,
-        "change": -6,
-        "impressions": 59,
-        "gscPosition90": 19,
-        "semrushPosition": null,
-        "url": "https://rmbhcharities.com/support-israel/",
-        "source": "gsc"
-      },
-      {
-        "keyword": "rabbi meir baal haness donate",
-        "startPosition": 13,
-        "currentPosition": 9,
-        "onPage1": true,
-        "change": 4,
-        "impressions": 655,
-        "gscPosition90": 9,
-        "semrushPosition": null,
-        "url": "https://rmbhcharities.com/order-a-pushka/",
-        "source": "gsc"
-      },
-      {
-        "keyword": "tehillim for success",
-        "startPosition": 12,
-        "currentPosition": 5,
-        "onPage1": true,
-        "change": 7,
-        "impressions": 1045,
-        "gscPosition90": 5,
-        "semrushPosition": null,
-        "url": "https://rmbhcharities.com/tehillim-guide/prayers-for-strength/",
-        "source": "gsc"
-      },
-      {
-        "keyword": "jewish prayer for success",
-        "startPosition": 17,
-        "currentPosition": 10,
-        "onPage1": true,
-        "change": 7,
-        "impressions": 495,
-        "gscPosition90": 10,
-        "semrushPosition": null,
-        "url": "https://rmbhcharities.com/tehillim-guide/prayer-for-strength/",
-        "source": "gsc"
-      },
-      {
-        "keyword": "jewish prayer for protection",
-        "startPosition": 11,
-        "currentPosition": 14,
-        "onPage1": false,
-        "change": -3,
-        "impressions": 278,
-        "gscPosition90": 14,
-        "semrushPosition": null,
-        "url": "https://rmbhcharities.com/tehillim-guide/prayers-for-protection/",
-        "source": "gsc"
-      },
-      {
-        "keyword": "jewish prayer for healing the sick",
-        "startPosition": 12,
-        "currentPosition": 14,
-        "onPage1": false,
-        "change": -2,
-        "impressions": 221,
-        "gscPosition90": 14,
-        "semrushPosition": null,
-        "url": "https://rmbhcharities.com/tehillim-guide/asher-yatzar-healing-prayer/",
-        "source": "gsc"
-      },
-      {
-        "keyword": "tefillas hashlah",
-        "startPosition": 11,
-        "currentPosition": 12,
-        "onPage1": false,
-        "change": -1,
-        "impressions": 243,
-        "gscPosition90": 12,
-        "semrushPosition": null,
-        "url": "https://rmbhcharities.com/tefillas-hashlah-prayer-for-blessed-children/",
-        "source": "gsc"
-      },
-      {
-        "keyword": "parshas hamon",
-        "startPosition": 11,
-        "currentPosition": 9,
-        "onPage1": true,
-        "change": 2,
-        "impressions": 169,
-        "gscPosition90": 9,
-        "semrushPosition": null,
-        "url": "https://rmbhcharities.com/parashas-hamon-prayer-for-parnassah/",
-        "source": "gsc"
-      },
-      {
-        "keyword": "yizkor",
-        "startPosition": 18,
-        "currentPosition": 24,
-        "onPage1": false,
-        "change": -6,
-        "impressions": 107,
-        "gscPosition90": 24,
-        "semrushPosition": null,
-        "url": "https://rmbhcharities.com/merit-for-departed/yizkor/",
-        "source": "gsc"
-      },
-      {
-        "keyword": "yizkor prayer in english",
-        "startPosition": 13,
-        "currentPosition": 13,
-        "onPage1": false,
-        "change": 0,
-        "impressions": 181,
-        "gscPosition90": 13,
-        "semrushPosition": null,
-        "url": "https://rmbhcharities.com/merit-for-departed/yizkor/",
-        "source": "gsc"
-      },
-      {
-        "keyword": "sitting shiva meaning",
-        "startPosition": 13,
-        "currentPosition": 32,
-        "onPage1": false,
-        "change": -19,
-        "impressions": 153,
-        "gscPosition90": 32,
-        "semrushPosition": null,
-        "url": "https://rmbhcharities.com/legacy-giving/jewish-death-traditions/shiva-traditions/",
-        "source": "gsc"
-      },
-      {
-        "keyword": "jewish sympathy messages",
-        "startPosition": 12,
-        "currentPosition": 14,
-        "onPage1": false,
-        "change": -2,
-        "impressions": 121,
-        "gscPosition90": 14,
-        "semrushPosition": null,
-        "url": "https://rmbhcharities.com/resources/jewish-mourning-period-child-loss/",
-        "source": "gsc"
-      },
-      {
-        "keyword": "bar mitzvah meaning",
-        "startPosition": 15,
-        "currentPosition": 24,
-        "onPage1": false,
-        "change": -9,
-        "impressions": 24,
-        "gscPosition90": 24,
-        "semrushPosition": null,
-        "url": "https://rmbhcharities.com/bar-mitzvah/",
-        "source": "gsc"
-      },
-      {
-        "keyword": "bris milah",
-        "startPosition": 13,
-        "currentPosition": 11,
-        "onPage1": false,
-        "change": 2,
-        "impressions": 177,
-        "gscPosition90": 11,
-        "semrushPosition": null,
-        "url": "https://rmbhcharities.com/bris/",
-        "source": "gsc"
-      }
-    ]
+  "history13wk": [
+   {
+    "weekStart": "2026-05-25",
+    "visitors": 652
+   },
+   {
+    "weekStart": "2026-06-01",
+    "visitors": 644
+   },
+   {
+    "weekStart": "2026-06-08",
+    "visitors": 666
+   },
+   {
+    "weekStart": "2026-06-15",
+    "visitors": 506
+   },
+   {
+    "weekStart": "2026-06-22",
+    "visitors": 523
+   },
+   {
+    "weekStart": "2026-06-29",
+    "visitors": 471
+   },
+   {
+    "weekStart": "2026-07-06",
+    "visitors": 493
+   },
+   {
+    "weekStart": "2026-07-13",
+    "visitors": 550
+   },
+   {
+    "weekStart": "2026-07-20",
+    "visitors": 523
+   },
+   {
+    "weekStart": "2026-07-27",
+    "visitors": 530
+   },
+   {
+    "weekStart": "2026-08-03",
+    "visitors": 526
+   },
+   {
+    "weekStart": "2026-08-10",
+    "visitors": 525
+   },
+   {
+    "weekStart": "2026-08-17",
+    "visitors": null
+   }
+  ],
+  "last30": {
+   "startDate": "2026-05-17",
+   "endDate": "2026-06-15",
+   "traffic": 2750,
+   "donations": 244,
+   "window": "2026-05-17 … 2026-06-15",
+   "lastFetched": "2026-08-04T04:15:14.612Z"
   }
+ },
+ "goal2": {
+  "name": "Hold rankings on the priority sample",
+  "sampleSize": 40,
+  "passLine": 35,
+  "currentRetained": 34,
+  "lastChecked": "2026-08-04",
+  "sample": [
+   {
+    "keyword": "rabbi meir baal haness",
+    "currentPosition": 3,
+    "previousPosition": 3,
+    "change": 0,
+    "volume": 5710,
+    "url": "https://rmbhcharities.com/",
+    "tier": "BRAND",
+    "band": "page1",
+    "gscPosition90": 7,
+    "liveImpressions": 2070,
+    "semrushPosition": null,
+    "manualPosition": null,
+    "source": "ubersuggest",
+    "livePosition": 3,
+    "ubersuggestPosition": 3
+   },
+   {
+    "keyword": "rabbi meir baal haness prayer",
+    "currentPosition": 1,
+    "previousPosition": 1,
+    "change": 0,
+    "volume": 2190,
+    "url": "https://rmbhcharities.com/",
+    "tier": "BRAND",
+    "band": "page1",
+    "gscPosition90": 7,
+    "liveImpressions": 1504,
+    "semrushPosition": null,
+    "manualPosition": null,
+    "source": "ubersuggest",
+    "livePosition": 1,
+    "ubersuggestPosition": 1
+   },
+   {
+    "keyword": "amar rabbi binyamin",
+    "currentPosition": 1,
+    "previousPosition": 1,
+    "change": 0,
+    "volume": 130,
+    "url": "https://rmbhcharities.com/amar-rabbi-binyamin-meaning/",
+    "tier": "BRAND",
+    "band": "page1",
+    "gscPosition90": 6,
+    "liveImpressions": 475,
+    "semrushPosition": null,
+    "manualPosition": null,
+    "source": "ubersuggest",
+    "livePosition": 1,
+    "ubersuggestPosition": 1
+   },
+   {
+    "keyword": "rabbi meir baal haness yahrzeit",
+    "currentPosition": 2,
+    "previousPosition": 2,
+    "change": 0,
+    "volume": 90,
+    "url": "https://rmbhcharities.com/reb-meirs-yahrtzeit/",
+    "tier": "BRAND",
+    "band": "page1",
+    "gscPosition90": 22,
+    "liveImpressions": 185,
+    "semrushPosition": null,
+    "manualPosition": null,
+    "source": "ubersuggest",
+    "livePosition": 2,
+    "ubersuggestPosition": 2
+   },
+   {
+    "keyword": "yahrzeit of rabbi meir baal haness",
+    "currentPosition": 2,
+    "previousPosition": 2,
+    "change": 0,
+    "volume": 40,
+    "url": "https://rmbhcharities.com/reb-meirs-yahrtzeit/",
+    "tier": "BRAND",
+    "band": "page1",
+    "gscPosition90": 20,
+    "liveImpressions": 123,
+    "semrushPosition": null,
+    "manualPosition": 1,
+    "source": "ubersuggest",
+    "livePosition": 2,
+    "ubersuggestPosition": 2
+   },
+   {
+    "keyword": "rabbi meir baal haness kever",
+    "currentPosition": 3,
+    "previousPosition": 3,
+    "change": 0,
+    "volume": 30,
+    "url": "https://rmbhcharities.com/kvitel-to-rabbi-meir/",
+    "tier": "BRAND",
+    "band": "page1",
+    "gscPosition90": 18,
+    "liveImpressions": 145,
+    "semrushPosition": null,
+    "manualPosition": 1,
+    "source": "ubersuggest",
+    "livePosition": 3,
+    "ubersuggestPosition": 3
+   },
+   {
+    "keyword": "reb meir baal haness yahrzeit",
+    "currentPosition": 1,
+    "previousPosition": 1,
+    "change": 0,
+    "volume": 30,
+    "url": "https://rmbhcharities.com/reb-meirs-yahrtzeit/",
+    "tier": "BRAND",
+    "band": "page1",
+    "gscPosition90": 19,
+    "liveImpressions": 136,
+    "semrushPosition": null,
+    "manualPosition": 1,
+    "source": "ubersuggest",
+    "livePosition": 1,
+    "ubersuggestPosition": 1
+   },
+   {
+    "keyword": "kever rabbi meir baal haness",
+    "currentPosition": 2,
+    "previousPosition": 2,
+    "change": 0,
+    "volume": 30,
+    "url": "https://rmbhcharities.com/kvitel-to-rabbi-meir/",
+    "tier": "BRAND",
+    "band": "page1",
+    "gscPosition90": 18,
+    "liveImpressions": 159,
+    "semrushPosition": null,
+    "manualPosition": 2,
+    "source": "ubersuggest",
+    "livePosition": 2,
+    "ubersuggestPosition": 2
+   },
+   {
+    "keyword": "amar rabi binyamin",
+    "currentPosition": 1,
+    "previousPosition": 1,
+    "change": 0,
+    "volume": 20,
+    "url": "https://rmbhcharities.com/amar-rabbi-binyamin-meaning/",
+    "tier": "BRAND",
+    "band": "page1",
+    "gscPosition90": 1,
+    "liveImpressions": 43,
+    "semrushPosition": null,
+    "manualPosition": 2,
+    "source": "ubersuggest",
+    "livePosition": 1,
+    "ubersuggestPosition": 1
+   },
+   {
+    "keyword": "prayer for lost objects",
+    "currentPosition": 6,
+    "previousPosition": 6,
+    "change": 0,
+    "volume": 2060,
+    "url": "https://rmbhcharities.com/",
+    "tier": "ASSOCIATED",
+    "band": "page1",
+    "gscPosition90": 6,
+    "liveImpressions": 448,
+    "semrushPosition": null,
+    "manualPosition": null,
+    "source": "ubersuggest",
+    "livePosition": 6,
+    "ubersuggestPosition": 6
+   },
+   {
+    "keyword": "bracha for lost items",
+    "currentPosition": 1,
+    "previousPosition": 1,
+    "change": 0,
+    "volume": 790,
+    "url": "https://rmbhcharities.com/",
+    "tier": "ASSOCIATED",
+    "band": "page1",
+    "gscPosition90": 10,
+    "liveImpressions": 471,
+    "semrushPosition": null,
+    "manualPosition": null,
+    "source": "ubersuggest",
+    "livePosition": 1,
+    "ubersuggestPosition": 1
+   },
+   {
+    "keyword": "tehillim for sick",
+    "currentPosition": 62,
+    "previousPosition": 62,
+    "change": 0,
+    "volume": 270,
+    "url": "https://rmbhcharities.com/tehillim-guide/jewish-prayer-for-sick/",
+    "tier": "ASSOCIATED",
+    "band": "page3",
+    "gscPosition90": 12,
+    "liveImpressions": 887,
+    "semrushPosition": null,
+    "manualPosition": null,
+    "source": "ubersuggest",
+    "livePosition": 62,
+    "ubersuggestPosition": 62
+   },
+   {
+    "keyword": "parnassah",
+    "currentPosition": 6,
+    "previousPosition": 6,
+    "change": 0,
+    "volume": 260,
+    "url": "https://rmbhcharities.com/parnassah/",
+    "tier": "ASSOCIATED",
+    "band": "page1",
+    "gscPosition90": 6,
+    "liveImpressions": 673,
+    "semrushPosition": null,
+    "manualPosition": null,
+    "source": "ubersuggest",
+    "livePosition": 6,
+    "ubersuggestPosition": 6
+   },
+   {
+    "keyword": "what is the prayer for lost things",
+    "currentPosition": 21,
+    "previousPosition": 21,
+    "change": 0,
+    "volume": 220,
+    "url": "https://rmbhcharities.com/lost-object/",
+    "tier": "ASSOCIATED",
+    "band": "page3",
+    "gscPosition90": 11,
+    "liveImpressions": 248,
+    "semrushPosition": null,
+    "manualPosition": null,
+    "source": "ubersuggest",
+    "livePosition": 21,
+    "ubersuggestPosition": 21
+   },
+   {
+    "keyword": "prayer to find something lost",
+    "currentPosition": 14,
+    "previousPosition": 14,
+    "change": 0,
+    "volume": 220,
+    "url": "https://rmbhcharities.com/lost-object/",
+    "tier": "ASSOCIATED",
+    "band": "page2",
+    "gscPosition90": 11,
+    "liveImpressions": 260,
+    "semrushPosition": null,
+    "manualPosition": null,
+    "source": "ubersuggest",
+    "livePosition": 14,
+    "ubersuggestPosition": 14
+   },
+   {
+    "keyword": "kimcha depischa",
+    "currentPosition": 5,
+    "previousPosition": 5,
+    "change": 0,
+    "volume": 160,
+    "url": "https://rmbhcharities.com/kimcha-depischa/",
+    "tier": "ASSOCIATED",
+    "band": "page1",
+    "gscPosition90": 3,
+    "liveImpressions": 95,
+    "semrushPosition": null,
+    "manualPosition": null,
+    "source": "ubersuggest",
+    "livePosition": 5,
+    "ubersuggestPosition": 5
+   },
+   {
+    "keyword": "prayer for finding lost things",
+    "currentPosition": 16,
+    "previousPosition": 16,
+    "change": 0,
+    "volume": 160,
+    "url": "https://rmbhcharities.com/lost-object/",
+    "tier": "ASSOCIATED",
+    "band": "page2",
+    "gscPosition90": 9,
+    "liveImpressions": 208,
+    "semrushPosition": null,
+    "manualPosition": null,
+    "source": "ubersuggest",
+    "livePosition": 16,
+    "ubersuggestPosition": 16
+   },
+   {
+    "keyword": "shidduchim",
+    "currentPosition": 20,
+    "previousPosition": 20,
+    "change": 0,
+    "volume": 120,
+    "url": "https://rmbhcharities.com/yeshuos/shidduchim/navigating-shidduchim-process-with-confidence/",
+    "tier": "ASSOCIATED",
+    "band": "page2",
+    "gscPosition90": 10,
+    "liveImpressions": 553,
+    "semrushPosition": null,
+    "manualPosition": null,
+    "source": "ubersuggest",
+    "livePosition": 20,
+    "ubersuggestPosition": 20
+   },
+   {
+    "keyword": "r meir baal hanes",
+    "currentPosition": 3,
+    "previousPosition": 3,
+    "change": 0,
+    "volume": 110,
+    "url": "https://rmbhcharities.com/",
+    "tier": "ASSOCIATED",
+    "band": "page1",
+    "gscPosition90": 11,
+    "liveImpressions": 352,
+    "semrushPosition": null,
+    "manualPosition": null,
+    "source": "ubersuggest",
+    "livePosition": 3,
+    "ubersuggestPosition": 3
+   },
+   {
+    "keyword": "tehillim for parnassa",
+    "currentPosition": 8,
+    "previousPosition": 8,
+    "change": 0,
+    "volume": 110,
+    "url": "https://rmbhcharities.com/parnassah/guide-to-segulah-for-parnassah/",
+    "tier": "ASSOCIATED",
+    "band": "page1",
+    "gscPosition90": 7,
+    "liveImpressions": 289,
+    "semrushPosition": null,
+    "manualPosition": null,
+    "source": "ubersuggest",
+    "livePosition": 8,
+    "ubersuggestPosition": 8
+   },
+   {
+    "keyword": "mishnayos for shloshim",
+    "currentPosition": 4,
+    "previousPosition": 4,
+    "change": 0,
+    "volume": 100,
+    "url": "https://rmbhcharities.com/merit-for-departed/mishnayos-for-mourners/",
+    "tier": "ASSOCIATED",
+    "band": "page1",
+    "gscPosition90": 9,
+    "liveImpressions": 337,
+    "semrushPosition": null,
+    "manualPosition": null,
+    "source": "ubersuggest",
+    "livePosition": 4,
+    "ubersuggestPosition": 4
+   },
+   {
+    "keyword": "most powerful hebrew prayer for healing",
+    "currentPosition": 14,
+    "previousPosition": 14,
+    "change": 0,
+    "volume": 100,
+    "url": "https://rmbhcharities.com/tehillim-guide/asher-yatzar-healing-prayer/",
+    "tier": "ASSOCIATED",
+    "band": "page2",
+    "gscPosition90": 11,
+    "liveImpressions": 322,
+    "semrushPosition": null,
+    "manualPosition": null,
+    "source": "ubersuggest",
+    "livePosition": 14,
+    "ubersuggestPosition": 14
+   },
+   {
+    "keyword": "parnassah prayer",
+    "currentPosition": 3,
+    "previousPosition": 3,
+    "change": 0,
+    "volume": 90,
+    "url": "https://rmbhcharities.com/parnassah/guide-to-segulah-for-parnassah/",
+    "tier": "ASSOCIATED",
+    "band": "page1",
+    "gscPosition90": 6,
+    "liveImpressions": 276,
+    "semrushPosition": null,
+    "manualPosition": null,
+    "source": "ubersuggest",
+    "livePosition": 3,
+    "ubersuggestPosition": 3
+   },
+   {
+    "keyword": "mishnayos for yahrzeit",
+    "currentPosition": 4,
+    "previousPosition": 4,
+    "change": 0,
+    "volume": 90,
+    "url": "https://rmbhcharities.com/merit-for-departed/mishnayos-for-mourners/",
+    "tier": "ASSOCIATED",
+    "band": "page1",
+    "gscPosition90": 6,
+    "liveImpressions": 182,
+    "semrushPosition": null,
+    "manualPosition": null,
+    "source": "ubersuggest",
+    "livePosition": 4,
+    "ubersuggestPosition": 4
+   },
+   {
+    "keyword": "hachnosas kallah",
+    "currentPosition": 2,
+    "previousPosition": 2,
+    "change": 0,
+    "volume": 90,
+    "url": "https://rmbhcharities.com/rabbi-meir-baal-haness-donate-hachnosas-kallah/",
+    "tier": "ASSOCIATED",
+    "band": "page1",
+    "gscPosition90": 6,
+    "liveImpressions": 255,
+    "semrushPosition": null,
+    "manualPosition": null,
+    "source": "ubersuggest",
+    "livePosition": 2,
+    "ubersuggestPosition": 2
+   },
+   {
+    "keyword": "tehillim for healing",
+    "currentPosition": 8,
+    "previousPosition": 8,
+    "change": 0,
+    "volume": 90,
+    "url": "https://rmbhcharities.com/tehillim-guide/jewish-prayer-for-sick/",
+    "tier": "ASSOCIATED",
+    "band": "page1",
+    "gscPosition90": 8,
+    "liveImpressions": 367,
+    "semrushPosition": null,
+    "manualPosition": null,
+    "source": "ubersuggest",
+    "livePosition": 8,
+    "ubersuggestPosition": 8
+   },
+   {
+    "keyword": "tehillim for good luck",
+    "currentPosition": 5,
+    "previousPosition": 5,
+    "change": 0,
+    "volume": 80,
+    "url": "https://rmbhcharities.com/tehillim-guide/",
+    "tier": "ASSOCIATED",
+    "band": "page1",
+    "gscPosition90": 4,
+    "liveImpressions": 243,
+    "semrushPosition": null,
+    "manualPosition": 3,
+    "source": "ubersuggest",
+    "livePosition": 5,
+    "ubersuggestPosition": 5
+   },
+   {
+    "keyword": "tehillim for parnassah",
+    "currentPosition": 4,
+    "previousPosition": 4,
+    "change": 0,
+    "volume": 80,
+    "url": "https://rmbhcharities.com/parnassah/guide-to-segulah-for-parnassah/",
+    "tier": "ASSOCIATED",
+    "band": "page1",
+    "gscPosition90": 7,
+    "liveImpressions": 329,
+    "semrushPosition": null,
+    "manualPosition": null,
+    "source": "ubersuggest",
+    "livePosition": 4,
+    "ubersuggestPosition": 4
+   },
+   {
+    "keyword": "hebrew prayer for strength and courage",
+    "currentPosition": 8,
+    "previousPosition": 8,
+    "change": 0,
+    "volume": 80,
+    "url": "https://rmbhcharities.com/tehillim-guide/prayer-for-strength/",
+    "tier": "ASSOCIATED",
+    "band": "page1",
+    "gscPosition90": 5,
+    "liveImpressions": 195,
+    "semrushPosition": null,
+    "manualPosition": null,
+    "source": "ubersuggest",
+    "livePosition": 8,
+    "ubersuggestPosition": 8
+   },
+   {
+    "keyword": "jewish prayer request",
+    "currentPosition": 8,
+    "previousPosition": 8,
+    "change": 0,
+    "volume": 70,
+    "url": "https://rmbhcharities.com/kvitel-to-rabbi-meir/",
+    "tier": "ASSOCIATED",
+    "band": "page1",
+    "gscPosition90": 6,
+    "liveImpressions": 234,
+    "semrushPosition": null,
+    "manualPosition": null,
+    "source": "ubersuggest",
+    "livePosition": 8,
+    "ubersuggestPosition": 8
+   },
+   {
+    "keyword": "hachnasat kallah",
+    "currentPosition": 4,
+    "previousPosition": 4,
+    "change": 0,
+    "volume": 70,
+    "url": "https://rmbhcharities.com/rabbi-meir-baal-haness-donate-hachnosas-kallah/",
+    "tier": "ASSOCIATED",
+    "band": "page1",
+    "gscPosition90": 9,
+    "liveImpressions": 233,
+    "semrushPosition": null,
+    "manualPosition": null,
+    "source": "ubersuggest",
+    "livePosition": 4,
+    "ubersuggestPosition": 4
+   },
+   {
+    "keyword": "tehillim for sick person",
+    "currentPosition": 9,
+    "previousPosition": 9,
+    "change": 0,
+    "volume": 70,
+    "url": "https://rmbhcharities.com/tehillim-guide/jewish-prayer-for-sick/",
+    "tier": "ASSOCIATED",
+    "band": "page1",
+    "gscPosition90": 9,
+    "liveImpressions": 266,
+    "semrushPosition": null,
+    "manualPosition": null,
+    "source": "ubersuggest",
+    "livePosition": 9,
+    "ubersuggestPosition": 9
+   },
+   {
+    "keyword": "kvittel",
+    "currentPosition": 5,
+    "previousPosition": 5,
+    "change": 0,
+    "volume": 70,
+    "url": "https://rmbhcharities.com/kvitel-to-rabbi-meir/",
+    "tier": "ASSOCIATED",
+    "band": "page1",
+    "gscPosition90": 4,
+    "liveImpressions": 220,
+    "semrushPosition": null,
+    "manualPosition": null,
+    "source": "ubersuggest",
+    "livePosition": 5,
+    "ubersuggestPosition": 5
+   },
+   {
+    "keyword": "parnassa",
+    "currentPosition": 7,
+    "previousPosition": 7,
+    "change": 0,
+    "volume": 70,
+    "url": "https://rmbhcharities.com/parnassah/",
+    "tier": "ASSOCIATED",
+    "band": "page1",
+    "gscPosition90": 9,
+    "liveImpressions": 181,
+    "semrushPosition": null,
+    "manualPosition": null,
+    "source": "ubersuggest",
+    "livePosition": 7,
+    "ubersuggestPosition": 7
+   },
+   {
+    "keyword": "tehillim for success in exam",
+    "currentPosition": 4,
+    "previousPosition": 4,
+    "change": 0,
+    "volume": 60,
+    "url": "https://rmbhcharities.com/tehillim-guide/",
+    "tier": "ASSOCIATED",
+    "band": "page1",
+    "gscPosition90": 6,
+    "liveImpressions": 185,
+    "semrushPosition": null,
+    "manualPosition": null,
+    "source": "ubersuggest",
+    "livePosition": 4,
+    "ubersuggestPosition": 4
+   },
+   {
+    "keyword": "tehillim for good results",
+    "currentPosition": 2,
+    "previousPosition": 2,
+    "change": 0,
+    "volume": 60,
+    "url": "https://rmbhcharities.com/tehillim-guide/",
+    "tier": "ASSOCIATED",
+    "band": "page1",
+    "gscPosition90": 6,
+    "liveImpressions": 179,
+    "semrushPosition": null,
+    "manualPosition": null,
+    "source": "ubersuggest",
+    "livePosition": 2,
+    "ubersuggestPosition": 2
+   },
+   {
+    "keyword": "prayer for parnassah in hebrew",
+    "currentPosition": 2,
+    "previousPosition": 2,
+    "change": 0,
+    "volume": 50,
+    "url": "https://rmbhcharities.com/parnassah/guide-to-segulah-for-parnassah/",
+    "tier": "ASSOCIATED",
+    "band": "page1",
+    "gscPosition90": 7,
+    "liveImpressions": 199,
+    "semrushPosition": null,
+    "manualPosition": 3,
+    "source": "ubersuggest",
+    "livePosition": 2,
+    "ubersuggestPosition": 2
+   },
+   {
+    "keyword": "tehillim for protection",
+    "currentPosition": 4,
+    "previousPosition": 4,
+    "change": 0,
+    "volume": 50,
+    "url": "https://rmbhcharities.com/tehillim-guide/prayers-for-protection/",
+    "tier": "ASSOCIATED",
+    "band": "page1",
+    "gscPosition90": 6,
+    "liveImpressions": 159,
+    "semrushPosition": null,
+    "manualPosition": null,
+    "source": "ubersuggest",
+    "livePosition": 4,
+    "ubersuggestPosition": 4
+   },
+   {
+    "keyword": "tehilim for success",
+    "currentPosition": 5,
+    "previousPosition": 5,
+    "change": 0,
+    "volume": 50,
+    "url": "https://rmbhcharities.com/tehillim-guide/",
+    "tier": "ASSOCIATED",
+    "band": "page1",
+    "gscPosition90": 9,
+    "liveImpressions": 202,
+    "semrushPosition": null,
+    "manualPosition": 3,
+    "source": "ubersuggest",
+    "livePosition": 5,
+    "ubersuggestPosition": 5
+   },
+   {
+    "keyword": "jewish prayer for strength",
+    "currentPosition": 8,
+    "previousPosition": 8,
+    "change": 0,
+    "volume": 50,
+    "url": "https://rmbhcharities.com/tehillim-guide/prayer-for-strength/",
+    "tier": "ASSOCIATED",
+    "band": "page1",
+    "gscPosition90": 6,
+    "liveImpressions": 180,
+    "semrushPosition": null,
+    "manualPosition": null,
+    "source": "ubersuggest",
+    "livePosition": 8,
+    "ubersuggestPosition": 8
+   }
+  ],
+  "note": "40 priority keywords that are ACTUALLY RANKING right now — every one has a verified current position. Three rank sources are shown side by side so you can cross-check them: Semrush (US) current, Ubersuggest (US) current, and the Google Search Console 90-day average. The headline \"holding\" count uses the live current rank (Semrush, or Ubersuggest where Semrush has no entry). 34 holding page 1 (top 10), 25 in the top 5.",
+  "inTop3": 15,
+  "liveCount": 40,
+  "noGscDataCount": 0,
+  "liveDenominator": 40,
+  "brandCount": 9,
+  "associatedCount": 31,
+  "preserve": {
+   "baseline": {
+    "top5": 33,
+    "page1": 38,
+    "page2": 1
+   },
+   "trackingSince": "2026-06",
+   "current": {
+    "top5": 25,
+    "page1": 34,
+    "page2": 4
+   },
+   "monthly": [
+    {
+     "month": "2026-06",
+     "top5": 33,
+     "page1": 38,
+     "page2": 1
+    },
+    {
+     "month": "2026-07",
+     "top5": 25,
+     "page1": 34,
+     "page2": 4
+    },
+    {
+     "month": "2026-08",
+     "top5": 25,
+     "page1": 34,
+     "page2": 4
+    }
+   ],
+   "benchmarkDate": "2026-06-15",
+   "sourceBasis": "semrush+ubersuggest"
+  },
+  "inTop5": 25,
+  "semrushCount": 0,
+  "noSemrushCount": 40,
+  "bandTargets": {
+   "top5": 30,
+   "page1": 35,
+   "top20": 38
+  },
+  "manualCount": 0,
+  "ubersuggestCount": 40
+ },
+ "goal3": {
+  "name": "Broaden — enter the philanthropy & legacy market",
+  "target": 10,
+  "passLine": 10,
+  "currentNewlyRanked": 38,
+  "topicAreas": [
+   "Tzedakah & giving",
+   "Legacy & bequest",
+   "Israel-impact giving",
+   "Donor research"
+  ],
+  "sample": [
+   {
+    "keyword": "donate to israel",
+    "currentPosition": null,
+    "targetPosition": 10,
+    "volume": 720,
+    "hub": "Israel-impact giving",
+    "status": "720 searches/mo · new philanthropy topic · not yet ours"
+   },
+   {
+    "keyword": "maaser kesafim",
+    "currentPosition": null,
+    "targetPosition": 10,
+    "volume": 30,
+    "hub": "Tzedakah & giving",
+    "status": "30 searches/mo · new philanthropy topic · not yet ours"
+   },
+   {
+    "keyword": "best jewish charity",
+    "currentPosition": null,
+    "targetPosition": 10,
+    "volume": 30,
+    "hub": "Donor research",
+    "status": "30 searches/mo · new philanthropy topic · not yet ours"
+   },
+   {
+    "keyword": "matanot la'evyonim",
+    "currentPosition": null,
+    "targetPosition": 10,
+    "volume": 10,
+    "hub": "Tzedakah & giving",
+    "status": "10 searches/mo · new philanthropy topic · not yet ours"
+   }
+  ],
+  "opportunitySource": "Philanthropy / legacy / Israel-impact giving terms (values-based donors, not personal-need prayer), real Semrush US volumes, cross-checked against live GSC, 2026-06-17",
+  "targetCount": 4,
+  "newContentWins": [
+   {
+    "keyword": "pidyon haben",
+    "position": 10.1,
+    "hub": "Lifecycles & Milestones",
+    "impressions": 2485,
+    "matchedQuery": "pidyon haben",
+    "url": "https://rmbhcharities.com/pidyon-haben/",
+    "onPage1": false
+   },
+   {
+    "keyword": "meir meaning name transformation",
+    "position": 6.6,
+    "hub": "About Rabbi Meir",
+    "impressions": 1398,
+    "matchedQuery": "meir meaning",
+    "url": "https://rmbhcharities.com/rabbi-meir-resources/rabbi-meir-biography/meir-meaning-name-transformation/",
+    "onPage1": true
+   },
+   {
+    "keyword": "jewish unveiling ceremony guide",
+    "position": 7.2,
+    "hub": "Mourning & Remembrance",
+    "impressions": 747,
+    "matchedQuery": "unveiling ceremony",
+    "url": "https://rmbhcharities.com/merit-for-departed/jewish-unveiling-ceremony-guide/",
+    "onPage1": true
+   },
+   {
+    "keyword": "parnassah",
+    "position": 4.6,
+    "hub": "Parnassah",
+    "impressions": 612,
+    "matchedQuery": "parnassah",
+    "url": "https://rmbhcharities.com/parnassah/",
+    "onPage1": true
+   },
+   {
+    "keyword": "asher yatzar healing prayer",
+    "position": 11.2,
+    "hub": "Tehillim",
+    "impressions": 368,
+    "matchedQuery": "asher yatzar",
+    "url": "https://rmbhcharities.com/tehillim-guide/asher-yatzar-healing-prayer/",
+    "onPage1": false
+   },
+   {
+    "keyword": "jewish mourning period child loss",
+    "position": 2.2,
+    "hub": "Educational Resources & Tools",
+    "impressions": 243,
+    "matchedQuery": "gan eden jewish condolence phrase",
+    "url": "https://rmbhcharities.com/resources/jewish-mourning-period-child-loss/",
+    "onPage1": true
+   },
+   {
+    "keyword": "yahrzeit candle guide when to light",
+    "position": 8.4,
+    "hub": "Mourning & Remembrance",
+    "impressions": 216,
+    "matchedQuery": "yahrzeit candle",
+    "url": "https://rmbhcharities.com/merit-for-departed/yahrzeit-candle-guide-when-to-light/",
+    "onPage1": true
+   },
+   {
+    "keyword": "prayer for strength",
+    "position": 5,
+    "hub": "Tehillim",
+    "impressions": 195,
+    "matchedQuery": "hebrew prayer for strength and courage",
+    "url": "https://rmbhcharities.com/tehillim-guide/prayer-for-strength/",
+    "onPage1": true
+   },
+   {
+    "keyword": "famous converts nero conversion",
+    "position": 2.4,
+    "hub": "About Rabbi Meir",
+    "impressions": 144,
+    "matchedQuery": "did nero convert to judaism",
+    "url": "https://rmbhcharities.com/rabbi-meir-resources/rabbi-meir-biography/famous-converts-nero-conversion/",
+    "onPage1": true
+   },
+   {
+    "keyword": "dialectical reasoning in the talmud",
+    "position": 5.5,
+    "hub": "About Rabbi Meir",
+    "impressions": 143,
+    "matchedQuery": null,
+    "url": "https://rmbhcharities.com/rabbi-meir-resources/torah-teachings/dialectical-reasoning/",
+    "onPage1": true
+   },
+   {
+    "keyword": "teshuvah meaning never too late to repent achers story",
+    "position": 30.9,
+    "hub": "About Rabbi Meir",
+    "impressions": 132,
+    "matchedQuery": "teshuvah",
+    "url": "https://rmbhcharities.com/rabbi-meir-resources/rabbi-meir-biography/teshuvah-meaning-never-too-late-to-repent-achers-story/",
+    "onPage1": false
+   },
+   {
+    "keyword": "prayer before brit milah",
+    "position": 9.9,
+    "hub": "Lifecycles & Milestones",
+    "impressions": 96,
+    "matchedQuery": "bris milah prayer",
+    "url": "https://rmbhcharities.com/bris/",
+    "onPage1": true
+   },
+   {
+    "keyword": "first yahrzeit customs",
+    "position": 5.8,
+    "hub": "Mourning & Remembrance",
+    "impressions": 87,
+    "matchedQuery": "first yahrzeit",
+    "url": "https://rmbhcharities.com/merit-for-departed/first-yahrzeit-customs/",
+    "onPage1": true
+   },
+   {
+    "keyword": "beraitot of rabbi meir",
+    "position": 1.8,
+    "hub": "About Rabbi Meir",
+    "impressions": 70,
+    "matchedQuery": "rabbi meir",
+    "url": "https://rmbhcharities.com/rabbi-meir-resources/torah-teachings/beraitot-rabbi-meir/",
+    "onPage1": true
+   },
+   {
+    "keyword": "acherim omrim others say",
+    "position": 9,
+    "hub": "About Rabbi Meir",
+    "impressions": 69,
+    "matchedQuery": "omrim",
+    "url": "https://rmbhcharities.com/rabbi-meir-resources/torah-teachings/acherim-omrim-others-say/",
+    "onPage1": true
+   },
+   {
+    "keyword": "sifra & sifrei",
+    "position": 8.5,
+    "hub": "About Rabbi Meir",
+    "impressions": 69,
+    "matchedQuery": "sifrei",
+    "url": "https://rmbhcharities.com/rabbi-meir-resources/torah-teachings/sifra-sifrei/",
+    "onPage1": true
+   },
+   {
+    "keyword": "three parts wisdom",
+    "position": 1.9,
+    "hub": "About Rabbi Meir",
+    "impressions": 58,
+    "matchedQuery": "what is the talmud",
+    "url": "https://rmbhcharities.com/rabbi-meir-resources/torah-teachings/three-parts-wisdom/",
+    "onPage1": true
+   },
+   {
+    "keyword": "rabbi meir star student",
+    "position": 28.5,
+    "hub": "About Rabbi Meir",
+    "impressions": 53,
+    "matchedQuery": "rabbi meir",
+    "url": "https://rmbhcharities.com/rabbi-meir-resources/rabbi-meir-biography/rabbi-meir-star-student/",
+    "onPage1": false
+   },
+   {
+    "keyword": "rabbi meir's torah teachings & wisdom",
+    "position": 6.6,
+    "hub": "About Rabbi Meir",
+    "impressions": 46,
+    "matchedQuery": null,
+    "url": "https://rmbhcharities.com/rabbi-meir-resources/torah-teachings/",
+    "onPage1": true
+   },
+   {
+    "keyword": "teradion family tree",
+    "position": 6.2,
+    "hub": "About Rabbi Meir",
+    "impressions": 45,
+    "matchedQuery": "teradion",
+    "url": "https://rmbhcharities.com/rabbi-meir-resources/rabbi-meir-biography/teradion-family-tree/",
+    "onPage1": true
+   },
+   {
+    "keyword": "rabbi meir baal haness",
+    "position": 26.1,
+    "hub": "About Rabbi Meir",
+    "impressions": 39,
+    "matchedQuery": "rabbi meir baal haness",
+    "url": "https://rmbhcharities.com/rabbi-meir-resources/",
+    "onPage1": false
+   },
+   {
+    "keyword": "mourner's kaddish",
+    "position": 49.9,
+    "hub": "Mourning & Remembrance",
+    "impressions": 37,
+    "matchedQuery": "mourner's kaddish",
+    "url": "https://rmbhcharities.com/merit-for-departed/mourners-kaddish/",
+    "onPage1": false
+   },
+   {
+    "keyword": "calculate yahrzeit date",
+    "position": 10.6,
+    "hub": "Mourning & Remembrance",
+    "impressions": 29,
+    "matchedQuery": "yahrzeit",
+    "url": "https://rmbhcharities.com/merit-for-departed/calculate-yahrzeit-date/",
+    "onPage1": false
+   },
+   {
+    "keyword": "why jews put stones on graves",
+    "position": 7.3,
+    "hub": "Mourning & Remembrance",
+    "impressions": 24,
+    "matchedQuery": "what tehillim to say at cemetery",
+    "url": "https://rmbhcharities.com/merit-for-departed/why-jews-put-stones-on-graves/",
+    "onPage1": true
+   },
+   {
+    "keyword": "segulos & miracles of rabbi meir",
+    "position": 6,
+    "hub": "About Rabbi Meir",
+    "impressions": 21,
+    "matchedQuery": "segulos",
+    "url": "https://rmbhcharities.com/rabbi-meir-resources/segulos-miracles/",
+    "onPage1": true
+   },
+   {
+    "keyword": "chain of semicha",
+    "position": 10.9,
+    "hub": "About Rabbi Meir",
+    "impressions": 14,
+    "matchedQuery": "semicha",
+    "url": "https://rmbhcharities.com/rabbi-meir-resources/teachers-and-students/semicha-chain/",
+    "onPage1": false
+   },
+   {
+    "keyword": "rabbi meir baal haness biography",
+    "position": 28.6,
+    "hub": "About Rabbi Meir",
+    "impressions": 14,
+    "matchedQuery": "rabbi meir baal haness biography",
+    "url": "https://rmbhcharities.com/rabbi-meir-resources/rabbi-meir-biography/",
+    "onPage1": false
+   },
+   {
+    "keyword": "rabbi yehuda ben bava",
+    "position": 4.5,
+    "hub": "About Rabbi Meir",
+    "impressions": 13,
+    "matchedQuery": null,
+    "url": "https://rmbhcharities.com/rabbi-meir-resources/teachers-and-students/yehuda-ben-bava-martyrdom/",
+    "onPage1": true
+   },
+   {
+    "keyword": "midrash of rabbi meir",
+    "position": 20.8,
+    "hub": "About Rabbi Meir",
+    "impressions": 12,
+    "matchedQuery": "rabbi meir",
+    "url": "https://rmbhcharities.com/rabbi-meir-resources/torah-teachings/midrash-rabbi-meir/",
+    "onPage1": false
+   },
+   {
+    "keyword": "shabbat candle lighting blessing",
+    "position": 6.6,
+    "hub": "Shabbat",
+    "impressions": 12,
+    "matchedQuery": "bench licht",
+    "url": "https://rmbhcharities.com/shabbat-candle-lighting-prayer/",
+    "onPage1": true
+   },
+   {
+    "keyword": "the wicked neighbors",
+    "position": 16.2,
+    "hub": "About Rabbi Meir",
+    "impressions": 11,
+    "matchedQuery": "rabbi meir baal haness biography",
+    "url": "https://rmbhcharities.com/rabbi-meir-resources/rabbi-meir-biography/the-wicked-neighbors/",
+    "onPage1": false
+   },
+   {
+    "keyword": "how does a segulah work",
+    "position": 12.1,
+    "hub": "About Rabbi Meir",
+    "impressions": 10,
+    "matchedQuery": null,
+    "url": "https://rmbhcharities.com/rabbi-meir-resources/segulos-miracles/how-segulah-works/",
+    "onPage1": false
+   },
+   {
+    "keyword": "rabbi meir and beruriah",
+    "position": 1,
+    "hub": "About Rabbi Meir",
+    "impressions": 9,
+    "matchedQuery": "beruriah",
+    "url": "https://rmbhcharities.com/rabbi-meir-resources/teachers-and-students/rabbi-meir-beruriah-marriage/",
+    "onPage1": true
+   },
+   {
+    "keyword": "why rabbi meir's reasoning was too deep",
+    "position": 4.8,
+    "hub": "About Rabbi Meir",
+    "impressions": 8,
+    "matchedQuery": null,
+    "url": "https://rmbhcharities.com/rabbi-meir-resources/torah-teachings/rabbi-meir-reasoning-too-deep/",
+    "onPage1": true
+   },
+   {
+    "keyword": "mishnah linguistics & rabbi meir's style",
+    "position": 9.3,
+    "hub": "About Rabbi Meir",
+    "impressions": 7,
+    "matchedQuery": null,
+    "url": "https://rmbhcharities.com/rabbi-meir-resources/torah-teachings/mishnah-linguistics/",
+    "onPage1": true
+   },
+   {
+    "keyword": "why rabbi meir's rulings were rejected",
+    "position": 5.2,
+    "hub": "About Rabbi Meir",
+    "impressions": 6,
+    "matchedQuery": null,
+    "url": "https://rmbhcharities.com/rabbi-meir-resources/torah-teachings/rabbi-meir-rejected-rulings/",
+    "onPage1": true
+   },
+   {
+    "keyword": "tosefta",
+    "position": 2,
+    "hub": "About Rabbi Meir",
+    "impressions": 6,
+    "matchedQuery": "tosefta",
+    "url": "https://rmbhcharities.com/rabbi-meir-resources/torah-teachings/tosefta/",
+    "onPage1": true
+   },
+   {
+    "keyword": "rabban shimon ben gamliel ii",
+    "position": 2.8,
+    "hub": "About Rabbi Meir",
+    "impressions": 5,
+    "matchedQuery": null,
+    "url": "https://rmbhcharities.com/rabbi-meir-resources/teachers-and-students/rabban-shimon-ben-gamliel/",
+    "onPage1": true
+   },
+   {
+    "keyword": "generations of tannaim",
+    "position": 9.4,
+    "hub": "About Rabbi Meir",
+    "impressions": 5,
+    "matchedQuery": "tannaim",
+    "url": "https://rmbhcharities.com/rabbi-meir-resources/teachers-and-students/tannaim-generations/",
+    "onPage1": true
+   },
+   {
+    "keyword": "the power couples children",
+    "position": 2.3,
+    "hub": "About Rabbi Meir",
+    "impressions": 4,
+    "matchedQuery": "כן",
+    "url": "https://rmbhcharities.com/rabbi-meir-resources/rabbi-meir-biography/the-power-couples-children/",
+    "onPage1": true
+   },
+   {
+    "keyword": "eat the fruit, discard the peel",
+    "position": 5,
+    "hub": "About Rabbi Meir",
+    "impressions": 4,
+    "matchedQuery": null,
+    "url": "https://rmbhcharities.com/rabbi-meir-resources/teachers-and-students/eat-fruit-discard-peel/",
+    "onPage1": true
+   },
+   {
+    "keyword": "rabbi meir's talmudic methodology",
+    "position": 1,
+    "hub": "About Rabbi Meir",
+    "impressions": 4,
+    "matchedQuery": "rabbi meir",
+    "url": "https://rmbhcharities.com/rabbi-meir-resources/teachers-and-students/rabbi-meir-methodology/",
+    "onPage1": true
+   },
+   {
+    "keyword": "fox fables",
+    "position": 7.7,
+    "hub": "About Rabbi Meir",
+    "impressions": 3,
+    "matchedQuery": "fox fables",
+    "url": "https://rmbhcharities.com/rabbi-meir-resources/torah-teachings/fox-fables/",
+    "onPage1": true
+   },
+   {
+    "keyword": "mishnah compilation & rabbi meir's role",
+    "position": 45,
+    "hub": "About Rabbi Meir",
+    "impressions": 3,
+    "matchedQuery": "rabbi meir",
+    "url": "https://rmbhcharities.com/rabbi-meir-resources/torah-teachings/mishnah-compilation/",
+    "onPage1": false
+   },
+   {
+    "keyword": "talmudic debates",
+    "position": 15.7,
+    "hub": "About Rabbi Meir",
+    "impressions": 3,
+    "matchedQuery": null,
+    "url": "https://rmbhcharities.com/rabbi-meir-resources/teachers-and-students/talmudic-debates/",
+    "onPage1": false
+   },
+   {
+    "keyword": "guide to the talmudic sages",
+    "position": 8.3,
+    "hub": "About Rabbi Meir",
+    "impressions": 3,
+    "matchedQuery": "talmudic sage",
+    "url": "https://rmbhcharities.com/rabbi-meir-resources/teachers-and-students/talmudic-sages/",
+    "onPage1": true
+   },
+   {
+    "keyword": "rabbi meir vs. rabbi yehuda debates",
+    "position": 6,
+    "hub": "About Rabbi Meir",
+    "impressions": 2,
+    "matchedQuery": null,
+    "url": "https://rmbhcharities.com/rabbi-meir-resources/teachers-and-students/rabbi-meir-rabbi-yehuda-debates/",
+    "onPage1": true
+   },
+   {
+    "keyword": "rabbi nassan and the sanhedrin",
+    "position": 7.5,
+    "hub": "About Rabbi Meir",
+    "impressions": 2,
+    "matchedQuery": null,
+    "url": "https://rmbhcharities.com/rabbi-meir-resources/teachers-and-students/rabbi-nathan-sanhedrin/",
+    "onPage1": true
+   },
+   {
+    "keyword": "rabbi akiva vs. ishmael",
+    "position": 2,
+    "hub": "About Rabbi Meir",
+    "impressions": 1,
+    "matchedQuery": "כן",
+    "url": "https://rmbhcharities.com/rabbi-meir-resources/torah-teachings/akiva-ishmael-methodology/",
+    "onPage1": true
+   },
+   {
+    "keyword": "yerushalmi vs. bavli",
+    "position": 1,
+    "hub": "About Rabbi Meir",
+    "impressions": 1,
+    "matchedQuery": "talmud bavli vs yerushalmi",
+    "url": "https://rmbhcharities.com/rabbi-meir-resources/torah-teachings/yerushalmi-bavli/",
+    "onPage1": true
+   },
+   {
+    "keyword": "leading without recognition in torah",
+    "position": 66,
+    "hub": "About Rabbi Meir",
+    "impressions": 1,
+    "matchedQuery": "reb meir",
+    "url": "https://rmbhcharities.com/rabbi-meir-resources/torah-teachings/leading-without-recognition/",
+    "onPage1": false
+   },
+   {
+    "keyword": "students of rabbi meir",
+    "position": 3,
+    "hub": "About Rabbi Meir",
+    "impressions": 1,
+    "matchedQuery": null,
+    "url": "https://rmbhcharities.com/rabbi-meir-resources/teachers-and-students/rabbi-meir-students/",
+    "onPage1": true
+   },
+   {
+    "keyword": "who were rabbi meir's teachers",
+    "position": 7,
+    "hub": "About Rabbi Meir",
+    "impressions": 1,
+    "matchedQuery": null,
+    "url": "https://rmbhcharities.com/rabbi-meir-resources/teachers-and-students/rabbi-meir-teachers/",
+    "onPage1": true
+   },
+   {
+    "keyword": "rabban gamliel deposed",
+    "position": 11,
+    "hub": "About Rabbi Meir",
+    "impressions": 1,
+    "matchedQuery": "rabban gamliel",
+    "url": "https://rmbhcharities.com/rabbi-meir-resources/teachers-and-students/sanhedrin-coup/",
+    "onPage1": false
+   }
+  ],
+  "newContentTotal": 54,
+  "newContentWinsOnPage1": 38,
+  "philanthropyOnPage1": 0
+ },
+ "goal4": {
+  "name": "Establish — compete with leading Israel charities",
+  "metric": "Share of organic traffic (Semrush US)",
+  "shareOfVoice": {
+   "lastFetched": "2026-06-24",
+   "source": "Semrush US database (Analytics API, live) · IL shown for context",
+   "targetSoV": 25,
+   "rmbhCurrentSoV": 19.34,
+   "rmbhRank": 2,
+   "totalTracked": 6,
+   "totalTraffic": 10369,
+   "competitors": [
+    {
+     "domain": "rmbhcharities.com",
+     "name": "Rabbi Meir Baal Haness Charities",
+     "traffic": 2005,
+     "ilTraffic": 27,
+     "keywords": 2289,
+     "sov": 19.34,
+     "isUs": true
+    },
+    {
+     "domain": "colelchabad.org",
+     "name": "Colel Chabad",
+     "traffic": 5989,
+     "ilTraffic": 921,
+     "keywords": 3691,
+     "sov": 57.76
+    },
+    {
+     "domain": "meirpanim.org",
+     "name": "Meir Panim",
+     "traffic": 816,
+     "ilTraffic": 15,
+     "keywords": 280,
+     "sov": 7.87
+    },
+    {
+     "domain": "yadeliezer.org",
+     "name": "Yad Eliezer",
+     "traffic": null,
+     "ilTraffic": null,
+     "keywords": null,
+     "sov": null,
+     "note": "No Semrush organic data (excluded from SoV)"
+    },
+    {
+     "domain": "latet.org.il",
+     "name": "Latet",
+     "traffic": 88,
+     "ilTraffic": 5403,
+     "keywords": 124,
+     "sov": 0.85
+    },
+    {
+     "domain": "yadezra.net",
+     "name": "Yad Ezra",
+     "traffic": 416,
+     "ilTraffic": 0,
+     "keywords": 321,
+     "sov": 4.01
+    },
+    {
+     "domain": "levlalev.com",
+     "name": "Lev LaLev",
+     "traffic": 1055,
+     "ilTraffic": 0,
+     "keywords": 1861,
+     "sov": 10.17
+    }
+   ],
+   "views": {
+    "bigCharities": {
+     "label": "Proposal set — leading Israel charities",
+     "competitors": [
+      {
+       "domain": "rmbhcharities.com",
+       "name": "Rabbi Meir Baal Haness Charities",
+       "traffic": 2005,
+       "ilTraffic": 27,
+       "keywords": 2289,
+       "sov": 19.34,
+       "isUs": true
+      },
+      {
+       "domain": "colelchabad.org",
+       "name": "Colel Chabad",
+       "traffic": 5989,
+       "ilTraffic": 921,
+       "keywords": 3691,
+       "sov": 57.76
+      },
+      {
+       "domain": "meirpanim.org",
+       "name": "Meir Panim",
+       "traffic": 816,
+       "ilTraffic": 15,
+       "keywords": 280,
+       "sov": 7.87
+      },
+      {
+       "domain": "yadeliezer.org",
+       "name": "Yad Eliezer",
+       "traffic": null,
+       "ilTraffic": null,
+       "keywords": null,
+       "sov": null,
+       "note": "No Semrush organic data (excluded from SoV)"
+      },
+      {
+       "domain": "latet.org.il",
+       "name": "Latet",
+       "traffic": 88,
+       "ilTraffic": 5403,
+       "keywords": 124,
+       "sov": 0.85
+      },
+      {
+       "domain": "yadezra.net",
+       "name": "Yad Ezra",
+       "traffic": 416,
+       "ilTraffic": 0,
+       "keywords": 321,
+       "sov": 4.01
+      },
+      {
+       "domain": "levlalev.com",
+       "name": "Lev LaLev",
+       "traffic": 1055,
+       "ilTraffic": 0,
+       "keywords": 1861,
+       "sov": 10.17
+      }
+     ],
+     "rmbhCurrentSoV": 19.34,
+     "rmbhRank": 2,
+     "totalTracked": 6,
+     "totalDomains": 7,
+     "totalTraffic": 10369
+    },
+    "directRivals": {
+     "label": "Direct Rabbi Meir Baal Haness charities",
+     "competitors": [
+      {
+       "domain": "rmbhcharities.com",
+       "name": "Rabbi Meir Baal Haness Charities",
+       "traffic": 2005,
+       "ilTraffic": 27,
+       "keywords": 2289,
+       "sov": 55.11,
+       "isUs": true
+      },
+      {
+       "domain": "kupathrabbimeir.org",
+       "name": "Kupath Rabbi Meir",
+       "traffic": 526,
+       "ilTraffic": 34,
+       "keywords": 643,
+       "sov": 14.46
+      },
+      {
+       "domain": "rabbimeirbaalhaneis.com",
+       "name": "Rabbi Meir Baal Haneis",
+       "traffic": 369,
+       "ilTraffic": 5,
+       "keywords": 235,
+       "sov": 10.14
+      },
+      {
+       "domain": "rebmeir.org",
+       "name": "Reb Meir",
+       "traffic": 738,
+       "ilTraffic": 0,
+       "keywords": 220,
+       "sov": 20.29
+      }
+     ],
+     "rmbhCurrentSoV": 55.11,
+     "rmbhRank": 1,
+     "totalTracked": 4,
+     "totalDomains": 4,
+     "totalTraffic": 3638
+    }
+   },
+   "explainer": {
+    "title": "Why do some positions move while we hold the #1 share of organic traffic?",
+    "body": [
+     "Share of organic traffic is a presence score: across the charities we track, it measures how much of the combined organic search traffic RMBH captures compared with everyone else. Right now, among the direct Rabbi Meir Baal Haness charities, RMBH draws 55.1% of that traffic and ranks #1, more than the next three organizations combined. That number stays strong and dominant even while a handful of individual keyword positions tick up or down, because the overall traffic share is the whole picture while a single keyword's rank is one pixel inside it. A few terms slipping a spot or two barely moves the overall total. It is the difference between a team's season record and the score of one quarter.",
+     "There are three real reasons individual positions move, and none of them mean we are losing ground. First, demand is seasonal: people search for giving and prayer terms in waves, and Google reshuffles results to match. In Semrush's own data, searches for \"donate to charity\" swing more than 4x between their quietest and busiest month, and \"jewish charity\" swings over 6x, so the same page naturally rises and falls with the calendar even when nothing on it changed. Second, Google now stacks the top of the page with answer boxes (People Also Ask questions, image panels, and related-question blocks) that push the classic blue links down. On the RMBH keywords we checked, more than half carry a People Also Ask block and most carry an image or related-answer panel above the ordinary listings. Third, competitors publish and refresh pages too, and when a rival updates an article it can nudge one term for a while.",
+     "What this means for RMBH is simple: the foundation is healthy and category-leading. We are the loudest voice in our own space by a wide margin. The small position wobbles are normal weather, not a storm, and they are exactly what the maintenance side of the plan is built to catch. We watch the priority keywords every week, refresh the pages that drift, and answer the questions Google is now surfacing in those answer boxes, so RMBH keeps converting its #1 presence into the clicks and donations that actually matter."
+    ],
+    "bullets": [
+     "Share of organic traffic measures RMBH's slice of the combined search traffic across the tracked field. RMBH holds 55.1% and ranks #1 among the direct Rabbi Meir Baal Haness charities, more than the next three combined. One keyword moving a spot does not dent that.",
+     "Giving demand is seasonal: Semrush shows searches for \"donate to charity\" swing about 4x and \"jewish charity\" over 6x between their quiet and peak months, so the same page naturally rises and falls with the calendar.",
+     "Google now places answer boxes (People Also Ask, image panels, related questions) above the regular links. More than half of the RMBH keywords we checked carry a People Also Ask block, pushing the classic listings down a notch.",
+     "Competitors refresh their pages too, so a rival update can nudge a single term temporarily without changing the overall standings.",
+     "This is normal weather, not a decline. The maintenance plan watches priority keywords weekly, refreshes drifting pages, and targets the new answer boxes to keep our #1 presence converting into clicks."
+    ],
+    "stats": [
+     {
+      "value": "55.1%",
+      "label": "our share of organic traffic — #1 of 4 direct charities, more than the next three combined (44.9%)"
+     },
+     {
+      "value": "4–6×",
+      "label": "seasonal swing in giving-term demand between the quiet and peak months of the year"
+     },
+     {
+      "value": "Above the links",
+      "label": "answer boxes (People Also Ask, image & related panels) now top most of these search results"
+     }
+    ],
+    "source": "Share of organic traffic: Semrush US, 2026-06-24 · seasonality & SERP features: Semrush US, 2026-06-18 · all figures independently re-verified"
+   }
+  },
+  "competitors": [
+   "Kupath Rabbi Meir",
+   "Yad Eliezer",
+   "Meir Panim",
+   "Colel Chabad"
+  ]
+ },
+ "goal5": {
+  "name": "Be the name AI gives for Rabbi Meir Baal Haness",
+  "target": 5,
+  "passLine": 3,
+  "totalQuestions": 20,
+  "currentMentions": 3,
+  "lastScanned": "2026-08-04",
+  "sample": [
+   {
+    "query": "Which charity gives in the zechus of Rabbi Meir Baal Haness?",
+    "gemini": false,
+    "googleSearch": false
+   },
+   {
+    "query": "What is the official Rabbi Meir Baal Haness charity organization?",
+    "gemini": false,
+    "googleSearch": false
+   },
+   {
+    "query": "Where do Orthodox Jews donate in the merit of Rabbi Meir Baal Haness?",
+    "gemini": false,
+    "googleSearch": false
+   },
+   {
+    "query": "How does giving tzedakah in the merit of Rabbi Meir Baal Haness work?",
+    "gemini": false,
+    "googleSearch": false
+   },
+   {
+    "query": "What is the difference between Kupath Rabbi Meir and other Rabbi Meir Baal Haness charities?",
+    "gemini": false,
+    "googleSearch": false
+   },
+   {
+    "query": "What is rmbhcharities.com and who runs it?",
+    "gemini": true,
+    "googleSearch": false
+   },
+   {
+    "query": "Where can I send a kvittel to be placed at the kever of Rabbi Meir Baal Haness?",
+    "gemini": false,
+    "googleSearch": false
+   },
+   {
+    "query": "What is the Jewish prayer for finding a lost object?",
+    "gemini": false,
+    "googleSearch": false
+   },
+   {
+    "query": "What is the prayer of Rabbi Meir Baal Haness for recovering lost objects?",
+    "gemini": false,
+    "googleSearch": false
+   },
+   {
+    "query": "What is the prayer \"Elokah d'Meir Aneini\" and when is it said?",
+    "gemini": false,
+    "googleSearch": false
+   },
+   {
+    "query": "What is a trusted charity for giving tzedakah in Israel in someone's merit or memory?",
+    "gemini": false,
+    "googleSearch": false
+   },
+   {
+    "query": "What is the best charity for hachnasas kallah (helping poor brides marry) in Israel?",
+    "gemini": false,
+    "googleSearch": false
+   },
+   {
+    "query": "Which long-established Israeli tzedakah organization supports poor Torah families?",
+    "gemini": false,
+    "googleSearch": false
+   },
+   {
+    "query": "What charity can I donate to in memory of a loved one for their yahrzeit?",
+    "gemini": false,
+    "googleSearch": true
+   },
+   {
+    "query": "What is a reliable charity for kimcha d'pischa (Pesach food for the poor) in Israel?",
+    "gemini": false,
+    "googleSearch": true
+   },
+   {
+    "query": "Who was Rabbi Meir Baal Haness and why do people give tzedakah in his merit?",
+    "gemini": false,
+    "googleSearch": false
+   },
+   {
+    "query": "How can I donate to Rabbi Meir Baal Haness charity for the poor in Israel?",
+    "gemini": false,
+    "googleSearch": false
+   },
+   {
+    "query": "When is the yahrzeit of Rabbi Meir Baal Haness and how is it observed?",
+    "gemini": false,
+    "googleSearch": false
+   },
+   {
+    "query": "What is the segulah of giving charity to Rabbi Meir Baal Haness for a yeshuah?",
+    "gemini": false,
+    "googleSearch": false
+   },
+   {
+    "query": "Where is the kever of Rabbi Meir Baal Haness and what do people pray for there?",
+    "gemini": false,
+    "googleSearch": false
+   }
+  ],
+  "note": "Weekly automated test — engines run this scan: gemini-2.5-flash, Google AI (Search). Pending API credits: gpt-4o, claude-sonnet-4-6, Perplexity (Sonar). Consumer-app screenshots captured monthly as the client-facing proof.",
+  "enginesTested": [
+   "gemini-2.5-flash",
+   "Google AI (Search)"
+  ],
+  "enginesPending": [
+   "gpt-4o",
+   "claude-sonnet-4-6",
+   "Perplexity (Sonar)"
+  ],
+  "competitorMentions": [
+   {
+    "name": "Colel Chabad",
+    "count": 10
+   },
+   {
+    "name": "Kupath Rabbi Meir",
+    "count": 6
+   },
+   {
+    "name": "Yad Eliezer",
+    "count": 6
+   },
+   {
+    "name": "Leket Israel",
+    "count": 2
+   },
+   {
+    "name": "Meir Panim",
+    "count": 2
+   },
+   {
+    "name": "Latet",
+    "count": 1
+   },
+   {
+    "name": "United Hatzalah",
+    "count": 1
+   },
+   {
+    "name": "Chai Lifeline",
+    "count": 1
+   }
+  ],
+  "hasEvidence": true,
+  "benchmarkDate": "2026-06-15",
+  "benchmarkMentions": 2,
+  "baseline": {
+   "date": "2026-06-15",
+   "mentions": 2,
+   "totalQuestions": 20,
+   "perPrompt": [
+    {
+     "query": "Which charity gives in the zechus of Rabbi Meir Baal Haness?",
+     "chatgpt": false,
+     "gemini": false,
+     "googleSearch": false
+    },
+    {
+     "query": "What is the official Rabbi Meir Baal Haness charity organization?",
+     "chatgpt": false,
+     "gemini": false,
+     "googleSearch": false
+    },
+    {
+     "query": "Where do Orthodox Jews donate in the merit of Rabbi Meir Baal Haness?",
+     "chatgpt": false,
+     "gemini": false,
+     "googleSearch": false
+    },
+    {
+     "query": "How does giving tzedakah in the merit of Rabbi Meir Baal Haness work?",
+     "chatgpt": false,
+     "gemini": false,
+     "googleSearch": false
+    },
+    {
+     "query": "What is the difference between Kupath Rabbi Meir and other Rabbi Meir Baal Haness charities?",
+     "chatgpt": false,
+     "gemini": false,
+     "googleSearch": false
+    },
+    {
+     "query": "What is rmbhcharities.com and who runs it?",
+     "chatgpt": false,
+     "gemini": true,
+     "googleSearch": false
+    },
+    {
+     "query": "Where can I send a kvittel to be placed at the kever of Rabbi Meir Baal Haness?",
+     "chatgpt": false,
+     "gemini": false,
+     "googleSearch": false
+    },
+    {
+     "query": "What is the Jewish prayer for finding a lost object?",
+     "chatgpt": false,
+     "gemini": false,
+     "googleSearch": false
+    },
+    {
+     "query": "What is the prayer of Rabbi Meir Baal Haness for recovering lost objects?",
+     "chatgpt": false,
+     "gemini": false,
+     "googleSearch": false
+    },
+    {
+     "query": "What is the prayer \"Elokah d'Meir Aneini\" and when is it said?",
+     "chatgpt": false,
+     "gemini": false,
+     "googleSearch": false
+    },
+    {
+     "query": "What is a trusted charity for giving tzedakah in Israel in someone's merit or memory?",
+     "chatgpt": false,
+     "gemini": false,
+     "googleSearch": false
+    },
+    {
+     "query": "What is the best charity for hachnasas kallah (helping poor brides marry) in Israel?",
+     "chatgpt": false,
+     "gemini": false,
+     "googleSearch": false
+    },
+    {
+     "query": "Which long-established Israeli tzedakah organization supports poor Torah families?",
+     "chatgpt": false,
+     "gemini": false,
+     "googleSearch": false
+    },
+    {
+     "query": "What charity can I donate to in memory of a loved one for their yahrzeit?",
+     "chatgpt": false,
+     "gemini": false,
+     "googleSearch": false
+    },
+    {
+     "query": "What is a reliable charity for kimcha d'pischa (Pesach food for the poor) in Israel?",
+     "chatgpt": false,
+     "gemini": false,
+     "googleSearch": false
+    },
+    {
+     "query": "Who was Rabbi Meir Baal Haness and why do people give tzedakah in his merit?",
+     "chatgpt": false,
+     "gemini": false,
+     "googleSearch": false
+    },
+    {
+     "query": "How can I donate to Rabbi Meir Baal Haness charity for the poor in Israel?",
+     "chatgpt": true,
+     "gemini": false,
+     "googleSearch": false
+    },
+    {
+     "query": "When is the yahrzeit of Rabbi Meir Baal Haness and how is it observed?",
+     "chatgpt": false,
+     "gemini": false,
+     "googleSearch": false
+    },
+    {
+     "query": "What is the segulah of giving charity to Rabbi Meir Baal Haness for a yeshuah?",
+     "chatgpt": false,
+     "gemini": false,
+     "googleSearch": false
+    },
+    {
+     "query": "Where is the kever of Rabbi Meir Baal Haness and what do people pray for there?",
+     "chatgpt": false,
+     "gemini": false,
+     "googleSearch": false
+    }
+   ]
+  }
+ },
+ "goalEnhance": {
+  "name": "Enhance — lift page-2 keywords to page 1",
+  "metric": "Striking-distance keywords (locked at pos 11-20) now holding page 1 (top 10)",
+  "sampleSize": 16,
+  "currentOnPage1": 5,
+  "target": 10,
+  "passLine": 6,
+  "baselineDate": "2026-06-15",
+  "lastChecked": "2026-08-04",
+  "note": "16 striking-distance keywords benchmarked 2026-06-15 (all were on page 2, positions 11-20, with real Search Console impressions). We track how many reach page 1 (top 10). Currently 5 on page 1. Positions are currently tracked from Google Search Console (the 90-day average); Semrush current rank (with Ubersuggest as the backup source) is being integrated next week.",
+  "sample": [
+   {
+    "keyword": "pidyon haben",
+    "startPosition": 11,
+    "currentPosition": 10,
+    "onPage1": true,
+    "change": 1,
+    "impressions": 2485,
+    "gscPosition90": 10,
+    "semrushPosition": null,
+    "url": "https://rmbhcharities.com/pidyon-haben/",
+    "source": "gsc"
+   },
+   {
+    "keyword": "donate to poor in israel",
+    "startPosition": 12,
+    "currentPosition": 12,
+    "onPage1": false,
+    "change": 0,
+    "impressions": 460,
+    "gscPosition90": 12,
+    "semrushPosition": null,
+    "url": "https://rmbhcharities.com/support-israel/",
+    "source": "gsc"
+   },
+   {
+    "keyword": "israel inspired giving",
+    "startPosition": 13,
+    "currentPosition": 19,
+    "onPage1": false,
+    "change": -6,
+    "impressions": 59,
+    "gscPosition90": 19,
+    "semrushPosition": null,
+    "url": "https://rmbhcharities.com/support-israel/",
+    "source": "gsc"
+   },
+   {
+    "keyword": "rabbi meir baal haness donate",
+    "startPosition": 13,
+    "currentPosition": 9,
+    "onPage1": true,
+    "change": 4,
+    "impressions": 655,
+    "gscPosition90": 9,
+    "semrushPosition": null,
+    "url": "https://rmbhcharities.com/order-a-pushka/",
+    "source": "gsc"
+   },
+   {
+    "keyword": "tehillim for success",
+    "startPosition": 12,
+    "currentPosition": 5,
+    "onPage1": true,
+    "change": 7,
+    "impressions": 1045,
+    "gscPosition90": 5,
+    "semrushPosition": null,
+    "url": "https://rmbhcharities.com/tehillim-guide/prayers-for-strength/",
+    "source": "gsc"
+   },
+   {
+    "keyword": "jewish prayer for success",
+    "startPosition": 17,
+    "currentPosition": 10,
+    "onPage1": true,
+    "change": 7,
+    "impressions": 495,
+    "gscPosition90": 10,
+    "semrushPosition": null,
+    "url": "https://rmbhcharities.com/tehillim-guide/prayer-for-strength/",
+    "source": "gsc"
+   },
+   {
+    "keyword": "jewish prayer for protection",
+    "startPosition": 11,
+    "currentPosition": 14,
+    "onPage1": false,
+    "change": -3,
+    "impressions": 278,
+    "gscPosition90": 14,
+    "semrushPosition": null,
+    "url": "https://rmbhcharities.com/tehillim-guide/prayers-for-protection/",
+    "source": "gsc"
+   },
+   {
+    "keyword": "jewish prayer for healing the sick",
+    "startPosition": 12,
+    "currentPosition": 14,
+    "onPage1": false,
+    "change": -2,
+    "impressions": 221,
+    "gscPosition90": 14,
+    "semrushPosition": null,
+    "url": "https://rmbhcharities.com/tehillim-guide/asher-yatzar-healing-prayer/",
+    "source": "gsc"
+   },
+   {
+    "keyword": "tefillas hashlah",
+    "startPosition": 11,
+    "currentPosition": 12,
+    "onPage1": false,
+    "change": -1,
+    "impressions": 243,
+    "gscPosition90": 12,
+    "semrushPosition": null,
+    "url": "https://rmbhcharities.com/tefillas-hashlah-prayer-for-blessed-children/",
+    "source": "gsc"
+   },
+   {
+    "keyword": "parshas hamon",
+    "startPosition": 11,
+    "currentPosition": 9,
+    "onPage1": true,
+    "change": 2,
+    "impressions": 169,
+    "gscPosition90": 9,
+    "semrushPosition": null,
+    "url": "https://rmbhcharities.com/parashas-hamon-prayer-for-parnassah/",
+    "source": "gsc"
+   },
+   {
+    "keyword": "yizkor",
+    "startPosition": 18,
+    "currentPosition": 24,
+    "onPage1": false,
+    "change": -6,
+    "impressions": 107,
+    "gscPosition90": 24,
+    "semrushPosition": null,
+    "url": "https://rmbhcharities.com/merit-for-departed/yizkor/",
+    "source": "gsc"
+   },
+   {
+    "keyword": "yizkor prayer in english",
+    "startPosition": 13,
+    "currentPosition": 13,
+    "onPage1": false,
+    "change": 0,
+    "impressions": 181,
+    "gscPosition90": 13,
+    "semrushPosition": null,
+    "url": "https://rmbhcharities.com/merit-for-departed/yizkor/",
+    "source": "gsc"
+   },
+   {
+    "keyword": "sitting shiva meaning",
+    "startPosition": 13,
+    "currentPosition": 32,
+    "onPage1": false,
+    "change": -19,
+    "impressions": 153,
+    "gscPosition90": 32,
+    "semrushPosition": null,
+    "url": "https://rmbhcharities.com/legacy-giving/jewish-death-traditions/shiva-traditions/",
+    "source": "gsc"
+   },
+   {
+    "keyword": "jewish sympathy messages",
+    "startPosition": 12,
+    "currentPosition": 14,
+    "onPage1": false,
+    "change": -2,
+    "impressions": 121,
+    "gscPosition90": 14,
+    "semrushPosition": null,
+    "url": "https://rmbhcharities.com/resources/jewish-mourning-period-child-loss/",
+    "source": "gsc"
+   },
+   {
+    "keyword": "bar mitzvah meaning",
+    "startPosition": 15,
+    "currentPosition": 24,
+    "onPage1": false,
+    "change": -9,
+    "impressions": 24,
+    "gscPosition90": 24,
+    "semrushPosition": null,
+    "url": "https://rmbhcharities.com/bar-mitzvah/",
+    "source": "gsc"
+   },
+   {
+    "keyword": "bris milah",
+    "startPosition": 13,
+    "currentPosition": 11,
+    "onPage1": false,
+    "change": 2,
+    "impressions": 177,
+    "gscPosition90": 11,
+    "semrushPosition": null,
+    "url": "https://rmbhcharities.com/bris/",
+    "source": "gsc"
+   }
+  ]
+ }
 }
