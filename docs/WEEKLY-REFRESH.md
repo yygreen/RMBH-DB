@@ -42,7 +42,11 @@ procedure verified live on 2026-08-18.
      instead of writing.
    - Do NOT touch `goal1.last30` (it is the engagement BASELINE window, 30 days to Jun 15).
    - Stamp top-level `lastUpdated` with the current UTC time — only if the merge succeeded.
-4. **Validate**: `python3 -c "import json; json.load(open('site/data.json'))"` and eyeball the
+4. **Save the crawl** to `docs/gsc-daily/<today>.json` (date → clicks/impressions/position).
+   The first run of a new month needs this: its 30-day window can't reach the old month's
+   first days, so finalize the completed month by combining the previous run's snapshot
+   (for the early days) with the fresh window (for the rest — fresher values win on overlap).
+5. **Validate**: `python3 -c "import json; json.load(open('site/data.json'))"` and eyeball the
    changed rows.
 5. **Commit and push** to `claude/rmbh-dashboard-project-2sdzj2` with a message noting the
    crawl window.
