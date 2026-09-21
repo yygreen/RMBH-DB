@@ -1,5 +1,5 @@
 {
- "lastUpdated": "2026-09-14T05:24:40.000Z",
+ "lastUpdated": "2026-09-21T05:25:01.000Z",
  "dataSource": "Google Search Console + Google Analytics 4 · auto-refreshed",
  "engagement": {
   "client": "Rabbi Meir Baal Haness Charities",
@@ -117,9 +117,9 @@
    },
    {
     "month": "2026-09",
-    "visitors": 1313,
-    "impressions": 66924,
-    "position": 8.7,
+    "visitors": 2317,
+    "impressions": 117190,
+    "position": 8.3,
     "ctr": 2.0,
     "priorYear": 2750
    }
@@ -477,10 +477,6 @@
   },
   "history13wk": [
    {
-    "weekStart": "2026-06-22",
-    "visitors": 523
-   },
-   {
     "weekStart": "2026-06-29",
     "visitors": 471
    },
@@ -522,10 +518,14 @@
    },
    {
     "weekStart": "2026-09-07",
-    "visitors": 805
+    "visitors": 862
    },
    {
     "weekStart": "2026-09-14",
+    "visitors": 947
+   },
+   {
+    "weekStart": "2026-09-21",
     "visitors": null
    }
   ],
